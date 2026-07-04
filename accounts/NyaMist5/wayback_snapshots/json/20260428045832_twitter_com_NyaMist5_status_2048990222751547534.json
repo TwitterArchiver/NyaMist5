@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2048990222751547534",
+    "created_at": "2026-04-28T04:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:58:17.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048990160059277379",
+      "2048990222751547534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cbscfe/status/…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/cbscfe/status/2048867090300580071",
+          "start": 99,
+          "url": "https://t.co/RWFKLvQhC2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048990222751547534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048867090300580071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "18岁就精通\n中文（中国大陆）\n中文（香港）\n中文（澳門）\n中文（台灣）\n中文（马来西亚）\n中文（新加坡）\nاللغة العربية（الأُرْدُن）\nДонгган（回）\n8种语言什么水平 https://t.co/RWFKLvQhC2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2048990160059277379",
+        "created_at": "2026-04-28T04:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:58:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048990160059277379",
+          "2048990222751547534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cbscfe/status/…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/cbscfe/status/2048867090300580071",
+              "start": 98,
+              "url": "https://t.co/RWFKLvQhC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048990160059277379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048867090300580071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "18岁就精通\n中文（中国大陆）\n中文（香港）\n中文（澳門）\n中文（台灣）\n中文（马来西亚）\n中文（新加坡）\nاللغة العربية（الأُرْدُن）\nДонгган（回）\n8种语言如何呢 https://t.co/RWFKLvQhC2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2048990222751547534",
+        "created_at": "2026-04-28T04:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:58:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048990160059277379",
+          "2048990222751547534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cbscfe/status/…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/cbscfe/status/2048867090300580071",
+              "start": 99,
+              "url": "https://t.co/RWFKLvQhC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048990222751547534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048867090300580071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "18岁就精通\n中文（中国大陆）\n中文（香港）\n中文（澳門）\n中文（台灣）\n中文（马来西亚）\n中文（新加坡）\nاللغة العربية（الأُرْدُن）\nДонгган（回）\n8种语言什么水平 https://t.co/RWFKLvQhC2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2048867090300580071",
+        "created_at": "2026-04-27T20:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T21:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048867090300580071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/zqtlovekris99/status/2048629211041050635",
+              "start": 163,
+              "url": "https://t.co/4bJsrn7mXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048867090300580071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048629211041050635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "15岁就精通\n中文（中国大陆）\n中文（香港）\n中文（澳門）\n中文（台灣）\n中文（马来西亚）\n中文（新加坡）\nEnglish (Australia)\nEnglish (Canada)\nEnglish (United Kingdom)\nEnglish (New Zealand)\nEnglish (US)\n11种语言是什么水平？ https://t.co/4bJsrn7mXU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "已退役oder💊/生产日期：2007.11.26/逃生舱@HECIz6/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "HECIz6"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 482,
+          "like_count": 896,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1518
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n(outdated sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 403,
+          "like_count": 20350,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 4293
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

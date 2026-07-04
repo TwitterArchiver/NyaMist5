@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2046612098478944597",
+    "created_at": "2026-04-22T01:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T02:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046768280879452232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779149099084009472",
+          "start": 0,
+          "username": "MikuLoverr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046768280879452232",
+    "in_reply_to_user_id": "1779149099084009472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046612098478944597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuLoverr_ 太好了，我成真女孩了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_2046612096021102592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcG26BbAAAVLPy.jpg",
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2046612098478944597",
+        "created_at": "2026-04-22T01:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046768280879452232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779149099084009472",
+              "start": 0,
+              "username": "MikuLoverr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046768280879452232",
+        "in_reply_to_user_id": "1779149099084009472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046612098478944597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuLoverr_ 太好了，我成真女孩了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046612096021102592"
+          ]
+        },
+        "author_id": "1779149099084009472",
+        "conversation_id": "2046612098478944597",
+        "created_at": "2026-04-21T15:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046612098478944597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0BhlW0a16a",
+              "end": 42,
+              "expanded_url": "https://x.com/MikuLoverr_/status/2046612098478944597/photo/1",
+              "media_key": "3_2046612096021102592",
+              "start": 19,
+              "url": "https://t.co/0BhlW0a16a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046612098478944597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 527,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们\n我们不od的已经被开除跨籍了 https://t.co/0BhlW0a16a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 461,
+          "like_count": 879,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1493
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-13T14:06:24.000Z",
+        "description": "Miku单推人/抑郁疯癫二相体/SRS预备/音游痴迷/重庆09年17岁理科牲/mtf🏳️‍⚧️/里推 @HiddenEmmMiku/双相ADHD感统失调/恋人 @WikuWiku1911 /tips：本人玩梗不等同于自己实际立场",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "HiddenEmmMiku"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "WikuWiku1911"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys-api.mihoyo.com/event/download…",
+                "end": 23,
+                "expanded_url": "https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default",
+                "start": 0,
+                "url": "https://t.co/rz5fLl5d1r"
+              }
+            ]
+          }
+        },
+        "id": "1779149099084009472",
+        "location": "劳资蜀道山",
+        "name": "emm🥝",
+        "pinned_tweet_id": "1994783507596677183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007766586707648513/c_VucSAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 1129,
+          "like_count": 30178,
+          "listed_count": 11,
+          "media_count": 973,
+          "tweet_count": 14594
+        },
+        "url": "https://t.co/rz5fLl5d1r",
+        "username": "MikuLoverr_",
+        "verified": false
+      }
+    ]
+  }
+}

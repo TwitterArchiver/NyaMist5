@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2055109693580980619",
+    "created_at": "2026-05-15T03:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T04:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055129930175058024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970857795240226816",
+          "start": 0,
+          "username": "hb9529038697519"
+        },
+        {
+          "end": 33,
+          "id": "1674805643176460288",
+          "start": 17,
+          "username": "YT9763064019541"
+        },
+        {
+          "end": 39,
+          "id": "1720665183188922368",
+          "start": 34,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055129930175058024",
+    "in_reply_to_user_id": "1970857795240226816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055127439463059561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hb9529038697519 @YT9763064019541 @grok 没premium问这句话的时候你更像一个智障"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2055109693580980619",
+        "created_at": "2026-05-15T03:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055129930175058024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970857795240226816",
+              "start": 0,
+              "username": "hb9529038697519"
+            },
+            {
+              "end": 33,
+              "id": "1674805643176460288",
+              "start": 17,
+              "username": "YT9763064019541"
+            },
+            {
+              "end": 39,
+              "id": "1720665183188922368",
+              "start": 34,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055129930175058024",
+        "in_reply_to_user_id": "1970857795240226816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055127439463059561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hb9529038697519 @YT9763064019541 @grok 没premium问这句话的时候你更像一个智障"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970857795240226816",
+        "conversation_id": "2055109693580980619",
+        "created_at": "2026-05-15T03:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055127439463059561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1674805643176460288",
+              "start": 0,
+              "username": "YT9763064019541"
+            },
+            {
+              "end": 22,
+              "id": "1720665183188922368",
+              "start": 17,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055127439463059561",
+        "in_reply_to_user_id": "1674805643176460288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055109693580980619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YT9763064019541 @grok 它和边牧谁更聪明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "扩列：422174271(🍬💉)/生产日期：2007.11.26/逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "HECIz6"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484931238805504/5nHhKS9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 396,
+          "like_count": 921,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1595
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T14:28:25.000Z",
+        "description": "안녕하세요, 저는 대화와 운동을 좋아합니다🏀⚽️175cm 20♂",
+        "id": "1970857795240226816",
+        "location": "Korea",
+        "name": "김정우",
+        "pinned_tweet_id": "2044409283618730404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043238360513490944/zIf5TnqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 11,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 34
+        },
+        "username": "hb9529038697519",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-30T15:43:05.000Z",
+        "description": "//极端厌恶支味儿爆炸的生物//粉蛆、腊左、蝗旱有多远滚多远//中立民国派、自由派//对线从不主动屏蔽//索多玛没有义人//\n紧急逃生舱:\n支黑形态👉@XOX8964\n日常生活👉@Kuyosuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "XOX8964"
+              },
+              {
+                "end": 98,
+                "start": 89,
+                "username": "Kuyosuki"
+              }
+            ]
+          }
+        },
+        "id": "1674805643176460288",
+        "location": "洼地",
+        "name": "库洛米ちゃん",
+        "pinned_tweet_id": "2050371866003742851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045523524845248512/UGPZ74lT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 233,
+          "like_count": 3542,
+          "listed_count": 5,
+          "media_count": 180,
+          "tweet_count": 804
+        },
+        "username": "YT9763064019541",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052556247870865408/oGdJ7sXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8739264,
+          "following_count": 4,
+          "like_count": 94,
+          "listed_count": 6839,
+          "media_count": 8929732,
+          "tweet_count": 125813601
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037114930277867522"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2037091929218023470",
+    "created_at": "2026-03-26T10:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T11:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037114948439171173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2001598933169315840",
+          "start": 0,
+          "username": "XldscX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XWYEYePPhd",
+          "end": 39,
+          "expanded_url": "https://x.com/NyaMist5/status/2037114948439171173/photo/1",
+          "media_key": "3_2037114930277867522",
+          "start": 16,
+          "url": "https://t.co/XWYEYePPhd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037114948439171173",
+    "in_reply_to_user_id": "2001598933169315840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037091929218023470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XldscX 那可太简单了） https://t.co/XWYEYePPhd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2037114948439171173].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2037114948439171173",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2037114948439171173"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037114930277867522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVJPGnbYAI2J4I.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2037091858673999872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEU0QKMaoAAF6pP.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037091858673999872"
+          ]
+        },
+        "author_id": "2001598933169315840",
+        "conversation_id": "2037091929218023470",
+        "created_at": "2026-03-26T08:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037091929218023470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CqZy5wEY6t",
+              "end": 40,
+              "expanded_url": "https://x.com/XldscX/status/2037091929218023470/photo/1",
+              "media_key": "3_2037091858673999872",
+              "start": 17,
+              "url": "https://t.co/CqZy5wEY6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037091929218023470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 558,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "掌握了不割到脂肪也可以流血的技术 https://t.co/CqZy5wEY6t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 461,
+          "like_count": 857,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1418
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "17y.o./xy/友跨顺男/梦想成为肉感男娘/hrt24.4.20/181cm 59kg/平淡而没有任何特长/喜欢Apex,CS,mai&Arcaea和睡觉\n\n可以叫我翎。\n可以蹭蓝标互关，蓝标小号@AzureV1xen \n\n好厚米🇲🇴@letana358121\n对象♥️@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "AzureV1xen"
+              },
+              {
+                "end": 132,
+                "start": 119,
+                "username": "letana358121"
+              },
+              {
+                "end": 147,
+                "start": 137,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/llenium1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/llenium1",
+                "start": 0,
+                "url": "https://t.co/mE8Cawnpdp"
+              }
+            ]
+          }
+        },
+        "id": "2001598933169315840",
+        "location": "🇹🇼中華民國戰時陪都重慶市",
+        "name": "YukaX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031653162483085312/moL7xILD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 426,
+          "like_count": 11955,
+          "listed_count": 1,
+          "media_count": 222,
+          "tweet_count": 4365
+        },
+        "url": "https://t.co/mE8Cawnpdp",
+        "username": "XldscX",
+        "verified": true
+      }
+    ]
+  }
+}

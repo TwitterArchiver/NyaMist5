@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2055272008934388113",
+    "created_at": "2026-05-16T07:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T08:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055557795634983012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1486225700793495552",
+          "start": 0,
+          "username": "ABC13067637"
+        },
+        {
+          "end": 26,
+          "id": "1713161866053292032",
+          "start": 13,
+          "username": "pater1832861"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055557795634983012",
+    "in_reply_to_user_id": "1486225700793495552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055272008934388113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABC13067637 @pater1832861 谁把我开了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2055271999916965888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXK_p_bgAA9Kb6.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2055272008934388113",
+        "created_at": "2026-05-16T07:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055557795634983012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1486225700793495552",
+              "start": 0,
+              "username": "ABC13067637"
+            },
+            {
+              "end": 26,
+              "id": "1713161866053292032",
+              "start": 13,
+              "username": "pater1832861"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055557795634983012",
+        "in_reply_to_user_id": "1486225700793495552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055272008934388113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABC13067637 @pater1832861 谁把我开了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055271999916965888"
+          ]
+        },
+        "author_id": "1486225700793495552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055272008934388113",
+        "created_at": "2026-05-15T13:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055272008934388113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzCIWGoKNK",
+              "end": 29,
+              "expanded_url": "https://x.com/ABC13067637/status/2055272008934388113/photo/1",
+              "media_key": "3_2055271999916965888",
+              "start": 6,
+              "url": "https://t.co/rzCIWGoKNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055272008934388113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 69080,
+          "like_count": 925,
+          "quote_count": 4,
+          "reply_count": 105,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "哪位推友😁 https://t.co/rzCIWGoKNK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "扩列：422174271(🍬💉)/生产日期：2007.11.26/逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "HECIz6"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484931238805504/5nHhKS9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 406,
+          "like_count": 924,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 1612
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-26T06:33:27.000Z",
+        "description": "🏳️‍⚧️|INFP | 软件开发｜喜欢可爱的东西｜同类互fo 喵",
+        "id": "1486225700793495552",
+        "name": "Mizuki酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486227103024844803/BTrXNcAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 427,
+          "like_count": 1523,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 661
+        },
+        "username": "ABC13067637",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T11:56:43.000Z",
+        "description": "幽霊プレインズウォーカー\n\n社会ダーウィン主義ではどうにもならない",
+        "id": "1713161866053292032",
+        "location": "Chuo-ku, Tokyo",
+        "name": "Hanako(second edition)",
+        "pinned_tweet_id": "2020687940293452265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034042728846409728/rvxpTveI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 782,
+          "like_count": 8184,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 646
+        },
+        "username": "pater1832861",
+        "verified": false
+      }
+    ]
+  }
+}

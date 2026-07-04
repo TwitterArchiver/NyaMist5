@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2070442277772890198",
+    "created_at": "2026-06-26T14:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T15:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070507483354014102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740188738469367808",
+          "start": 0,
+          "username": "HJS_2403_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070507483354014102",
+    "in_reply_to_user_id": "1740188738469367808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070442277772890198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HJS_2403_0 アネトン！我也有这个药！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2070442274933325825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuwR4VaQAE9UT3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2070442277772890198",
+        "created_at": "2026-06-26T14:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070507483354014102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740188738469367808",
+              "start": 0,
+              "username": "HJS_2403_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070507483354014102",
+        "in_reply_to_user_id": "1740188738469367808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070442277772890198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HJS_2403_0 アネトン！我也有这个药！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070442274933325825"
+          ]
+        },
+        "author_id": "1740188738469367808",
+        "conversation_id": "2070442277772890198",
+        "created_at": "2026-06-26T09:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070442277772890198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9GGsUsYXR",
+              "end": 96,
+              "expanded_url": "https://x.com/HJS_2403_0/status/2070442277772890198/photo/1",
+              "media_key": "3_2070442274933325825",
+              "start": 73,
+              "url": "https://t.co/m9GGsUsYXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070442277772890198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "アネトン•••\n•ʚ₍ ^ᴗ.ᴗ^ ₎ɞ˚\n\n新しい試み。\n現在、6種類を実験済み。\nᶻz ₍^_   ̫ _^₎\n\n訂正：危険性2、高度な警戒 https://t.co/m9GGsUsYXR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "日产芝麻油/土色天象V:Natsuki_0915/tg: https://t.co/gx52vkhQzR(江苏省内包邮)/🚪20/逃生舱@HECIz6/里推@NyaMist6/07年11月等死老登",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 68,
+                "username": "HECIz6"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 52,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 29,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064980603934756864/VoAdDnwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 403,
+          "like_count": 991,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 1806
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-28T01:51:56.000Z",
+        "description": "我是一些些  \n荒景肆(Arakei Shi)\n繁花園礼肆\n⚠️精神疾患 | Florarium | 文學向@HJS_2403_2\n勘測統系 | INFP-A |🩵🩶心裏建設供給\n虛無与理想的囚徒\n無政治立場 無參與圈子\n程式 寫作 繪畫 願你幸福\n🏳️‍🌈 🏳️‍⚧️ 🦋 🦴 ❤️ ‍🩹 ✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "HJS_2403_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bio.site/AraiShi",
+                "end": 23,
+                "expanded_url": "https://bio.site/AraiShi",
+                "start": 0,
+                "url": "https://t.co/Z3lsqQxLtB"
+              }
+            ]
+          }
+        },
+        "id": "1740188738469367808",
+        "location": "꒰ঌ♫*'✟:｡-願你退此苦海以至願山-｡.:*♡'*♪໒꒱",
+        "name": "閃閃亮 毛茸茸 可可愛愛的一些些",
+        "pinned_tweet_id": "1991772859178610921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005998532231311361/Sk5ocZC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2346,
+          "following_count": 324,
+          "like_count": 55776,
+          "listed_count": 5,
+          "media_count": 976,
+          "tweet_count": 4560
+        },
+        "url": "https://t.co/Z3lsqQxLtB",
+        "username": "HJS_2403_0",
+        "verified": true
+      }
+    ]
+  }
+}

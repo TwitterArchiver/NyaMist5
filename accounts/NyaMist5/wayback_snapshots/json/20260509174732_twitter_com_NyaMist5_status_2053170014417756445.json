@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2052659770759266582",
+    "created_at": "2026-05-09T17:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T18:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053170014417756445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1642768485376999424",
+          "start": 0,
+          "username": "MOxXiE642897461"
+        },
+        {
+          "end": 24,
+          "id": "1685784710285266944",
+          "start": 17,
+          "username": "mhtqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053170014417756445",
+    "in_reply_to_user_id": "1642768485376999424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053110110424330608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MOxXiE642897461 @mhtqwq 妈妈，我再也不做不听群友话的了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2052659770759266582",
+        "created_at": "2026-05-09T17:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053170014417756445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1642768485376999424",
+              "start": 0,
+              "username": "MOxXiE642897461"
+            },
+            {
+              "end": 24,
+              "id": "1685784710285266944",
+              "start": 17,
+              "username": "mhtqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053170014417756445",
+        "in_reply_to_user_id": "1642768485376999424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053110110424330608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MOxXiE642897461 @mhtqwq 妈妈，我再也不做不听群友话的了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642768485376999424",
+        "conversation_id": "2052659770759266582",
+        "created_at": "2026-05-09T13:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053110110424330608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1685784710285266944",
+              "start": 0,
+              "username": "mhtqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053110110424330608",
+        "in_reply_to_user_id": "1685784710285266944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1800,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052659770759266582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhtqwq 他还有推，DukePeter16，内容令人不适慎看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "🍬商：422174271(备注来意)/生产日期：2007.11.26/逃生舱@HECIz6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "HECIz6"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 483,
+          "like_count": 917,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1563
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-03T05:59:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pancake.xin",
+                "end": 23,
+                "expanded_url": "https://pancake.xin",
+                "start": 0,
+                "url": "https://t.co/2DSKg1HFOt"
+              }
+            ]
+          }
+        },
+        "id": "1642768485376999424",
+        "name": "MOxXiE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705064249749504/S5ujSmeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 217,
+          "like_count": 788,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/2DSKg1HFOt",
+        "username": "MOxXiE642897461",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "牢东西｜我只想说何意味｜什么都会点什么都做不好的咸鱼｜差点一口气活了，骗你的我没活｜禁止政治话题｜Minecraft｜格雷科寄｜p社战犯｜杂鱼👀@dancingsnow0517｜可爱男娘@Ran_Mitake37",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "dancingsnow0517"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Ran_Mitake37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp3Fve"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合,人类联邦",
+        "name": "🍓草莓棉花糖🍥",
+        "pinned_tweet_id": "1988657671986376739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5761,
+          "following_count": 408,
+          "like_count": 9228,
+          "listed_count": 14,
+          "media_count": 2547,
+          "tweet_count": 10561
+        },
+        "url": "https://t.co/cLjIhp3Fve",
+        "username": "mhtqwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2049717884268818871",
+    "created_at": "2026-04-30T23:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T00:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049993436590395873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1828259497422528515",
+          "start": 0,
+          "username": "kama292091"
+        },
+        {
+          "end": 28,
+          "id": "1565981667746914304",
+          "start": 12,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049993436590395873",
+    "in_reply_to_user_id": "1828259497422528515",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049717884268818871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kama292091 @Kagura_Yukikaze 晚安"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2047696162044706816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrgz2qbAAAMccH.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2049717884268818871",
+        "created_at": "2026-04-30T23:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T00:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049993436590395873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828259497422528515",
+              "start": 0,
+              "username": "kama292091"
+            },
+            {
+              "end": 28,
+              "id": "1565981667746914304",
+              "start": 12,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049993436590395873",
+        "in_reply_to_user_id": "1828259497422528515",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049717884268818871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kama292091 @Kagura_Yukikaze 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047696162044706816"
+          ]
+        },
+        "author_id": "1828259497422528515",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049717884268818871",
+        "created_at": "2026-04-30T05:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049717884268818871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lc6P4g3bO7",
+              "end": 57,
+              "expanded_url": "https://x.com/kama292091/status/2049717884268818871/photo/1",
+              "media_key": "3_2047696162044706816",
+              "start": 34,
+              "url": "https://t.co/Lc6P4g3bO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049717884268818871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 12935,
+          "like_count": 155,
+          "quote_count": 4,
+          "reply_count": 114,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我等，终将前往极乐，另外，这个帖子发出来说明我成功了，天天开心大家 https://t.co/Lc6P4g3bO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "已退役oder💊/生产日期：2007.11.26/逃生舱@HECIz6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "HECIz6"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 482,
+          "like_count": 905,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1541
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-27T02:33:39.000Z",
+        "description": "",
+        "id": "1828259497422528515",
+        "name": "しろ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007443577316782080/08yOdtvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 1798,
+          "like_count": 21899,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 5203
+        },
+        "username": "kama292091",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2969,
+          "following_count": 2868,
+          "like_count": 103662,
+          "listed_count": 6,
+          "media_count": 771,
+          "tweet_count": 12601
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

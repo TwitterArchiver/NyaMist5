@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2062535401718612460",
+    "created_at": "2026-06-04T14:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062543939568341136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochic_Xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062543939568341136",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062535401718612460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochic_Xyn 一直都有一个好奇的地方，这群b能考出啥来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "3_2062535372857552896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-Y_mvaMAAss3t.jpg",
+        "width": 811
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2062535401718612460",
+        "created_at": "2026-06-04T14:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062543939568341136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochic_Xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062543939568341136",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062535401718612460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochic_Xyn 一直都有一个好奇的地方，这群b能考出啥来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062535372857552896"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2062535401718612460",
+        "created_at": "2026-06-04T14:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062535401718612460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v7U6qxSplL",
+              "end": 23,
+              "expanded_url": "https://x.com/Shioochic_Xyn/status/2062535401718612460/photo/1",
+              "media_key": "3_2062535372857552896",
+              "start": 0,
+              "url": "https://t.co/v7U6qxSplL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062535401718612460",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/v7U6qxSplL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "V:Natsuki_0915(出🍬💉)/tg: https://t.co/cuxhzT92RB逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 50,
+                "username": "HECIz6"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "YeziLoveChen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu/",
+                "end": 47,
+                "expanded_url": "https://t.me/MizusakiWu/",
+                "start": 24,
+                "url": "https://t.co/cuxhzT92RB"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "江苏 中华人民共和国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058588416330391553/9yQ0BPNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 405,
+          "like_count": 951,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 1693
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点｜石图提供者@hiotemaron41774｜友跨顺男@Whatasiger｜友男跨顺@WhitesugarC｜友情链接:https//:https://t.co/lgff7NheVI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Whatasiger"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "WhitesugarC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 160,
+                "expanded_url": "http://whatasiger.xyz",
+                "start": 137,
+                "url": "https://t.co/lgff7NheVI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2062213078062891102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3261,
+          "following_count": 1805,
+          "like_count": 6341,
+          "listed_count": 4,
+          "media_count": 653,
+          "tweet_count": 4676
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

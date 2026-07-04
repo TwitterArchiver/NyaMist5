@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2031966519484432714",
+    "created_at": "2026-03-13T06:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T07:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032339696530178396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Ak1raQ_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032339696530178396",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031966519484432714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak1raQ_love 我说我怎么一天掉了七个fo"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2031966519484432714].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2031966519484432714",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2031966519484432714"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2031966519484432714",
+        "created_at": "2026-03-13T06:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T07:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032339696530178396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032339696530178396",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031966519484432714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 我说我怎么一天掉了七个fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "曾经的悲观阴郁币/咱叫吴水琦(网名吴雾晨)/梦想做一个北欧小姑娘/星宇比较大的小猫(bushi/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Urumqi China",
+        "name": "霧會散（霧晨晨）🌫️🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 326,
+          "like_count": 620,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1209
+        },
+        "username": "NyaMist5",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "愿你被世界温柔以待 / 再遇花时，泪已千行 / 秋月姐姐 @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/3Yo0IgyCS7"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "California, USA",
+        "name": "💫🌸永不言弃🍭🎀",
+        "pinned_tweet_id": "2024847273910571419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026304106730844160/AfC2rQLw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 1006,
+          "like_count": 186024,
+          "listed_count": 3,
+          "media_count": 720,
+          "tweet_count": 6458
+        },
+        "url": "https://t.co/3Yo0IgyCS7",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

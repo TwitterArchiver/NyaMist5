@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2066515696771833922",
+    "created_at": "2026-06-16T12:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T13:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066865853430444097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057506162862686208",
+          "start": 0,
+          "username": "Luoyu147258"
+        },
+        {
+          "end": 28,
+          "id": "1704469304077611008",
+          "start": 13,
+          "username": "jiaoyanboluooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066865853430444097",
+    "in_reply_to_user_id": "2057506162862686208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066515696771833922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luoyu147258 @jiaoyanboluooo cn小鬼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2066515666472177664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK29DL7akAADbbo.jpg",
+        "width": 471
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2066515666493124608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK29DMAaMAANsbO.jpg",
+        "width": 471
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2066515666493161472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK29DMAawAAQxIx.jpg",
+        "width": 471
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2066515666480619520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK29DL9bYAATP6i.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2066515696771833922",
+        "created_at": "2026-06-16T12:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066865853430444097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057506162862686208",
+              "start": 0,
+              "username": "Luoyu147258"
+            },
+            {
+              "end": 28,
+              "id": "1704469304077611008",
+              "start": 13,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066865853430444097",
+        "in_reply_to_user_id": "2057506162862686208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066515696771833922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luoyu147258 @jiaoyanboluooo cn小鬼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066515666472177664",
+            "3_2066515666493124608",
+            "3_2066515666493161472",
+            "3_2066515666480619520"
+          ]
+        },
+        "author_id": "2057506162862686208",
+        "conversation_id": "2066515696771833922",
+        "created_at": "2026-06-15T13:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066515696771833922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bY7MH4hmuE",
+              "end": 28,
+              "expanded_url": "https://x.com/Luoyu147258/status/2066515696771833922/photo/1",
+              "media_key": "3_2066515666472177664",
+              "start": 5,
+              "url": "https://t.co/bY7MH4hmuE"
+            },
+            {
+              "display_url": "pic.x.com/bY7MH4hmuE",
+              "end": 28,
+              "expanded_url": "https://x.com/Luoyu147258/status/2066515696771833922/photo/1",
+              "media_key": "3_2066515666493124608",
+              "start": 5,
+              "url": "https://t.co/bY7MH4hmuE"
+            },
+            {
+              "display_url": "pic.x.com/bY7MH4hmuE",
+              "end": 28,
+              "expanded_url": "https://x.com/Luoyu147258/status/2066515696771833922/photo/1",
+              "media_key": "3_2066515666493161472",
+              "start": 5,
+              "url": "https://t.co/bY7MH4hmuE"
+            },
+            {
+              "display_url": "pic.x.com/bY7MH4hmuE",
+              "end": 28,
+              "expanded_url": "https://x.com/Luoyu147258/status/2066515696771833922/photo/1",
+              "media_key": "3_2066515666480619520",
+              "start": 5,
+              "url": "https://t.co/bY7MH4hmuE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066515696771833922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2129,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "什么生物 https://t.co/bY7MH4hmuE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "日产芝麻油/土色天象V:Natsuki_0915/tg: https://t.co/gx52vkhQzR(江苏省内包邮)/逃生舱@HECIz6/里推@NyaMist6/07年11月等死老登",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 64,
+                "username": "HECIz6"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 52,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 29,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "江苏 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064980603934756864/VoAdDnwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 411,
+          "like_count": 969,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 1737
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-21T16:59:33.000Z",
+        "description": "｜🏳️‍⚧️🍥｜2012.03.06｜hrt：2025.01.24｜是家暴党｜✝️overdose✝️｜已炸柜｜已扭转｜已精卫｜双相｜互fo｜三代目｜对象@huyisusu｜姐姐@luo_240110｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "huyisusu"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "luo_240110"
+              }
+            ]
+          }
+        },
+        "id": "2057506162862686208",
+        "name": "洛雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2059337200496722221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059336209282043904/BJPryx-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 211,
+          "like_count": 342,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 134
+        },
+        "username": "Luoyu147258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761\n给我发送匿名消息！  ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Amour761"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiaoyanboluooo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiaoyanboluooo1",
+                "start": 0,
+                "url": "https://t.co/DbZcrDCjo5"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2062570727690346728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4661,
+          "following_count": 4009,
+          "like_count": 28315,
+          "listed_count": 11,
+          "media_count": 1467,
+          "tweet_count": 6135
+        },
+        "url": "https://t.co/DbZcrDCjo5",
+        "username": "jiaoyanboluooo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2055163722919010311",
+    "created_at": "2026-05-17T23:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T00:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056160555484979603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1773607660333764608",
+          "start": 0,
+          "username": "bhmmIMIfjG91084"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056160555484979603",
+    "in_reply_to_user_id": "1773607660333764608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056150893415055398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bhmmIMIfjG91084 主页"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2055163722919010311",
+        "created_at": "2026-05-17T23:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T00:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056160555484979603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1773607660333764608",
+              "start": 0,
+              "username": "bhmmIMIfjG91084"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056160555484979603",
+        "in_reply_to_user_id": "1773607660333764608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056150893415055398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bhmmIMIfjG91084 主页"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773607660333764608",
+        "conversation_id": "2055163722919010311",
+        "created_at": "2026-05-17T23:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T00:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056150893415055398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056150893415055398",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055163722919010311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 没处方有渠道吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "扩列：422174271(🍬💉)/生产日期：2007.11.26/逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "HECIz6"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484931238805504/5nHhKS9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 408,
+          "like_count": 928,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1626
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-29T07:06:45.000Z",
+        "description": "",
+        "id": "1773607660333764608",
+        "name": "早川晴梓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041136994248761344/2W5-vRxE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 288,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "username": "bhmmIMIfjG91084",
+        "verified": false
+      }
+    ]
+  }
+}

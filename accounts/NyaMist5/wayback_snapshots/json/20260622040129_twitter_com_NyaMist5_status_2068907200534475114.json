@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2068907200534475114",
+    "created_at": "2026-06-22T04:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068907200534475114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1705231188317679746",
+          "start": 100,
+          "url": "https://t.co/l6jpKlRWHv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068907200534475114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1705231188317679746",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实这种性教育很正常，如果家长想要举报的话就没脸让以后的孩子结婚生孩子。毕竟你中国父母认为且实施的是孩子22岁之前不允许接触一切性有关的东西包括早恋，但只要22岁一过就必须一秒自动学会结婚生娃谈恋爱 https://t.co/l6jpKlRWHv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54285,
+        "height": 1280,
+        "media_key": "7_1705231059254751232",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1705231059254751232/pu/img/MouV-rU4zR947_bN.jpg",
+        "public_metrics": {
+          "view_count": 1206248
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1705231059254751232/pu/vid/avc1/320x568/Ih4d-EXi8Ac4lVO8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1705231059254751232/pu/vid/avc1/480x852/838TDEprSvPB-n8M.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1705231059254751232/pu/vid/avc1/720x1280/nzCdqwVP1tYowUNi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1705231059254751232/pu/pl/aKJjJoHmoScYOT1V.m3u8?tag=12&v=d8b"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2068907200534475114",
+        "created_at": "2026-06-22T04:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068907200534475114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1705231188317679746",
+              "start": 100,
+              "url": "https://t.co/l6jpKlRWHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068907200534475114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1705231188317679746",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实这种性教育很正常，如果家长想要举报的话就没脸让以后的孩子结婚生孩子。毕竟你中国父母认为且实施的是孩子22岁之前不允许接触一切性有关的东西包括早恋，但只要22岁一过就必须一秒自动学会结婚生娃谈恋爱 https://t.co/l6jpKlRWHv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1705231059254751232"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1705231188317679746",
+        "created_at": "2023-09-22T14:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2023-09-22T15:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1705231188317679746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nt82uqxAUi",
+              "end": 67,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1705231188317679746/video/1",
+              "media_key": "7_1705231059254751232",
+              "start": 44,
+              "url": "https://t.co/nt82uqxAUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1705231188317679746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1171,
+          "impression_count": 2585978,
+          "like_count": 6617,
+          "quote_count": 158,
+          "reply_count": 752,
+          "retweet_count": 772
+        },
+        "reply_settings": "everyone",
+        "text": "9月21日，珠海某高校举行“艾滋病防控科普进校园”活动。\n现场教授男生如何“打飞机”。 https://t.co/nt82uqxAUi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "日产芝麻油/土色天象V:Natsuki_0915/tg: https://t.co/gx52vkhQzR(江苏省内包邮)/逃生舱@HECIz6/里推@NyaMist6/07年11月等死老登",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 64,
+                "username": "HECIz6"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 52,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 29,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064980603934756864/VoAdDnwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 414,
+          "like_count": 980,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 1774
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237898,
+          "following_count": 1072,
+          "like_count": 9728,
+          "listed_count": 8803,
+          "media_count": 49015,
+          "tweet_count": 56184
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

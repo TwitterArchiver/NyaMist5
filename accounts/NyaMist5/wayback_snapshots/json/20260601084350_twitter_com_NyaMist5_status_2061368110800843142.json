@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2061059377428099147",
+    "created_at": "2026-06-01T08:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T09:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061368110800843142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2036623624053112832",
+          "start": 0,
+          "username": "HuiShi46820"
+        },
+        {
+          "end": 25,
+          "id": "1957004123636969472",
+          "start": 13,
+          "username": "dorgan_1224"
+        },
+        {
+          "end": 39,
+          "id": "1813561571941183488",
+          "start": 26,
+          "username": "careforme123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061368110800843142",
+    "in_reply_to_user_id": "2036623624053112832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061307743013896510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuiShi46820 @dorgan_1224 @careforme123 没有你们天天禁禁禁那会有那么多事，不禁烟不禁酒非得搞大麻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2061059377428099147",
+        "created_at": "2026-06-01T08:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061368110800843142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2036623624053112832",
+              "start": 0,
+              "username": "HuiShi46820"
+            },
+            {
+              "end": 25,
+              "id": "1957004123636969472",
+              "start": 13,
+              "username": "dorgan_1224"
+            },
+            {
+              "end": 39,
+              "id": "1813561571941183488",
+              "start": 26,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061368110800843142",
+        "in_reply_to_user_id": "2036623624053112832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061307743013896510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuiShi46820 @dorgan_1224 @careforme123 没有你们天天禁禁禁那会有那么多事，不禁烟不禁酒非得搞大麻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036623624053112832",
+        "conversation_id": "2061059377428099147",
+        "created_at": "2026-06-01T04:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061307743013896510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1957004123636969472",
+              "start": 0,
+              "username": "dorgan_1224"
+            },
+            {
+              "end": 26,
+              "id": "1813561571941183488",
+              "start": 13,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061307743013896510",
+        "in_reply_to_user_id": "1957004123636969472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061304626369183912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dorgan_1224 @careforme123 你跟我说不影响其他人，那我问你毒驾是什么，大麻也是毒品之一，吸毒以后是不是会产生各种幻觉去祸害别人，看你说这种话估计也是要么吸毒要么贩毒的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "V:Natsuki_0915(出🍬💉)/tg: https://t.co/cuxhzT92RB逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 50,
+                "username": "HECIz6"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "YeziLoveChen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu/",
+                "end": 47,
+                "expanded_url": "https://t.me/MizusakiWu/",
+                "start": 24,
+                "url": "https://t.co/cuxhzT92RB"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "江苏 中华人民共和国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058588416330391553/9yQ0BPNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 405,
+          "like_count": 959,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1679
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-25T01:59:00.000Z",
+        "description": "",
+        "id": "2036623624053112832",
+        "name": "星辰_梦语🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036624636646232064/VwDIB8nT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 28,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 139
+        },
+        "username": "HuiShi46820",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T08:58:53.000Z",
+        "description": "学生，人类，半活",
+        "id": "1957004123636969472",
+        "name": "冬岸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034866477111943171/NBAvq0EV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 75,
+          "like_count": 1669,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 926
+        },
+        "username": "dorgan_1224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2000,
+          "following_count": 741,
+          "like_count": 6628,
+          "listed_count": 5,
+          "media_count": 679,
+          "tweet_count": 2664
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

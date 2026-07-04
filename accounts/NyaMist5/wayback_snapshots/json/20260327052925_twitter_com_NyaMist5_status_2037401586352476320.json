@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2037126790460956785",
+    "created_at": "2026-03-27T05:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T06:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037401586352476320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1144143792",
+          "start": 0,
+          "username": "__Crazy_Kid__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037401586352476320",
+    "in_reply_to_user_id": "1144143792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037126790460956785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@__Crazy_Kid__ 我不是wmc啊😨😨😨😭😭😭🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2037126790460956785",
+        "created_at": "2026-03-27T05:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037401586352476320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1144143792",
+              "start": 0,
+              "username": "__Crazy_Kid__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037401586352476320",
+        "in_reply_to_user_id": "1144143792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037126790460956785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@__Crazy_Kid__ 我不是wmc啊😨😨😨😭😭😭🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1144143792",
+        "conversation_id": "2037126790460956785",
+        "created_at": "2026-03-26T11:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037126790460956785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037126790460956785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 15284,
+          "like_count": 225,
+          "quote_count": 0,
+          "reply_count": 126,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "舞萌痴可以回复这个贴文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 461,
+          "like_count": 864,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1425
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2013-02-03T04:12:28.000Z",
+        "description": "Backend developer / sbwmc / 全网第一台maimaiでらっくす四轮痛车车主 / 偶尔看点邦多利 / 不键政，不要影响我打音游和看live",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crazykid.moe",
+                "end": 23,
+                "expanded_url": "https://crazykid.moe/",
+                "start": 0,
+                "url": "https://t.co/bAk8eapyNo"
+              }
+            ]
+          }
+        },
+        "id": "1144143792",
+        "location": "中国",
+        "name": "CrazyKid",
+        "pinned_tweet_id": "1709067298974371886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871838337549606912/3vqW7t43_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4990,
+          "following_count": 1556,
+          "like_count": 18484,
+          "listed_count": 31,
+          "media_count": 10427,
+          "tweet_count": 48606
+        },
+        "url": "https://t.co/bAk8eapyNo",
+        "username": "__Crazy_Kid__",
+        "verified": true
+      }
+    ]
+  }
+}

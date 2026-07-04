@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2045810091237196063",
+    "created_at": "2026-04-19T10:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T11:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045810091237196063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1762636006207913984",
+          "start": 3,
+          "username": "konx9527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045810091237196063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045428768634773611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @konx9527: 同龄人感冒发烧的时候我已经得上抑郁症和易性症了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2045810091237196063",
+        "created_at": "2026-04-19T10:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045810091237196063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1762636006207913984",
+              "start": 3,
+              "username": "konx9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045810091237196063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045428768634773611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @konx9527: 同龄人感冒发烧的时候我已经得上抑郁症和易性症了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762636006207913984",
+        "conversation_id": "2045428768634773611",
+        "created_at": "2026-04-18T09:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045428768634773611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045428768634773611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同龄人感冒发烧的时候我已经得上抑郁症和易性症了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 458,
+          "like_count": 867,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1478
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-28T00:29:13.000Z",
+        "description": "INFP/🏳️‍⚧️ mtf 泛性恋 欢迎互fo 几乎不发帖子我不会fo     始于2008 she/her",
+        "id": "1762636006207913984",
+        "name": "Kumoka",
+        "pinned_tweet_id": "2034907760522141790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034675751237427200/eXt6q2t__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 823,
+          "like_count": 5778,
+          "listed_count": 2,
+          "media_count": 351,
+          "tweet_count": 3208
+        },
+        "username": "konx9527",
+        "verified": false
+      }
+    ]
+  }
+}

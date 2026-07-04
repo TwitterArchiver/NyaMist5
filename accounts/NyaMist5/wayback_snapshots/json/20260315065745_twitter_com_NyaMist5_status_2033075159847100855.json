@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "1837877716051526035",
+    "created_at": "2026-03-15T06:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T07:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033075159847100855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1688175489557655552",
+          "start": 0,
+          "username": "EkoKobayas86791"
+        },
+        {
+          "end": 30,
+          "id": "1604687020286423040",
+          "start": 17,
+          "username": "shiyueyueshi"
+        },
+        {
+          "end": 41,
+          "id": "1191345050317312000",
+          "start": 31,
+          "username": "Criss1573"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033075159847100855",
+    "in_reply_to_user_id": "1688175489557655552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837877716051526035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EkoKobayas86791 @shiyueyueshi @Criss1573 唔啊好痛痛欸！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37012,
+        "height": 720,
+        "media_key": "7_1837875333703651328",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1837875333703651328/pu/img/EJSNBWMH10XrukAO.jpg",
+        "public_metrics": {
+          "view_count": 15640
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1837875333703651328/pu/vid/avc1/480x270/9wdG3zJz8E9pKC9j.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1837875333703651328/pu/vid/avc1/640x360/esHSAHuk09sifVMu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1837875333703651328/pu/vid/avc1/1280x720/livHUqV3ABgzMSfe.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1837875333703651328/pu/pl/rfqJ6yqx8kvMlT-S.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "1837877716051526035",
+        "created_at": "2026-03-15T06:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T07:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033075159847100855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1688175489557655552",
+              "start": 0,
+              "username": "EkoKobayas86791"
+            },
+            {
+              "end": 30,
+              "id": "1604687020286423040",
+              "start": 17,
+              "username": "shiyueyueshi"
+            },
+            {
+              "end": 41,
+              "id": "1191345050317312000",
+              "start": 31,
+              "username": "Criss1573"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033075159847100855",
+        "in_reply_to_user_id": "1688175489557655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837877716051526035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EkoKobayas86791 @shiyueyueshi @Criss1573 唔啊好痛痛欸！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1837875333703651328"
+          ]
+        },
+        "author_id": "1688175489557655552",
+        "conversation_id": "1837877716051526035",
+        "created_at": "2024-09-22T15:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T16:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837877716051526035"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 143,
+              "id": "1604687020286423040",
+              "start": 130,
+              "username": "shiyueyueshi"
+            },
+            {
+              "end": 157,
+              "id": "1191345050317312000",
+              "start": 147,
+              "username": "Criss1573"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lalj3HzPE0",
+              "end": 181,
+              "expanded_url": "https://x.com/EkoKobayas86791/status/1837877716051526035/video/1",
+              "media_key": "7_1837875333703651328",
+              "start": 158,
+              "url": "https://t.co/Lalj3HzPE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837877716051526035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 39660,
+          "like_count": 450,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "#kigurumi *本音暴露警告*\n因为在办公室里当偷腥猫勾引老师，所以被老师抓给时月大魔王和她手下的众多坏比们狠狠地惩罚了\n“好你个小馋猫，下次还敢不敢勾引教职人员呀？”（抽屁股）\n“呜呜呜······老师我错了···呜呜呜···老师！救我口牙！！”\n绳师@shiyueyueshi \n摄影@Criss1573 https://t.co/Lalj3HzPE0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散（霧晨晨）🌫️🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 403,
+          "like_count": 700,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1280
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-06T13:09:50.000Z",
+        "description": "＃kigurumi/#latex/摄影，是雌小鬼（叉腰）\n常驻广佛市，偶尔会在珠三角其他城市出现\n平时是清水，偶尔有涩涩NSFW🔞注意\nbsky：@haakane114.bsky.social",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "kigurumi"
+              },
+              {
+                "end": 16,
+                "start": 10,
+                "tag": "latex"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "haakane114"
+              }
+            ]
+          }
+        },
+        "id": "1688175489557655552",
+        "location": "Queen's  Road  East",
+        "name": "羽茜_Kobayashi",
+        "pinned_tweet_id": "1754437274031325204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951631309387788289/M5XYUVgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9499,
+          "following_count": 1395,
+          "like_count": 3960,
+          "listed_count": 54,
+          "media_count": 232,
+          "tweet_count": 765
+        },
+        "username": "EkoKobayas86791",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-19T03:56:27.000Z",
+        "description": "INTP-T|抖M|看见可爱的会变得S|XP复合体,清水摄摄捆绑拘束全包tk胶衣kig三坑各种小裙子，全都喜欢，拒绝脏、残、伤害性.kig角色：甘雨绫华梦梦符玄刻晴神子今汐千织深渊荧女漂丝柯克知更鸟",
+        "id": "1604687020286423040",
+        "location": "深圳",
+        "name": "时月",
+        "pinned_tweet_id": "2031584334667481370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629386052447395840/HWXPq8-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49354,
+          "following_count": 668,
+          "like_count": 3180,
+          "listed_count": 200,
+          "media_count": 433,
+          "tweet_count": 2056
+        },
+        "username": "shiyueyueshi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-04T13:22:56.000Z",
+        "description": "emm...162/47 年龄与自身不符 别问 问就18 超级内向 没有话题 拒绝任何性骚扰的问题哦 可能选择性无视 严重的话直接屏蔽哦 喜欢可爱的男孩纸/阔爱jiojio/白袜/裤袜/捆绑/女装(继续发掘)...",
+        "id": "1191345050317312000",
+        "location": "Shenzhen",
+        "name": "Criss",
+        "pinned_tweet_id": "1807860187166040185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827930216267739137/a7_eR_ws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23644,
+          "following_count": 2508,
+          "like_count": 13239,
+          "listed_count": 94,
+          "media_count": 446,
+          "tweet_count": 3856
+        },
+        "username": "Criss1573",
+        "verified": false
+      }
+    ]
+  }
+}

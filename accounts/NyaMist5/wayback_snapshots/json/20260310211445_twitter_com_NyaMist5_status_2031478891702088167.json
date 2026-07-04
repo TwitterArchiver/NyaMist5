@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2031478891702088167",
+    "created_at": "2026-03-10T21:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T22:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031478891702088167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/limerosk/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/limerosk/status/2031281966184558851",
+          "start": 11,
+          "url": "https://t.co/4O17AEFNtN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031478891702088167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031281966184558851",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你妈了个逼老子刚成年 https://t.co/4O17AEFNtN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1285,
+        "media_key": "3_2031281956902916096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCQLXfb0AAq-Qq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2031478891702088167",
+        "created_at": "2026-03-10T21:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T22:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031478891702088167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/limerosk/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/limerosk/status/2031281966184558851",
+              "start": 11,
+              "url": "https://t.co/4O17AEFNtN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031478891702088167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031281966184558851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你妈了个逼老子刚成年 https://t.co/4O17AEFNtN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031281956902916096"
+          ]
+        },
+        "author_id": "1516668413275430912",
+        "conversation_id": "2031281966184558851",
+        "created_at": "2026-03-10T08:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T09:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031281966184558851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qQbfDxa8w9",
+              "end": 26,
+              "expanded_url": "https://x.com/LimeRosk/status/2031281966184558851/photo/1",
+              "media_key": "3_2031281956902916096",
+              "start": 3,
+              "url": "https://t.co/qQbfDxa8w9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031281966184558851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 152030,
+          "like_count": 777,
+          "quote_count": 36,
+          "reply_count": 170,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼 https://t.co/qQbfDxa8w9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "曾经的悲观阴郁币/咱叫吴水琦(网名吴雾晨)/梦想做一个北欧小姑娘/星宇比较大的小猫(bushi/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Urumqi China",
+        "name": "霧會散（霧晨晨）🌫️🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 320,
+          "like_count": 593,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1184
+        },
+        "username": "NyaMist5",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-20T06:42:03.000Z",
+        "description": "你好！这里是Rosk/天洛，是一只赛博风格的小狼｜本推仅用于更新日常及正常Furrysuit内容｜喜欢人外/敷面/机甲/龙/furry｜无🔞｜无情的转贴bot↪️@Roskowo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 81,
+                "username": "Roskowo"
+              }
+            ]
+          }
+        },
+        "id": "1516668413275430912",
+        "name": "𝙍𝙤𝙨𝙠",
+        "pinned_tweet_id": "2022029993522720850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984043286705971200/iJXFgZ0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10822,
+          "following_count": 1052,
+          "like_count": 13174,
+          "listed_count": 16,
+          "media_count": 1654,
+          "tweet_count": 7361
+        },
+        "username": "LimeRosk",
+        "verified": false
+      }
+    ]
+  }
+}

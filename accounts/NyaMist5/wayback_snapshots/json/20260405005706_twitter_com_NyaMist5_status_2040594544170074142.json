@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040588996905181184"
+      ],
+      "media_source_tweet_id": [
+        "2040589012780581195"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040594544170074142",
+    "created_at": "2026-04-05T00:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T01:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040594544170074142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2040437468176986112",
+          "start": 3,
+          "username": "jiujiuSama8012"
+        },
+        {
+          "end": 37,
+          "id": "1923225863602294784",
+          "start": 22,
+          "username": "jiujiuSama8512"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uka2Apibxi",
+          "end": 66,
+          "expanded_url": "https://x.com/jiujiuSama8012/status/2040589012780581195/photo/1",
+          "media_key": "3_2040588996905181184",
+          "start": 43,
+          "url": "https://t.co/uka2Apibxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040594544170074142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040589012780581195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiujiuSama8012: 原号@jiujiuSama8512彻底死了艹 https://t.co/uka2Apibxi"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [jiujiuSama8512].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "jiujiuSama8512",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "jiujiuSama8512"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1813,
+        "media_key": "3_2040588996905181184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGg4ZUaoAAcpto.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040588996905181184"
+          ],
+          "media_source_tweet_id": [
+            "2040589012780581195"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040594544170074142",
+        "created_at": "2026-04-05T00:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T01:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040594544170074142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2040437468176986112",
+              "start": 3,
+              "username": "jiujiuSama8012"
+            },
+            {
+              "end": 37,
+              "id": "1923225863602294784",
+              "start": 22,
+              "username": "jiujiuSama8512"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uka2Apibxi",
+              "end": 66,
+              "expanded_url": "https://x.com/jiujiuSama8012/status/2040589012780581195/photo/1",
+              "media_key": "3_2040588996905181184",
+              "start": 43,
+              "url": "https://t.co/uka2Apibxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040594544170074142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040589012780581195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiujiuSama8012: 原号@jiujiuSama8512彻底死了艹 https://t.co/uka2Apibxi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040588996905181184"
+          ]
+        },
+        "author_id": "2040437468176986112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040589012780581195",
+        "created_at": "2026-04-05T00:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T01:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040589012780581195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1923225863602294784",
+              "start": 2,
+              "username": "jiujiuSama8512"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uka2Apibxi",
+              "end": 46,
+              "expanded_url": "https://x.com/jiujiuSama8012/status/2040589012780581195/photo/1",
+              "media_key": "3_2040588996905181184",
+              "start": 23,
+              "url": "https://t.co/uka2Apibxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040589012780581195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "原号@jiujiuSama8512彻底死了艹 https://t.co/uka2Apibxi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 463,
+          "like_count": 858,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1440
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-04T14:33:20.000Z",
+        "description": "这里是玖玖转生二号机｜原号@jiujiuSama8512莫名其妙的被封了呜呜呜😭｜09未成年mtf｜高中在读｜欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "jiujiuSama8512"
+              }
+            ]
+          }
+        },
+        "id": "2040437468176986112",
+        "name": "玖玖Sama🍥（推油寻回中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040437569645604864/R20oS15m_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 17,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "username": "jiujiuSama8012",
+        "verified": false
+      }
+    ]
+  }
+}

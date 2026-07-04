@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2070429110514635224",
+    "created_at": "2026-06-27T00:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T01:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070669692419833959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1923225863602294784",
+          "start": 0,
+          "username": "jiujiuSama8512"
+        },
+        {
+          "end": 30,
+          "id": "1598557374046179328",
+          "start": 16,
+          "username": "huihui_mikumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070669692419833959",
+    "in_reply_to_user_id": "1923225863602294784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070464220437819477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiujiuSama8512 @huihui_mikumi 这又男娘上了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2070429110514635224",
+        "created_at": "2026-06-27T00:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T01:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070669692419833959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1923225863602294784",
+              "start": 0,
+              "username": "jiujiuSama8512"
+            },
+            {
+              "end": 30,
+              "id": "1598557374046179328",
+              "start": 16,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070669692419833959",
+        "in_reply_to_user_id": "1923225863602294784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070464220437819477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiujiuSama8512 @huihui_mikumi 这又男娘上了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923225863602294784",
+        "conversation_id": "2070429110514635224",
+        "created_at": "2026-06-26T11:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070464220437819477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070464220437819477",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070429110514635224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 偷换逻辑懒得喷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "日产芝麻油/土色天象V:Natsuki_0915/tg: https://t.co/gx52vkhQzR(江苏省内包邮)/🚪20/逃生舱@HECIz6/里推@NyaMist6/07年11月等死老登",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 68,
+                "username": "HECIz6"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 52,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 29,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064980603934756864/VoAdDnwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 405,
+          "like_count": 993,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 1809
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-16T03:55:58.000Z",
+        "description": "09年的未成年MTF，173/62kg 高中牲，欢迎同类互fo，家长不管党，忧郁意识流药娘，负能警告⚠️，HRT2024.7.12,同类可以直接问好友位喵",
+        "id": "1923225863602294784",
+        "location": "❣️-520",
+        "name": "玖玖Sama🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962168976668307457/zf9I-jll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 171,
+          "like_count": 183,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 990
+        },
+        "url": "",
+        "username": "jiujiuSama8512",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "nagis1a"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广东韶关",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 867,
+          "like_count": 880,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 2174
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2052039031790420333",
+    "created_at": "2026-05-06T17:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T18:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052085052830626267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052085052830626267",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052039031790420333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 你不是卖烟的嘛？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 716,
+        "media_key": "3_2052039028246298624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpOn7_bwAAioBl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2052039031790420333",
+        "created_at": "2026-05-06T17:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052085052830626267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052085052830626267",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052039031790420333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 你不是卖烟的嘛？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052039028246298624"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2052039031790420333",
+        "created_at": "2026-05-06T14:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052039031790420333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PR8mPMdlU0",
+              "end": 32,
+              "expanded_url": "https://x.com/hg3551019177402/status/2052039031790420333/photo/1",
+              "media_key": "3_2052039028246298624",
+              "start": 9,
+              "url": "https://t.co/PR8mPMdlU0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052039031790420333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2476,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是关我屁事？😨 https://t.co/PR8mPMdlU0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "🍬商：422174271(备注来意)/生产日期：2007.11.26/逃生舱@HECIz6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "HECIz6"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 484,
+          "like_count": 915,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1554
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "干点烟代，电子烟纸烟 （新表单在做了）可散发，邮费12买的多包邮，也有电子烟，什么都有，问一些高端稀缺的电子烟（日韩）可能要等一下好兄弟问价格。",
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2050964173111321004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 777,
+          "like_count": 18211,
+          "listed_count": 1,
+          "media_count": 673,
+          "tweet_count": 9393
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

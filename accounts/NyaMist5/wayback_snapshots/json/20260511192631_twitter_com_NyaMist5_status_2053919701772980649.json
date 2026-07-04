@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2053890477003530710",
+    "created_at": "2026-05-11T19:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T20:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053919701772980649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2048440861181235200",
+          "start": 0,
+          "username": "Yinhuau15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053919701772980649",
+    "in_reply_to_user_id": "2048440861181235200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053890477003530710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yinhuau15 我就是塔城人，西北中的西北，现在定居无锡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2053890477003530710",
+        "created_at": "2026-05-11T19:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T20:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053919701772980649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048440861181235200",
+              "start": 0,
+              "username": "Yinhuau15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053919701772980649",
+        "in_reply_to_user_id": "2048440861181235200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053890477003530710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yinhuau15 我就是塔城人，西北中的西北，现在定居无锡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048440861181235200",
+        "conversation_id": "2053890477003530710",
+        "created_at": "2026-05-11T17:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053890477003530710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053890477003530710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这推特还是南方人和发达城市的多 我感觉就没见过西北这边的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "🍬商：422174271(备注来意)/生产日期：2007.11.26/逃生舱@HECIz6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "HECIz6"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484931238805504/5nHhKS9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 393,
+          "like_count": 920,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1584
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-26T16:36:53.000Z",
+        "description": "认识你我很开心\n但是我真的是未成年 不会约的",
+        "id": "2048440861181235200",
+        "location": "距离你0.5公里",
+        "name": "与海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048441445745590273/5EXL9NRS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 72,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 124
+        },
+        "username": "Yinhuau15",
+        "verified": false
+      }
+    ]
+  }
+}

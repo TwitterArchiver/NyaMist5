@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2071857042252505553",
+    "created_at": "2026-07-01T00:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T01:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072116734283440380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "721380109110743040",
+          "start": 0,
+          "username": "FateBringer7414"
+        },
+        {
+          "end": 32,
+          "id": "1918274202580467713",
+          "start": 17,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072116734283440380",
+    "in_reply_to_user_id": "721380109110743040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071953451593211924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FateBringer7414 @CyberKanjousen 长沙电话区号不说话了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2071857042252505553",
+        "created_at": "2026-07-01T00:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T01:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072116734283440380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "721380109110743040",
+              "start": 0,
+              "username": "FateBringer7414"
+            },
+            {
+              "end": 32,
+              "id": "1918274202580467713",
+              "start": 17,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072116734283440380",
+        "in_reply_to_user_id": "721380109110743040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071953451593211924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FateBringer7414 @CyberKanjousen 长沙电话区号不说话了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "721380109110743040",
+        "conversation_id": "2071857042252505553",
+        "created_at": "2026-06-30T13:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071953451593211924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071953451593211924",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 977,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071857042252505553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 中國的高鐵731班次就不說話了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "日产芝麻油/土色天象V:Natsuki_0915/tg: https://t.co/gx52vkhQzR(江苏省内包邮)/🚪20/逃生舱@HECIz6/里推@NyaMist6/07年11月等死老登",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 68,
+                "username": "HECIz6"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 52,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 29,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071275138860077056/Dvb0uiUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 403,
+          "like_count": 995,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 1829
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2016-04-16T16:49:55.000Z",
+        "description": "",
+        "id": "721380109110743040",
+        "location": "Taiwan",
+        "name": "TypeName",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465141206493822978/jvShPRK3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 36,
+          "like_count": 1139,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 506
+        },
+        "url": "",
+        "username": "FateBringer7414",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8664,
+          "following_count": 878,
+          "like_count": 28852,
+          "listed_count": 13,
+          "media_count": 1791,
+          "tweet_count": 9269
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2033225589289886147",
+    "created_at": "2026-03-15T16:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T17:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033225589289886147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974276207496867842",
+          "start": 3,
+          "username": "DXMDusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033225589289886147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033185792689086701",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DXMDusk: 关于愈美呕吐的问题！\n胃不吸收愚昧，小肠才吸收愚昧，这也是为什么很多人服药后一个半小时后才开始呕吐的原因\n胃承担的主要功能是把食物磨碎的初步工作\n而打粉装肠溶胶囊，恰好可以跳~过胃的工作\n同时最重要的是肠溶，为什么呢？\n呕吐，会把胃和小肠上段的内容物呕…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2033225589289886147",
+        "created_at": "2026-03-15T16:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T17:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033225589289886147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974276207496867842",
+              "start": 3,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033225589289886147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033185792689086701",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DXMDusk: 关于愈美呕吐的问题！\n胃不吸收愚昧，小肠才吸收愚昧，这也是为什么很多人服药后一个半小时后才开始呕吐的原因\n胃承担的主要功能是把食物磨碎的初步工作\n而打粉装肠溶胶囊，恰好可以跳~过胃的工作\n同时最重要的是肠溶，为什么呢？\n呕吐，会把胃和小肠上段的内容物呕…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033185792689086701",
+        "created_at": "2026-03-15T14:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033185792689086701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033185792689086701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于愈美呕吐的问题！\n胃不吸收愚昧，小肠才吸收愚昧，这也是为什么很多人服药后一个半小时后才开始呕吐的原因\n胃承担的主要功能是把食物磨碎的初步工作\n而打粉装肠溶胶囊，恰好可以跳~过胃的工作\n同时最重要的是肠溶，为什么呢？\n呕吐，会把胃和小肠上段的内容物呕吐出去\n如果你是在服药的瞬间呕吐，是因为口感，气味或者异物感。\n后半个小时左右呕吐，那说明是胃部被刺激，理应抗酸。\n一个半小时左右呕吐，这个时间点正是药物开始吸收入脑的时间，此刻你会感觉慢慢的开始感到药效，但同时会伴随强烈的呕吐感，理应使用止吐。\n关于止吐——目前主流的是司琼类和甲氧氯普胺。若是因为药效的晕眩导致的晕动症呕吐，也就是: 躺好不吐，一动就呕。可以考虑使用苯海拉明等药物\n若以上药物效果均不理想，可以考虑止吐原理不同，但是风险不明确的药物，例如阿瑞匹坦，但考虑到其昂贵的售价……\n虽然，我不知道肠溶胶囊在哪化，但是想必会比不使用肠溶胶囊，“从胃进入小肠最上端”这种还有药物残留在胃部的情况要吸收的更多。\n理论上来说，在肠道化开，药物应该全部进入肠道。算了有点乱我分开讲\n普通胶囊/直接服用: 在胃部化开，缓慢进入肠道，同时吸收，血药浓度达到阈值，呕吐感++，呕吐排出胃和肠道上段未吸收完全的药物，药效--\n肠溶胶囊（此方法可能导致身体无法将药物排出来而产生持续性呕吐，请注意）: 在肠道化开，药物完全进入肠道，缓慢向下移动，缓慢吸收，血药浓度达到阈值，呕吐感++，呕吐，排出胃和肠道上段内容物。此时理论上药物大部分进入肠道中段，但即使在上段化开，那也会有部分药物进入中段，也就是说吸收仍旧更多……\n那就不会出现……只有1/3药效的情况…\n\n如果需要止吐建议直接昂丹司琼，秒了，手术级的止吐效果！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 612,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关于愈美呕吐的问题！\n胃不吸收愚昧，小肠才吸收愚昧，这也是为什么很多人服药后一个半小时后才开始呕吐的原因\n胃承担的主要功能是把食物磨碎的初步工作\n而打粉装肠溶胶囊，恰好可以跳~过胃的工作\n同时最重要的是肠溶，为什么呢？\n呕吐，会把胃和小肠上段的内容物呕吐出去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 417,
+          "like_count": 722,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1297
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 991,
+          "like_count": 1685,
+          "listed_count": 3,
+          "media_count": 218,
+          "tweet_count": 1515
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

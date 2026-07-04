@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2032307349793489305",
+    "created_at": "2026-03-14T15:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T16:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032834378687193130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1819771117646778368",
+          "start": 0,
+          "username": "xsllawyer"
+        },
+        {
+          "end": 16,
+          "id": "1720665183188922368",
+          "start": 11,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032834378687193130",
+    "in_reply_to_user_id": "1819771117646778368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032307349793489305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsllawyer @grok 视频里马瑞林是什么人？在中国出什么事了？怎么出的国？官员不是护照被收吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 254462,
+        "height": 720,
+        "media_key": "13_2032307264774901760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032307264774901760/img/0XXQE9l8uk4Rggd2.jpg",
+        "public_metrics": {
+          "view_count": 313169
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032307264774901760/vid/avc1/480x270/CcM1y3UP0hZo0aW7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032307264774901760/vid/avc1/640x360/LlxpFjGPIEE2yBYD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032307264774901760/vid/avc1/1280x720/cHxfYguMqec3priP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032307264774901760/pl/TLMWNKRclOlGebXs.m3u8?v=b16"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2032307349793489305",
+        "created_at": "2026-03-14T15:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032834378687193130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1819771117646778368",
+              "start": 0,
+              "username": "xsllawyer"
+            },
+            {
+              "end": 16,
+              "id": "1720665183188922368",
+              "start": 11,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032834378687193130",
+        "in_reply_to_user_id": "1819771117646778368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032307349793489305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsllawyer @grok 视频里马瑞林是什么人？在中国出什么事了？怎么出的国？官员不是护照被收吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032307264774901760"
+          ]
+        },
+        "author_id": "1819771117646778368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2032307349793489305",
+        "created_at": "2026-03-13T04:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032307349793489305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mMpJXs0Iks",
+              "end": 80,
+              "expanded_url": "https://x.com/xsllawyer/status/2032307349793489305/video/1",
+              "media_key": "13_2032307264774901760",
+              "start": 57,
+              "url": "https://t.co/mMpJXs0Iks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032307349793489305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1102,
+          "impression_count": 542694,
+          "like_count": 2124,
+          "quote_count": 11,
+          "reply_count": 186,
+          "retweet_count": 263
+        },
+        "reply_settings": "everyone",
+        "text": "中共正厅级官员马瑞林逃离中国。本视频是CNN记者对他的专访。马瑞林逃离前任中共甘肃省委统战部机关党委专职副书记。 https://t.co/mMpJXs0Iks"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "退役oder💊/咱叫吴水琦(网名吴雾晨)/梦想做一个北欧小姑娘/星宇比较大的小猫(bushi/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Urumqi China",
+        "name": "霧會散（霧晨晨）🌫️🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 387,
+          "like_count": 662,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1262
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-03T16:24:03.000Z",
+        "description": "中国人权律师，政治异见人士，基督徒，海外中国人权律师联盟发起人。利用中共网络反对中共独裁专制十多年。推动废除了严重侵犯人权的收容教育制度。推动实现伤害案城乡居民同价赔偿。全国转基因法律行动发起人。财政部、国税总局擅提成品油消费税信息公开、行政复议申请人。长期遭受中共迫害。现流亡美国，以推动中国民主转型为已任。",
+        "id": "1819771117646778368",
+        "name": "许思龙律师",
+        "pinned_tweet_id": "2023066130345300321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006514270662471681/afeNijRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5310,
+          "following_count": 640,
+          "like_count": 3442,
+          "listed_count": 12,
+          "media_count": 212,
+          "tweet_count": 2223
+        },
+        "username": "xsllawyer",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8409591,
+          "following_count": 3,
+          "like_count": 87,
+          "listed_count": 6516,
+          "media_count": 8642740,
+          "tweet_count": 117296377
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

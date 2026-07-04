@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2064204906005966889",
+    "created_at": "2026-06-09T06:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064233588321812890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063957681984225280",
+          "start": 0,
+          "username": "YuwenMewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064233588321812890",
+    "in_reply_to_user_id": "2063957681984225280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064204906005966889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuwenMewo 牛大了你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2064204906005966889",
+        "created_at": "2026-06-09T06:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064233588321812890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063957681984225280",
+              "start": 0,
+              "username": "YuwenMewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064233588321812890",
+        "in_reply_to_user_id": "2063957681984225280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064204906005966889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuwenMewo 牛大了你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063957681984225280",
+        "conversation_id": "2064204906005966889",
+        "created_at": "2026-06-09T04:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064204906005966889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064204906005966889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "amber我求你了你不要天天黑我了\n颇有种昔日好朋友分道扬镳反目成仇的感觉\n很小孩子气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "芝麻油/土色天象V:Natsuki_0915/tg: https://t.co/cuxhzT92RB逃生舱@HECIz6/里推@NyaMist6/07年11月等死老登",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 53,
+                "username": "HECIz6"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu/",
+                "end": 50,
+                "expanded_url": "https://t.me/MizusakiWu/",
+                "start": 27,
+                "url": "https://t.co/cuxhzT92RB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "江苏 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063515083226087424/qz4w0ivy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 405,
+          "like_count": 957,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 1701
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2064204906005966889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 10,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 84
+        },
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

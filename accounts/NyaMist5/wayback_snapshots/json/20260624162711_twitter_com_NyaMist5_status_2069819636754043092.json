@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069819625009991683"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069819636754043092",
+    "created_at": "2026-06-24T16:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069819636754043092"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0x1Hg7jNzb",
+          "end": 36,
+          "expanded_url": "https://x.com/NyaMist5/status/2069819636754043092/photo/1",
+          "media_key": "3_2069819625009991683",
+          "start": 13,
+          "url": "https://t.co/0x1Hg7jNzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069819636754043092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最后一舞……是这个意思吗 https://t.co/0x1Hg7jNzb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2069819625009991683",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl5-4naUAMwNtn.jpg",
+        "width": 788
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069819625009991683"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069819636754043092",
+        "created_at": "2026-06-24T16:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069819636754043092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0x1Hg7jNzb",
+              "end": 36,
+              "expanded_url": "https://x.com/NyaMist5/status/2069819636754043092/photo/1",
+              "media_key": "3_2069819625009991683",
+              "start": 13,
+              "url": "https://t.co/0x1Hg7jNzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069819636754043092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最后一舞……是这个意思吗 https://t.co/0x1Hg7jNzb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "日产芝麻油/土色天象V:Natsuki_0915/tg: https://t.co/gx52vkhQzR(江苏省内包邮)/🚪20/逃生舱@HECIz6/里推@NyaMist6/07年11月等死老登",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 68,
+                "username": "HECIz6"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 52,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 29,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064980603934756864/VoAdDnwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 412,
+          "like_count": 985,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 1786
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      }
+    ]
+  }
+}

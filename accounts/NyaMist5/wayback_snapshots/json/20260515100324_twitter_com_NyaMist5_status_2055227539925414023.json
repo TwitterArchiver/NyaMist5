@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2055163722919010311",
+    "created_at": "2026-05-15T10:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T11:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055227539925414023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1809754445162639361",
+          "start": 0,
+          "username": "sakuraiharunana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055227539925414023",
+    "in_reply_to_user_id": "1809754445162639361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055213231678103717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakuraiharunana 华典和仙静都是仿制药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2055163722919010311",
+        "created_at": "2026-05-15T10:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055227539925414023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1809754445162639361",
+              "start": 0,
+              "username": "sakuraiharunana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055227539925414023",
+        "in_reply_to_user_id": "1809754445162639361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055213231678103717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakuraiharunana 华典和仙静都是仿制药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809754445162639361",
+        "conversation_id": "2055163722919010311",
+        "created_at": "2026-05-15T09:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055213231678103717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055213231678103717",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 235,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055163722919010311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 京东啊\n冷知识：补佳乐是进口药，国产的叫仙居什么的（没人买，貌似医保目录都没进"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "扩列：422174271(🍬💉)/生产日期：2007.11.26/逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "HECIz6"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484931238805504/5nHhKS9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 397,
+          "like_count": 921,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1602
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-07T01:01:15.000Z",
+        "description": "Our existence is resistance",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kizumi.site",
+                "end": 23,
+                "expanded_url": "http://kizumi.site",
+                "start": 0,
+                "url": "https://t.co/gbSTeAWfnO"
+              }
+            ]
+          }
+        },
+        "id": "1809754445162639361",
+        "location": "127.0.0.1🏳️‍⚧️",
+        "name": "希澈希澈希澈澈澈澈澈",
+        "pinned_tweet_id": "2052439648434348366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052513874608640000/LuwF-vXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 542,
+          "like_count": 201,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/gbSTeAWfnO",
+        "username": "sakuraiharunana",
+        "verified": true
+      }
+    ]
+  }
+}

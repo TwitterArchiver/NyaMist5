@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053902533215842304"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2053902542254514477",
+    "created_at": "2026-05-11T18:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T19:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053902542254514477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Kbl0C0UFL",
+          "end": 96,
+          "expanded_url": "https://x.com/NyaMist5/status/2053902542254514477/photo/1",
+          "media_key": "3_2053902533215842304",
+          "start": 73,
+          "url": "https://t.co/5Kbl0C0UFL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053902542254514477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天看到了一个好玩的评论：你玩过纸飞机吗，如果你玩过就会知道，抛出去的那一刻，就算没有动力也会跟随抛物线滑落的，那么为什么会变成垂直90度向下呢 https://t.co/5Kbl0C0UFL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053902542254514477].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053902542254514477",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053902542254514477"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1656,
+        "media_key": "3_2053902533215842304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIDteM-a8AAqLGi.jpg",
+        "width": 950
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "🍬商：422174271(备注来意)/生产日期：2007.11.26/逃生舱@HECIz6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "HECIz6"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484931238805504/5nHhKS9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 393,
+          "like_count": 920,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1583
+        },
+        "username": "NyaMist5",
+        "verified": true
+      }
+    ]
+  }
+}

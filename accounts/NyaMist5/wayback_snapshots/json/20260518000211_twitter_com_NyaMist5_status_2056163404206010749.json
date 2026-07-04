@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2055809323763474532",
+    "created_at": "2026-05-18T00:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T01:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056163404206010749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1436287470207832064",
+          "start": 0,
+          "username": "wuyuandev"
+        },
+        {
+          "end": 21,
+          "id": "1993628897645408256",
+          "start": 11,
+          "username": "Pr0mis3_c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056163404206010749",
+    "in_reply_to_user_id": "1436287470207832064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055809323763474532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuyuandev @Pr0mis3_c 找了好久终于看到我了欸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2055809193186406400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIezka3bsAAAWgI.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2055809323763474532",
+        "created_at": "2026-05-18T00:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T01:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056163404206010749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            },
+            {
+              "end": 21,
+              "id": "1993628897645408256",
+              "start": 11,
+              "username": "Pr0mis3_c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056163404206010749",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055809323763474532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev @Pr0mis3_c 找了好久终于看到我了欸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055809193186406400"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055809323763474532",
+        "created_at": "2026-05-17T00:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055809323763474532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EhEaIFIbYf",
+              "end": 30,
+              "expanded_url": "https://x.com/wuyuandev/status/2055809323763474532/photo/1",
+              "media_key": "3_2055809193186406400",
+              "start": 7,
+              "url": "https://t.co/EhEaIFIbYf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055809323763474532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7631,
+          "like_count": 172,
+          "quote_count": 3,
+          "reply_count": 86,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "超级大贴贴！ https://t.co/EhEaIFIbYf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "扩列：422174271(🍬💉)/生产日期：2007.11.26/逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "HECIz6"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484931238805504/5nHhKS9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 408,
+          "like_count": 930,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1628
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "langs.ink",
+                "end": 23,
+                "expanded_url": "https://langs.ink",
+                "start": 0,
+                "url": "https://t.co/Z142BBjByr"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "死与生 云与雨",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 228,
+          "like_count": 3757,
+          "listed_count": 4,
+          "media_count": 213,
+          "tweet_count": 1056
+        },
+        "url": "https://t.co/Z142BBjByr",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T10:32:43.000Z",
+        "description": "🍥06 xyn/mtf 🏳️‍⚧️hrt: 2025.12.2| en/zh | 无证含糖 | 持续深柜中 | 无不良嗜好 | 梦想srs | 同类互fo | 渴望交友...\ntg: https://t.co/yl6WM4V5Sw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Pr0m1s3",
+                "end": 115,
+                "expanded_url": "http://t.me/Pr0m1s3",
+                "start": 92,
+                "url": "https://t.co/yl6WM4V5Sw"
+              }
+            ]
+          }
+        },
+        "id": "1993628897645408256",
+        "location": "Antarctica",
+        "name": "诗雨.𝓟𝓻𝓸𝓶𝓲𝓼𝓮🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2039290189093519707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052628993686523904/5GzOvsoM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 454,
+          "like_count": 1919,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 650
+        },
+        "username": "Pr0mis3_c",
+        "verified": true
+      }
+    ]
+  }
+}

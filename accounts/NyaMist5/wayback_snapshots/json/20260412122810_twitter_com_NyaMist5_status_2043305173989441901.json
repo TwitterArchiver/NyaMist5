@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2004906254741962768",
+    "created_at": "2026-04-12T12:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043305173989441901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1874067759102906368",
+          "start": 0,
+          "username": "LiliFal654480"
+        },
+        {
+          "end": 29,
+          "id": "1672761170040692739",
+          "start": 15,
+          "username": "FrankkkkkkLau"
+        },
+        {
+          "end": 43,
+          "id": "1678171777409875968",
+          "start": 30,
+          "username": "420420420CTL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043305173989441901",
+    "in_reply_to_user_id": "1874067759102906368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043032956432683329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiliFal654480 @FrankkkkkkLau @420420420CTL 是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2004906254741962768",
+        "created_at": "2026-04-12T12:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043305173989441901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1874067759102906368",
+              "start": 0,
+              "username": "LiliFal654480"
+            },
+            {
+              "end": 29,
+              "id": "1672761170040692739",
+              "start": 15,
+              "username": "FrankkkkkkLau"
+            },
+            {
+              "end": 43,
+              "id": "1678171777409875968",
+              "start": 30,
+              "username": "420420420CTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043305173989441901",
+        "in_reply_to_user_id": "1874067759102906368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043032956432683329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiliFal654480 @FrankkkkkkLau @420420420CTL 是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874067759102906368",
+        "conversation_id": "2004906254741962768",
+        "created_at": "2026-04-11T18:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043032956432683329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            },
+            {
+              "end": 24,
+              "id": "1672761170040692739",
+              "start": 10,
+              "username": "FrankkkkkkLau"
+            },
+            {
+              "end": 38,
+              "id": "1678171777409875968",
+              "start": 25,
+              "username": "420420420CTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043032956432683329",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006700529637093564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 @FrankkkkkkLau @420420420CTL Apple u你是新疆的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 460,
+          "like_count": 858,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1460
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-31T12:19:21.000Z",
+        "description": "",
+        "id": "1874067759102906368",
+        "name": "Lili Fal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874067820142620672/6FZR6-H7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 10,
+          "like_count": 1937,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 349
+        },
+        "username": "LiliFal654480",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你0.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 73,
+          "like_count": 1389,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018807810830770177/xgp8x96H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2829,
+          "following_count": 688,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1008
+        },
+        "username": "420420420CTL",
+        "verified": true
+      }
+    ]
+  }
+}

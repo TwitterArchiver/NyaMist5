@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2049881045026349206",
+    "created_at": "2026-05-01T06:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T07:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050099404544368872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1827293756661571584",
+          "start": 0,
+          "username": "aizhenxunjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050099404544368872",
+    "in_reply_to_user_id": "1827293756661571584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050098359613174020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aizhenxunjiang 在玩文字游戏去南京干你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2049881045026349206",
+        "created_at": "2026-05-01T06:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T07:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050099404544368872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1827293756661571584",
+              "start": 0,
+              "username": "aizhenxunjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050099404544368872",
+        "in_reply_to_user_id": "1827293756661571584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050098359613174020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aizhenxunjiang 在玩文字游戏去南京干你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827293756661571584",
+        "conversation_id": "2049881045026349206",
+        "created_at": "2026-05-01T06:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T07:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050098359613174020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050098359613174020",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050095109547688098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 字面意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "已退役oder💊/生产日期：2007.11.26/逃生舱@HECIz6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "HECIz6"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 481,
+          "like_count": 908,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1545
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-24T10:36:38.000Z",
+        "description": "mtf｜hrt2025.02.28｜无证含糖🍥（已炸柜）｜07｜istp｜欢迎同类🍥🏳️‍⚧️｜同类互fo｜158cm/97斤｜坐标南京｜匿名提问https://t.co/x4658dNtP4｜\n老婆@chenyuxi5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 100,
+                "username": "chenyuxi5201314"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yuchi78643",
+                "end": 96,
+                "expanded_url": "https://ngl.link/yuchi78643",
+                "start": 73,
+                "url": "https://t.co/x4658dNtP4"
+              }
+            ]
+          }
+        },
+        "id": "1827293756661571584",
+        "location": "南京",
+        "name": "雨汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2046170676864934354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960119314624991232/l-JCZqJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 685,
+          "like_count": 377,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 348
+        },
+        "username": "aizhenxunjiang",
+        "verified": false
+      }
+    ]
+  }
+}

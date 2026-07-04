@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2056349003747574267",
+    "created_at": "2026-05-18T14:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T15:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056387114191953961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900108524304076800",
+          "start": 0,
+          "username": "qi_bu64350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056387114191953961",
+    "in_reply_to_user_id": "1900108524304076800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056385924402131373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_bu64350 别逗你晨姐笑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2056349003747574267",
+        "created_at": "2026-05-18T14:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056387114191953961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900108524304076800",
+              "start": 0,
+              "username": "qi_bu64350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056387114191953961",
+        "in_reply_to_user_id": "1900108524304076800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056385924402131373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_bu64350 别逗你晨姐笑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900108524304076800",
+        "conversation_id": "2056349003747574267",
+        "created_at": "2026-05-18T14:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056385924402131373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056385924402131373",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056349003747574267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 大主播（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "扩列：422174271(🍬💉)/生产日期：2007.11.26/逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "HECIz6"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484931238805504/5nHhKS9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 410,
+          "like_count": 933,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 1635
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T08:56:07.000Z",
+        "description": "前@Ciallo_114_514 \n一切过激言论均由第二人格控制发布\n随缘回fo，私信互fo\n个人简介看上个号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 1,
+                "username": "Ciallo_114_514"
+              }
+            ]
+          }
+        },
+        "id": "1900108524304076800",
+        "location": "第五高原",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2053109515546132666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049695578402304000/1dyUSXys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 676,
+          "like_count": 969,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 1512
+        },
+        "username": "qi_bu64350",
+        "verified": false
+      }
+    ]
+  }
+}

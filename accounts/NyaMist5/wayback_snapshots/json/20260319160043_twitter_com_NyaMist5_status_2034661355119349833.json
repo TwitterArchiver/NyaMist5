@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2034600937231425808",
+    "created_at": "2026-03-19T16:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T17:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034661355119349833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1593799138893873152",
+          "start": 0,
+          "username": "Yujiudu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034661355119349833",
+    "in_reply_to_user_id": "1593799138893873152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034623618953748701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yujiudu 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2034600937231425808",
+        "created_at": "2026-03-19T16:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034661355119349833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Yujiudu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034661355119349833",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034623618953748701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yujiudu 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593799138893873152",
+        "conversation_id": "2034600937231425808",
+        "created_at": "2026-03-19T13:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T14:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034623618953748701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034623618953748701",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034600937231425808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 443,
+          "like_count": 795,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1376
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "跨圈混子 窝窝屎五年海猴 摄影圈HiFi圈已退役  欢迎私信找我交朋友\n买🍬可以找找@Minokakay\n推荐我自己长期使用的动兔VPN加速器https://t.co/vWxMasEtB8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "Minokakay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dongtu2.sobotx.com/#/register?cod…",
+                "end": 94,
+                "expanded_url": "https://dongtu2.sobotx.com/#/register?code=UX4wscAS",
+                "start": 71,
+                "url": "https://t.co/vWxMasEtB8"
+              }
+            ]
+          }
+        },
+        "id": "1593799138893873152",
+        "name": "風月无边夜未央",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996692268997398532/753I2hJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4127,
+          "following_count": 1935,
+          "like_count": 41635,
+          "listed_count": 6,
+          "media_count": 1137,
+          "tweet_count": 7736
+        },
+        "username": "Yujiudu",
+        "verified": true
+      }
+    ]
+  }
+}

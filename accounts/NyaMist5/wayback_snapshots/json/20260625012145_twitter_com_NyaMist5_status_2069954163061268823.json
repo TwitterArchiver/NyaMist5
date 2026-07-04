@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2069794906651205633"
+      ],
+      "media_source_tweet_id": [
+        "2069794975521673219"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069954163061268823",
+    "created_at": "2026-06-25T01:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T02:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069954163061268823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1923225863602294784",
+          "start": 3,
+          "username": "jiujiuSama8512"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0XCcCt7sYN",
+          "end": 46,
+          "expanded_url": "https://x.com/jiujiuSama8512/status/2069794975521673219/video/1",
+          "media_key": "13_2069794906651205633",
+          "start": 23,
+          "url": "https://t.co/0XCcCt7sYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069954163061268823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069794975521673219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiujiuSama8512: 牛逼 https://t.co/0XCcCt7sYN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5366,
+        "height": 1280,
+        "media_key": "13_2069794906651205633",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069794906651205633/img/f7YLoGVY3hAraqK8.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069794906651205633/vid/avc1/320x694/qSVCn0flLlHJqFj6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069794906651205633/vid/avc1/480x1040/F5McORhXV5cv22id.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069794906651205633/vid/avc1/590x1280/dszPqenfS6ECSEbq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069794906651205633/pl/UYcLwP5AlgvbzLiO.m3u8"
+          }
+        ],
+        "width": 590
+      },
+      {
+        "duration_ms": 5366,
+        "height": 1280,
+        "media_key": "13_2069794906651205633",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069794906651205633/img/f7YLoGVY3hAraqK8.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069794906651205633/vid/avc1/320x694/qSVCn0flLlHJqFj6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069794906651205633/vid/avc1/480x1040/F5McORhXV5cv22id.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069794906651205633/vid/avc1/590x1280/dszPqenfS6ECSEbq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069794906651205633/pl/UYcLwP5AlgvbzLiO.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069794906651205633"
+          ],
+          "media_source_tweet_id": [
+            "2069794975521673219"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069954163061268823",
+        "created_at": "2026-06-25T01:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T02:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069954163061268823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1923225863602294784",
+              "start": 3,
+              "username": "jiujiuSama8512"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0XCcCt7sYN",
+              "end": 46,
+              "expanded_url": "https://x.com/jiujiuSama8512/status/2069794975521673219/video/1",
+              "media_key": "13_2069794906651205633",
+              "start": 23,
+              "url": "https://t.co/0XCcCt7sYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069954163061268823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069794975521673219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiujiuSama8512: 牛逼 https://t.co/0XCcCt7sYN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069794906651205633"
+          ]
+        },
+        "author_id": "1923225863602294784",
+        "conversation_id": "2069794975521673219",
+        "created_at": "2026-06-24T14:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069794975521673219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0XCcCt7sYN",
+              "end": 26,
+              "expanded_url": "https://x.com/jiujiuSama8512/status/2069794975521673219/video/1",
+              "media_key": "13_2069794906651205633",
+              "start": 3,
+              "url": "https://t.co/0XCcCt7sYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069794975521673219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "牛逼 https://t.co/0XCcCt7sYN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "日产芝麻油/土色天象V:Natsuki_0915/tg: https://t.co/gx52vkhQzR(江苏省内包邮)/🚪20/逃生舱@HECIz6/里推@NyaMist6/07年11月等死老登",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 68,
+                "username": "HECIz6"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 52,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 29,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064980603934756864/VoAdDnwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 403,
+          "like_count": 986,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1791
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-16T03:55:58.000Z",
+        "description": "09年的未成年MTF，173/62kg 高中牲，欢迎同类互fo，家长不管党，忧郁意识流药娘，负能警告⚠️，HRT2024.7.12,同类可以直接问好友位喵",
+        "id": "1923225863602294784",
+        "location": "❣️-520",
+        "name": "玖玖Sama🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962168976668307457/zf9I-jll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 171,
+          "like_count": 183,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 986
+        },
+        "url": "",
+        "username": "jiujiuSama8512",
+        "verified": false
+      }
+    ]
+  }
+}

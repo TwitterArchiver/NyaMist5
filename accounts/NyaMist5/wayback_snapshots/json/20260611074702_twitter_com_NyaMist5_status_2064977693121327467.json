@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2064701377402765501",
+    "created_at": "2026-06-11T07:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064977693121327467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1413249820395933701",
+          "start": 0,
+          "username": "malic_acid0909"
+        },
+        {
+          "end": 31,
+          "id": "1918274202580467713",
+          "start": 16,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064977693121327467",
+    "in_reply_to_user_id": "1413249820395933701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064755771846578359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@malic_acid0909 @CyberKanjousen 我真的不知道,我一個普通的老百姓,勤勤懇懇、老老 實實地生活,為什麼每天還要看到這些東西。我真的快 崩潰了,已經累到不行。每天打開X全都是這種 內容,我真的好想哭,我已經得了憂鬱症了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2064701377402765501",
+        "created_at": "2026-06-11T07:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064977693121327467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1413249820395933701",
+              "start": 0,
+              "username": "malic_acid0909"
+            },
+            {
+              "end": 31,
+              "id": "1918274202580467713",
+              "start": 16,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064977693121327467",
+        "in_reply_to_user_id": "1413249820395933701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064755771846578359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@malic_acid0909 @CyberKanjousen 我真的不知道,我一個普通的老百姓,勤勤懇懇、老老 實實地生活,為什麼每天還要看到這些東西。我真的快 崩潰了,已經累到不行。每天打開X全都是這種 內容,我真的好想哭,我已經得了憂鬱症了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413249820395933701",
+        "conversation_id": "2064701377402765501",
+        "created_at": "2026-06-10T17:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064755771846578359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064755771846578359",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2858,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064701377402765501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 我真的不知道,我一個普通的老百姓,勤勤懇懇、老老 實實地生活,為什麼每天還要看到這些東西。我真的快 崩潰了,已經累到不行。每天打開X全都是這種 內容,我真的好想哭,我已經得了憂鬱症了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "芝麻油/土色天象V:Natsuki_0915/tg: https://t.co/cuxhzT92RB逃生舱@HECIz6/里推@NyaMist6/07年11月等死老登",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 53,
+                "username": "HECIz6"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu/",
+                "end": 50,
+                "expanded_url": "https://t.me/MizusakiWu/",
+                "start": 27,
+                "url": "https://t.co/cuxhzT92RB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "江苏 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063515083226087424/qz4w0ivy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 409,
+          "like_count": 960,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 1709
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-08T21:33:34.000Z",
+        "description": "",
+        "id": "1413249820395933701",
+        "name": "果酸酸酸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995343528696967168/jyupWZaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 214,
+          "like_count": 5442,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 47
+        },
+        "username": "malic_acid0909",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5574,
+          "following_count": 870,
+          "like_count": 25371,
+          "listed_count": 9,
+          "media_count": 1417,
+          "tweet_count": 7775
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

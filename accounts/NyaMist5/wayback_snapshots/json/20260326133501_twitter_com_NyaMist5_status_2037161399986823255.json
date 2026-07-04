@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2036842364149666024",
+    "created_at": "2026-03-26T13:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T14:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037161399986823255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037161399986823255",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036842364149666024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036842358046896128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HERRVT7asAASNIq.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2036842364149666024",
+        "created_at": "2026-03-26T13:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T14:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037161399986823255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037161399986823255",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036842364149666024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036842358046896128"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "2036842364149666024",
+        "created_at": "2026-03-25T16:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036842364149666024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nv7wAt6kQF",
+              "end": 31,
+              "expanded_url": "https://x.com/AcboxLiu/status/2036842364149666024/photo/1",
+              "media_key": "3_2036842358046896128",
+              "start": 8,
+              "url": "https://t.co/Nv7wAt6kQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036842364149666024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7723,
+          "like_count": 479,
+          "quote_count": 1,
+          "reply_count": 183,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我生日快乐🎂 https://t.co/Nv7wAt6kQF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 463,
+          "like_count": 860,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1419
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/推特当朋友圈发/搞开发的/building @memoh_ai /🐱大猫：@Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "memoh_ai"
+              },
+              {
+                "end": 64,
+                "start": 50,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2035048474929242396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000629929281810432/W3tlGjqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11307,
+          "following_count": 3028,
+          "like_count": 3263,
+          "listed_count": 50,
+          "media_count": 1301,
+          "tweet_count": 6727
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

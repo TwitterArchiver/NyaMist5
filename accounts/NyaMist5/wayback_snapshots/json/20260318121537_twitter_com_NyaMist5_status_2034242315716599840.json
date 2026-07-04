@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2034236268184486057",
+    "created_at": "2026-03-18T12:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T13:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034242315716599840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1660528315411603456",
+          "start": 0,
+          "username": "ichinose_mionn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034242315716599840",
+    "in_reply_to_user_id": "1660528315411603456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034236268184486057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ichinose_mionn 中文不清楚，会英文估计是片假名立大功"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2034236268184486057",
+        "created_at": "2026-03-18T12:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T13:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034242315716599840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1660528315411603456",
+              "start": 0,
+              "username": "ichinose_mionn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034242315716599840",
+        "in_reply_to_user_id": "1660528315411603456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034236268184486057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ichinose_mionn 中文不清楚，会英文估计是片假名立大功"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660528315411603456",
+        "conversation_id": "2034236268184486057",
+        "created_at": "2026-03-18T11:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T12:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034236268184486057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034236268184486057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日本真的很国际化\n鸡都会讲英语和中文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 442,
+          "like_count": 781,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1360
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-22T06:09:44.000Z",
+        "description": "男娘无糖，有体香，168/100。b站抖音同名。旧号被封了哭唧唧。🚪48，私信我。欢迎小可爱贴贴哦！",
+        "id": "1660528315411603456",
+        "location": "接线下常驻湖北全国✈️",
+        "name": "月光的琉璃梦🌸🎀🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2033118165539135681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030104108678688768/6-Dn0CVz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 28,
+          "like_count": 197,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 658
+        },
+        "username": "ichinose_mionn",
+        "verified": true
+      }
+    ]
+  }
+}

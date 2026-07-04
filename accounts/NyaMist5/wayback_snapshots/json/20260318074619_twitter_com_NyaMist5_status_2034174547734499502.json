@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2034153383075189240",
+    "created_at": "2026-03-18T07:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T08:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034174547734499502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1660528315411603456",
+          "start": 0,
+          "username": "ichinose_mionn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034174547734499502",
+    "in_reply_to_user_id": "1660528315411603456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034153383075189240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ichinose_mionn 你是哪个？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19275,
+        "height": 720,
+        "media_key": "13_2034153259162865664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034153259162865664/img/uG-T3cetjZYVVD6A.jpg",
+        "public_metrics": {
+          "view_count": 28
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034153259162865664/vid/avc1/480x270/Dsw-5yCbxOL6tAsi.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034153259162865664/vid/avc1/640x360/TwZXqWMo9J03gox8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034153259162865664/vid/avc1/1280x720/4sM5spDp-D3H4u5U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034153259162865664/pl/s5Nzd6xjF8LxynGQ.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2034153383075189240",
+        "created_at": "2026-03-18T07:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T08:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034174547734499502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1660528315411603456",
+              "start": 0,
+              "username": "ichinose_mionn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034174547734499502",
+        "in_reply_to_user_id": "1660528315411603456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034153383075189240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ichinose_mionn 你是哪个？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034153259162865664"
+          ]
+        },
+        "author_id": "1660528315411603456",
+        "conversation_id": "2034153383075189240",
+        "created_at": "2026-03-18T06:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T07:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034153383075189240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SQufXwhYU9",
+              "end": 35,
+              "expanded_url": "https://x.com/ichinose_mionn/status/2034153383075189240/video/1",
+              "media_key": "13_2034153259162865664",
+              "start": 12,
+              "url": "https://t.co/SQufXwhYU9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034153383075189240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 76,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是在干嘛，开音趴呢😧 https://t.co/SQufXwhYU9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 443,
+          "like_count": 782,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1358
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-22T06:09:44.000Z",
+        "description": "男娘无糖，有体香，168/100。b站抖音同名。旧号被封了哭唧唧。🚪48，私信我。欢迎小可爱贴贴哦！",
+        "id": "1660528315411603456",
+        "location": "接线下常驻湖北全国✈️",
+        "name": "月光的琉璃梦🌸🎀🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2033118165539135681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030104108678688768/6-Dn0CVz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 27,
+          "like_count": 191,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 641
+        },
+        "username": "ichinose_mionn",
+        "verified": true
+      }
+    ]
+  }
+}

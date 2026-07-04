@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2032809967061971088",
+    "created_at": "2026-03-14T14:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T15:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032820949901512928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032820949901512928",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032809967061971088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mwdxj29477 啊？真要列管？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2032809967061971088",
+        "created_at": "2026-03-14T14:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032820949901512928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032820949901512928",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032809967061971088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwdxj29477 啊？真要列管？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970857021588262912",
+        "conversation_id": "2032809967061971088",
+        "created_at": "2026-03-14T13:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032809967061971088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032809967061971088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pr最近是不是要列管了😭，我是不是应该屯点了🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "曾经的悲观阴郁币/咱叫吴水琦(网名吴雾晨)/梦想做一个北欧小姑娘/星宇比较大的小猫(bushi/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Urumqi China",
+        "name": "霧會散（霧晨晨）🌫️🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 385,
+          "like_count": 651,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1259
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨顺男/已翻车/Hrt🍥01.28.2026/无证含糖/家长反对党😭/性别认同探索中?/泛性恋?/03.06💥炸柜/非二元/11.13.2011出厂/INFP-T/161cm51kg41码/纯M/初二牲/成绩倒数的废物/体能废物/只玩MC/民國派🇹🇼華獨/视成分互fo/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 23,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 0,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "中華民國 大陸淪陷區 湖北省「漢川縣」",
+        "name": "𝓤 𝓷 𝓴 𝓷 𝓸 𝔀 𝓷 ~🍥",
+        "pinned_tweet_id": "2032446344598810669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031819030181650432/_OhFSDa-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 832,
+          "like_count": 9069,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 1242
+        },
+        "url": "https://t.co/fG6XzUT3Y3",
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

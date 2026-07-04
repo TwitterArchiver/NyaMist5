@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2056473162871906731",
+    "created_at": "2026-05-19T05:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T06:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056608547988033676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1033588223522496512",
+          "start": 0,
+          "username": "PretenderXinlan"
+        },
+        {
+          "end": 28,
+          "id": "885877669719494656",
+          "start": 17,
+          "username": "HanaSliver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056608547988033676",
+    "in_reply_to_user_id": "1033588223522496512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056606542062117036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PretenderXinlan @HanaSliver 我也想要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2056473162871906731",
+        "created_at": "2026-05-19T05:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056608547988033676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1033588223522496512",
+              "start": 0,
+              "username": "PretenderXinlan"
+            },
+            {
+              "end": 28,
+              "id": "885877669719494656",
+              "start": 17,
+              "username": "HanaSliver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056608547988033676",
+        "in_reply_to_user_id": "1033588223522496512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056606542062117036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PretenderXinlan @HanaSliver 我也想要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1033588223522496512",
+        "conversation_id": "2056473162871906731",
+        "created_at": "2026-05-19T05:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056606542062117036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "885877669719494656",
+              "start": 0,
+              "username": "HanaSliver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056606542062117036",
+        "in_reply_to_user_id": "885877669719494656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056473162871906731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanaSliver 哇这个椅子有没有链接😲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "扩列：422174271(🍬💉)/生产日期：2007.11.26/逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "HECIz6"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484931238805504/5nHhKS9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 408,
+          "like_count": 938,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 1638
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-26T05:33:30.000Z",
+        "description": "🔞 NSFW /用AI生成图像满足自己xp和想法，所以不接委托。目前主推班尼特所以班尼特相关能有90％（？）BL＆BG都会有。中文＆English，其他语言会用翻译器",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/16459676",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/16459676",
+                "start": 0,
+                "url": "https://t.co/LBXi6zzASg"
+              }
+            ]
+          }
+        },
+        "id": "1033588223522496512",
+        "name": "辛岚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727273474509651968/0jEAC15p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4726,
+          "following_count": 708,
+          "like_count": 6583,
+          "listed_count": 18,
+          "media_count": 115,
+          "tweet_count": 1483
+        },
+        "url": "https://t.co/LBXi6zzASg",
+        "username": "PretenderXinlan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-14T15:04:30.000Z",
+        "description": "月球上的人.腐男子. 二次元BL狂热爱好者.@MissToluene←命运之人. https://t.co/qj3LtM27mu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "MissToluene"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/hanasliver",
+                "end": 64,
+                "expanded_url": "http://linktr.ee/hanasliver",
+                "start": 41,
+                "url": "https://t.co/qj3LtM27mu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fansly.com/HanaSliver/pos…",
+                "end": 23,
+                "expanded_url": "https://fansly.com/HanaSliver/posts",
+                "start": 0,
+                "url": "https://t.co/npuddJFNnF"
+              }
+            ]
+          }
+        },
+        "id": "885877669719494656",
+        "location": "对流层",
+        "name": "HaNa",
+        "pinned_tweet_id": "1679570010245824512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1417805524012212227/yMInQx5h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211194,
+          "following_count": 1124,
+          "like_count": 24577,
+          "listed_count": 1212,
+          "media_count": 2513,
+          "tweet_count": 14653
+        },
+        "url": "https://t.co/npuddJFNnF",
+        "username": "HanaSliver",
+        "verified": false
+      }
+    ]
+  }
+}

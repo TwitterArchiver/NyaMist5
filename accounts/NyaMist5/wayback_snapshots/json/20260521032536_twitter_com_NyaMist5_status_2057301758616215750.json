@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2057025127259492417",
+    "created_at": "2026-05-21T03:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T04:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057301758616215750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786249149845000192",
+          "start": 0,
+          "username": "NatsumeAnn91"
+        },
+        {
+          "end": 27,
+          "id": "1839865017392394240",
+          "start": 14,
+          "username": "zhiyun114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057301758616215750",
+    "in_reply_to_user_id": "1786249149845000192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057282776341332474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NatsumeAnn91 @zhiyun114514 什么南京寿司"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2057025127259492417",
+        "created_at": "2026-05-21T03:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057301758616215750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786249149845000192",
+              "start": 0,
+              "username": "NatsumeAnn91"
+            },
+            {
+              "end": 27,
+              "id": "1839865017392394240",
+              "start": 14,
+              "username": "zhiyun114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057301758616215750",
+        "in_reply_to_user_id": "1786249149845000192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057282776341332474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NatsumeAnn91 @zhiyun114514 什么南京寿司"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786249149845000192",
+        "conversation_id": "2057025127259492417",
+        "created_at": "2026-05-21T02:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T03:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057282776341332474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1839865017392394240",
+              "start": 0,
+              "username": "zhiyun114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057282776341332474",
+        "in_reply_to_user_id": "1839865017392394240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 653,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057025127259492417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiyun114514 开店比赛谁先吃100个寿司，一位顾客吃了105个，另一位吃了106个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "扩列：422174271(🍬💉)/生产日期：2007.11.26/逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "HECIz6"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484931238805504/5nHhKS9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 407,
+          "like_count": 945,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1652
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-03T04:19:29.000Z",
+        "description": "我是拼图者@puzzlerlee唯一野爹| 大号@Natsumeann78 二号@Natsumeann870 四号@Natsumeann37 电话号码18913023816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "puzzlerlee"
+              },
+              {
+                "end": 37,
+                "start": 24,
+                "username": "Natsumeann78"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Natsumeann870"
+              },
+              {
+                "end": 70,
+                "start": 57,
+                "username": "Natsumeann37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goushixijinping.com",
+                "end": 23,
+                "expanded_url": "http://goushixijinping.com",
+                "start": 0,
+                "url": "https://t.co/5RoR4DyO7J"
+              }
+            ]
+          }
+        },
+        "id": "1786249149845000192",
+        "location": "南京市六合区长江路28号荷花新苑6单元201",
+        "name": "夏目安安🍥🏳️‍⚧️🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049212127031009280/AKcKlNzM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 1181,
+          "like_count": 72,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 556
+        },
+        "url": "https://t.co/5RoR4DyO7J",
+        "username": "NatsumeAnn91",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T03:10:03.000Z",
+        "description": "8️⃣ 9️⃣ 6️⃣ 4️⃣8️⃣ 9️⃣ 6️⃣ 4️⃣8️⃣ 9️⃣ 6️⃣ 4️⃣8️⃣ 9️⃣ 6️⃣ 4️⃣\n我叫知雲！(三世)\n(有多少人认识我？)\n二世:@zhi96886   小号:@mmj199747\n一世找不到了\n社民/历史/想要互fo/拙见如有错误请指出来🥹/尽量的不极端\n\n渴望交友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "zhi96886"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "mmj199747"
+              }
+            ]
+          }
+        },
+        "id": "1839865017392394240",
+        "location": "毛泽东帝国-邓小平尼亚-习近平堡",
+        "name": "矢口雨云",
+        "pinned_tweet_id": "2044422574466298172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036083407361642496/EoLSSXvX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 1298,
+          "like_count": 7239,
+          "listed_count": 4,
+          "media_count": 627,
+          "tweet_count": 3761
+        },
+        "username": "zhiyun114514",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067746431339986944"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2067746835779973592",
+    "created_at": "2026-06-18T23:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T00:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067746835779973592"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Se1Spfx4W",
+          "end": 67,
+          "expanded_url": "https://x.com/NyaMist5/status/2067746835779973592/video/1",
+          "media_key": "13_2067746431339986944",
+          "start": 44,
+          "url": "https://t.co/7Se1Spfx4W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067746835779973592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "理解有些人为什么会说配音煞室里欢乐多了喵，但是为什么窝和老公的碰撞声没被录进去喵🥺🥺🥺 https://t.co/7Se1Spfx4W"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62000,
+        "height": 2796,
+        "media_key": "13_2067746431339986944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067746431339986944/img/VGYoYDSvMKK7hxkT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067746431339986944/vid/avc1/480x1040/-ye-eDSzcpTIuyKe.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067746431339986944/vid/avc1/320x692/_f-QCHHOXM0bp8sA.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067746431339986944/vid/avc1/1290x2796/lTOZUVV8MThpE8-S.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067746431339986944/vid/avc1/720x1560/DOTpzvDKkrtt1L7i.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067746431339986944/pl/nkNymqUtt7OKhx1X.m3u8"
+          }
+        ],
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067746431339986944"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2067746835779973592",
+        "created_at": "2026-06-18T23:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T00:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067746835779973592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Se1Spfx4W",
+              "end": 67,
+              "expanded_url": "https://x.com/NyaMist5/status/2067746835779973592/video/1",
+              "media_key": "13_2067746431339986944",
+              "start": 44,
+              "url": "https://t.co/7Se1Spfx4W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067746835779973592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "理解有些人为什么会说配音煞室里欢乐多了喵，但是为什么窝和老公的碰撞声没被录进去喵🥺🥺🥺 https://t.co/7Se1Spfx4W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "日产芝麻油/土色天象V:Natsuki_0915/tg: https://t.co/gx52vkhQzR(江苏省内包邮)/逃生舱@HECIz6/里推@NyaMist6/07年11月等死老登",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 64,
+                "username": "HECIz6"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 52,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 29,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "江苏 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064980603934756864/VoAdDnwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 412,
+          "like_count": 970,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 1743
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      }
+    ]
+  }
+}

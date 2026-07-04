@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2033836065736495212",
+    "created_at": "2026-03-17T09:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T10:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033836065736495212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/charcaius/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/charcaius/status/2021373918691590272",
+          "start": 7,
+          "url": "https://t.co/Twxfmd8cC5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033836065736495212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021373918691590272",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🧠：你妈死了 https://t.co/Twxfmd8cC5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_2021373916334460928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1c3gFbEAAG8Ml.jpg",
+        "width": 1126
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2033836065736495212",
+        "created_at": "2026-03-17T09:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T10:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033836065736495212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/charcaius/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/charcaius/status/2021373918691590272",
+              "start": 7,
+              "url": "https://t.co/Twxfmd8cC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033836065736495212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021373918691590272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🧠：你妈死了 https://t.co/Twxfmd8cC5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021373916334460928"
+          ]
+        },
+        "author_id": "1240547719090810881",
+        "conversation_id": "2021373918691590272",
+        "created_at": "2026-02-11T00:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T01:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021373918691590272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vBHUmulTLm",
+              "end": 23,
+              "expanded_url": "https://x.com/CharCaius/status/2021373918691590272/photo/1",
+              "media_key": "3_2021373916334460928",
+              "start": 0,
+              "url": "https://t.co/vBHUmulTLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021373918691590272",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vBHUmulTLm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 441,
+          "like_count": 763,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1342
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-19T07:57:02.000Z",
+        "description": "个人介绍不会写...反正...有爱人？（似乎吧…?不知道，应该没有了）\nHRT 2024.8.29 | \n🏳️‍🌈双性恋",
+        "id": "1240547719090810881",
+        "name": "Charlotte Caius",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922942862871744512/VYDMUCMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 988,
+          "like_count": 1021,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 544
+        },
+        "username": "CharCaius",
+        "verified": false
+      }
+    ]
+  }
+}

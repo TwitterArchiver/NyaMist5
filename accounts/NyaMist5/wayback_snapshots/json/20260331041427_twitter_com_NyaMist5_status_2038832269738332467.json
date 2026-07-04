@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2038785236054523955",
+    "created_at": "2026-03-31T04:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T05:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038832269738332467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1992962779087826944",
+          "start": 0,
+          "username": "dbdbsjbsja"
+        },
+        {
+          "end": 22,
+          "id": "1228546301572173825",
+          "start": 12,
+          "username": "AAAAAMTxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038832269738332467",
+    "in_reply_to_user_id": "1992962779087826944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038785236054523955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dbdbsjbsja @AAAAAMTxT 油卡达"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_2038785231420010496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEs4XbQaMAAQ30H.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2038785236054523955",
+        "created_at": "2026-03-31T04:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038832269738332467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1992962779087826944",
+              "start": 0,
+              "username": "dbdbsjbsja"
+            },
+            {
+              "end": 22,
+              "id": "1228546301572173825",
+              "start": 12,
+              "username": "AAAAAMTxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038832269738332467",
+        "in_reply_to_user_id": "1992962779087826944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038785236054523955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dbdbsjbsja @AAAAAMTxT 油卡达"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038785231420010496"
+          ]
+        },
+        "author_id": "1992962779087826944",
+        "conversation_id": "2038785236054523955",
+        "created_at": "2026-03-31T01:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038785236054523955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vFwGEYAp5s",
+              "end": 67,
+              "expanded_url": "https://x.com/dbdbsjbsja/status/2038785236054523955/photo/1",
+              "media_key": "3_2038785231420010496",
+              "start": 44,
+              "url": "https://t.co/vFwGEYAp5s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038785236054523955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6648,
+          "like_count": 96,
+          "quote_count": 12,
+          "reply_count": 28,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "让大家担心了雨木木没死，给她一点时间，刚刚和她取得联系，大家不要再打扰他的生活了！！！ https://t.co/vFwGEYAp5s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 462,
+          "like_count": 859,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1434
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-24T14:27:38.000Z",
+        "description": "08年这里是地狱酱的空间喵/地狱酱喜欢和大家交朋友💘~情绪不稳定重抑郁焦虑割手手🍥pink小鬼别来沾边😾🤘永远的神是霖酱！！！@rinii165892💗💗我的佛@rinii165892❤️‍🔥❤️‍🔥最好的朋友@rinii165892o(*≧▽≦)ツ现生最好的朋友@m1sakaNetwork🩷🩷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "rinii165892"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "rinii165892"
+              },
+              {
+                "end": 118,
+                "start": 105,
+                "username": "rinii165892o"
+              },
+              {
+                "end": 146,
+                "start": 132,
+                "username": "m1sakaNetwork"
+              }
+            ]
+          }
+        },
+        "id": "1992962779087826944",
+        "location": " Japan",
+        "name": "宇宙级病娇地狱酱喵💗💗",
+        "pinned_tweet_id": "2038785236054523955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022001387928977408/VRDMCYRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 76,
+          "like_count": 3491,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 545
+        },
+        "username": "dbdbsjbsja",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-15T05:07:27.000Z",
+        "description": "这里*****，可以叫我星星星星星/坐标厦门/非二元性别生理双性/无性别主义/重度恋痛/嗑药od自残/会互fo一些同属性的宝宝/出厂日期04.7/主坑prsk/+墙内需过🚪59r/过🚪可同城约见面一起玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaaaamtxt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaaaamtxt",
+                "start": 0,
+                "url": "https://t.co/WjhB4pS4f2"
+              }
+            ]
+          }
+        },
+        "id": "1228546301572173825",
+        "name": "*****🍥（互联网的堕落天使）",
+        "pinned_tweet_id": "2031380325709103481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034974104538030089/YeDmGLD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 796,
+          "like_count": 30589,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 5998
+        },
+        "url": "https://t.co/WjhB4pS4f2",
+        "username": "AAAAAMTxT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2032683429641494972",
+    "created_at": "2026-03-14T06:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T07:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032700185521041490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2021186038614683648",
+          "start": 0,
+          "username": "lande3333322106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032700185521041490",
+    "in_reply_to_user_id": "2021186038614683648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032683429641494972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lande3333322106 其实未必，至少人民币从某种意义上可以保证正常流通，能操控和不可操控是有区别的。津巴布韦想操控都操控不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2032683429641494972",
+        "created_at": "2026-03-14T06:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T07:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032700185521041490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2021186038614683648",
+              "start": 0,
+              "username": "lande3333322106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032700185521041490",
+        "in_reply_to_user_id": "2021186038614683648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032683429641494972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lande3333322106 其实未必，至少人民币从某种意义上可以保证正常流通，能操控和不可操控是有区别的。津巴布韦想操控都操控不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021186038614683648",
+        "conversation_id": "2032683429641494972",
+        "created_at": "2026-03-14T05:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T06:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032683429641494972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032683429641494972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉人民币就是厕纸，这种货币没任何信用可言，不让自由兑换，汇率受共产党一言堂操控。随便找个国家的货币都比这种厕纸可靠。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "曾经的悲观阴郁币/咱叫吴水琦(网名吴雾晨)/梦想做一个北欧小姑娘/星宇比较大的小猫(bushi/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Urumqi China",
+        "name": "霧會散（霧晨晨）🌫️🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 334,
+          "like_count": 631,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1239
+        },
+        "username": "NyaMist5",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T11:34:49.000Z",
+        "description": "痛击粉红，文化保守的腊左，二次元小保/支持🇺🇸🇺🇦🇮🇱/二次元小男孩爱好者/八九六四白纸运动江油抗议/支持我的英雄学院，宝可梦，柯南，原神，小泉麻将传说，新左，自由←，文化←，自由主义/支持文化进步",
+        "id": "2021186038614683648",
+        "name": "粉红是8964的帮凶",
+        "pinned_tweet_id": "2021192283974934598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021189672698023936/FE9xK9_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 78,
+          "like_count": 2749,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 728
+        },
+        "username": "lande3333322106",
+        "verified": false
+      }
+    ]
+  }
+}

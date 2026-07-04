@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2058925863341789266",
+    "created_at": "2026-05-25T23:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T00:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059058059495059935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1171043978201878528",
+          "start": 0,
+          "username": "Claris73645268"
+        },
+        {
+          "end": 30,
+          "id": "1622066090074607616",
+          "start": 16,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059058059495059935",
+    "in_reply_to_user_id": "1642270015851474944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059058029589565872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Claris73645268 @hoshinofujivy 补个）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2058925863341789266",
+        "created_at": "2026-05-25T23:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T00:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059058059495059935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1171043978201878528",
+              "start": 0,
+              "username": "Claris73645268"
+            },
+            {
+              "end": 30,
+              "id": "1622066090074607616",
+              "start": 16,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059058059495059935",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059058029589565872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Claris73645268 @hoshinofujivy 补个）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2058925863341789266",
+        "created_at": "2026-05-25T23:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T00:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059058029589565872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1171043978201878528",
+              "start": 0,
+              "username": "Claris73645268"
+            },
+            {
+              "end": 30,
+              "id": "1622066090074607616",
+              "start": 16,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059058029589565872",
+        "in_reply_to_user_id": "1171043978201878528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059023116735832290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Claris73645268 @hoshinofujivy 白b我记得不是有人说下架了来着吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "V:Natsuki_0915(出🍬💉)/tg: https://t.co/cuxhzT92RB逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 50,
+                "username": "HECIz6"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "YeziLoveChen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu/",
+                "end": 47,
+                "expanded_url": "https://t.me/MizusakiWu/",
+                "start": 24,
+                "url": "https://t.co/cuxhzT92RB"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "江苏 中华人民共和国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058588416330391553/9yQ0BPNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 398,
+          "like_count": 954,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1671
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-09T12:53:49.000Z",
+        "description": "mtf（？）欢迎来戳",
+        "id": "1171043978201878528",
+        "location": "关你屁事，关我屁事",
+        "name": "Claris🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920783097185923072/bUJzL9vB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 209,
+          "like_count": 509,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 2228
+        },
+        "username": "Claris73645268",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜luv whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ（藤）",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11392,
+          "following_count": 4316,
+          "like_count": 46567,
+          "listed_count": 37,
+          "media_count": 2425,
+          "tweet_count": 14565
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2055082859413827925",
+    "created_at": "2026-05-15T06:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T07:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055167410567852202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "__fanqie__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055167410567852202",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055082859413827925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__fanqie__ 你这底下都特么是啥啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1661,
+        "media_key": "3_2055082850777731072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIUe9uiakAAjkBU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2055082859413827925",
+        "created_at": "2026-05-15T06:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055167410567852202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055167410567852202",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055082859413827925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__fanqie__ 你这底下都特么是啥啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055082850777731072"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055082859413827925",
+        "created_at": "2026-05-15T00:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T01:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055082859413827925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1je83GWjrw",
+              "end": 34,
+              "expanded_url": "https://x.com/__fanqie__/status/2055082859413827925/photo/1",
+              "media_key": "3_2055082850777731072",
+              "start": 11,
+              "url": "https://t.co/1je83GWjrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055082859413827925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 196339,
+          "like_count": 560,
+          "quote_count": 5,
+          "reply_count": 104,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "视频通话怎么不接呢？ https://t.co/1je83GWjrw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "扩列：422174271(🍬💉)/生产日期：2007.11.26/逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "HECIz6"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484931238805504/5nHhKS9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 397,
+          "like_count": 921,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1600
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2054493321616375888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6757,
+          "following_count": 2956,
+          "like_count": 1538,
+          "listed_count": 12,
+          "media_count": 1281,
+          "tweet_count": 9384
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

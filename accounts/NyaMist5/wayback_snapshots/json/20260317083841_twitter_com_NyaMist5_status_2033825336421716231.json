@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2033512006981214543",
+    "created_at": "2026-03-17T08:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T09:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033825336421716231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2032825058461417473",
+          "start": 0,
+          "username": "Chef7RdR"
+        },
+        {
+          "end": 21,
+          "id": "1935176310663401472",
+          "start": 10,
+          "username": "S_Hyoscine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033825336421716231",
+    "in_reply_to_user_id": "2032825058461417473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033583721891147996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chef7RdR @S_Hyoscine 招你惹你了死蛆？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2033512006981214543",
+        "created_at": "2026-03-17T08:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T09:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033825336421716231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2032825058461417473",
+              "start": 0,
+              "username": "Chef7RdR"
+            },
+            {
+              "end": 21,
+              "id": "1935176310663401472",
+              "start": 10,
+              "username": "S_Hyoscine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033825336421716231",
+        "in_reply_to_user_id": "2032825058461417473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033583721891147996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chef7RdR @S_Hyoscine 招你惹你了死蛆？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032825058461417473",
+        "conversation_id": "2033512006981214543",
+        "created_at": "2026-03-16T16:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T17:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033583721891147996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1935176310663401472",
+              "start": 0,
+              "username": "S_Hyoscine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033583721891147996",
+        "in_reply_to_user_id": "1935176310663401472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 755,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033583273025409460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_Hyoscine 你特么把我对傻逼的下限的看法又刷新了 祝你得癌症 死妈玩意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 440,
+          "like_count": 760,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1340
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-14T14:24:42.000Z",
+        "description": "敢与天争一分运",
+        "id": "2032825058461417473",
+        "name": "陈末",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033206052402167808/fZmZ7IPF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 21,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "username": "Chef7RdR",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T03:23:09.000Z",
+        "description": "小药娘//爱人@hood438371//陪聊门槛50喵，能给你提供情绪价值//风俗娘//重度抖M，sub//大家都可以来私信我喵//生活——是无边无际的、浮满各种漂流物的、变幻无常的、暴力的，但总是一片澄澈而湛蓝的海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "hood438371"
+              }
+            ]
+          }
+        },
+        "id": "1935176310663401472",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "家养宠物春雪狐🍥",
+        "pinned_tweet_id": "2028922217715909008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028447229040812032/QJB4InPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 865,
+          "like_count": 22770,
+          "listed_count": 3,
+          "media_count": 398,
+          "tweet_count": 6681
+        },
+        "username": "S_Hyoscine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2053351607333462302",
+    "created_at": "2026-05-10T16:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T17:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053519362477404299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1108737084301307904",
+          "start": 0,
+          "username": "EntropyF73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053519362477404299",
+    "in_reply_to_user_id": "1108737084301307904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053351607333462302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@EntropyF73 次密接➕1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1207,
+        "media_key": "3_2053351601675313154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH74ZxDWIAIIr5N.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2053351607333462302",
+        "created_at": "2026-05-10T16:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053519362477404299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1108737084301307904",
+              "start": 0,
+              "username": "EntropyF73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053519362477404299",
+        "in_reply_to_user_id": "1108737084301307904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053351607333462302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@EntropyF73 次密接➕1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053351601675313154"
+          ]
+        },
+        "author_id": "1108737084301307904",
+        "conversation_id": "2053351607333462302",
+        "created_at": "2026-05-10T05:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053351607333462302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lMexpH8mxB",
+              "end": 66,
+              "expanded_url": "https://x.com/EntropyF73/status/2053351607333462302/photo/1",
+              "media_key": "3_2053351601675313154",
+              "start": 43,
+              "url": "https://t.co/lMexpH8mxB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053351607333462302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1413,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "600fo感谢🎉\n依旧是密接&amp;次密接🉑回复（我有点爱上这个功能了🥹大家好热情 https://t.co/lMexpH8mxB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "🍬商：422174271(备注来意)/生产日期：2007.11.26/逃生舱@HECIz6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "HECIz6"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中国",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484931238805504/5nHhKS9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 484,
+          "like_count": 924,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1573
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-21T14:28:15.000Z",
+        "description": "🏳️‍🌈+🖤🩶🤍💜 Indie VTuber 个人势 | enby INFJ-A 中文 & EN｜Weibo & Bilibili: 熵x殇Entropy (GB based) cptsd自救 | Support Me⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/entropyf73",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/entropyf73",
+                "start": 0,
+                "url": "https://t.co/aSj9f0QHM2"
+              }
+            ]
+          }
+        },
+        "id": "1108737084301307904",
+        "location": "East, England",
+        "name": "Entropy 📎💙",
+        "pinned_tweet_id": "1548475185132552193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546099766416871426/3J0rGG_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 1107,
+          "like_count": 23420,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1831
+        },
+        "url": "https://t.co/aSj9f0QHM2",
+        "username": "EntropyF73",
+        "verified": true
+      }
+    ]
+  }
+}

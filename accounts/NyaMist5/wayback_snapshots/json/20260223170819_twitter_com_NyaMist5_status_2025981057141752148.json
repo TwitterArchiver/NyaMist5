@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2019062599040844271",
+    "created_at": "2026-02-23T17:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T18:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025981057141752148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1743651797087277056",
+          "start": 0,
+          "username": "Aether8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025981057141752148",
+    "in_reply_to_user_id": "1743651797087277056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019062599040844271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aether8964 这个世界上只有他们是乐色"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019062596222291968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUmu9sbkAAE4Uk.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2019062599040844271",
+        "created_at": "2026-02-23T17:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T18:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025981057141752148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1743651797087277056",
+              "start": 0,
+              "username": "Aether8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025981057141752148",
+        "in_reply_to_user_id": "1743651797087277056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019062599040844271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aether8964 这个世界上只有他们是乐色"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019062596222291968"
+          ]
+        },
+        "author_id": "1743651797087277056",
+        "conversation_id": "2019062599040844271",
+        "created_at": "2026-02-04T14:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T15:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019062599040844271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tC9DcMn2Se",
+              "end": 23,
+              "expanded_url": "https://x.com/Aether8964/status/2019062599040844271/photo/1",
+              "media_key": "3_2019062596222291968",
+              "start": 0,
+              "url": "https://t.co/tC9DcMn2Se"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019062599040844271",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 41825,
+          "like_count": 392,
+          "quote_count": 5,
+          "reply_count": 72,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tC9DcMn2Se"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "曾经的悲观阴郁币/咱叫吴水琦(网名吴雾晨)/梦想做一个北欧小姑娘/星宇比较大的小猫(bushi/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Urumqi China",
+        "name": "霧會散（霧晨晨）🌫️🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025151367011336198/E3y_V5VL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 402,
+          "like_count": 508,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1135
+        },
+        "username": "NyaMist5",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T15:12:50.000Z",
+        "description": "Telegram：https://t.co/ngpTT2PiFN\nMail：aether9008@proton.me",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Aether_9008/",
+                "end": 32,
+                "expanded_url": "http://t.me/Aether_9008/",
+                "start": 9,
+                "url": "https://t.co/ngpTT2PiFN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aethernochannel",
+                "end": 23,
+                "expanded_url": "https://t.me/Aethernochannel",
+                "start": 0,
+                "url": "https://t.co/8Qm6arCeaX"
+              }
+            ]
+          }
+        },
+        "id": "1743651797087277056",
+        "location": "Kingdom of Khaenri'ah",
+        "name": "空ちゃん🎌",
+        "pinned_tweet_id": "2021259031378313336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977278433970552832/VsVQc5RY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 2249,
+          "like_count": 23327,
+          "listed_count": 11,
+          "media_count": 1435,
+          "tweet_count": 4716
+        },
+        "url": "https://t.co/8Qm6arCeaX",
+        "username": "Aether8964",
+        "verified": false
+      }
+    ]
+  }
+}

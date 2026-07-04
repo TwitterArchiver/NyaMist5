@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061728461526556672"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2061728469608976808",
+    "created_at": "2026-06-02T08:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T09:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061728469608976808"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n6OjntJd8M",
+          "end": 28,
+          "expanded_url": "https://x.com/NyaMist5/status/2061728469608976808/photo/1",
+          "media_key": "3_2061728461526556672",
+          "start": 5,
+          "url": "https://t.co/n6OjntJd8M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061728469608976808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "地狱笑话 https://t.co/n6OjntJd8M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1613,
+        "media_key": "3_2061728461526556672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJy7HLyaYAAbsKE.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061728461526556672"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2061728469608976808",
+        "created_at": "2026-06-02T08:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061728469608976808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n6OjntJd8M",
+              "end": 28,
+              "expanded_url": "https://x.com/NyaMist5/status/2061728469608976808/photo/1",
+              "media_key": "3_2061728461526556672",
+              "start": 5,
+              "url": "https://t.co/n6OjntJd8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061728469608976808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地狱笑话 https://t.co/n6OjntJd8M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "V:Natsuki_0915(出🍬💉)/tg: https://t.co/cuxhzT92RB逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 50,
+                "username": "HECIz6"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "YeziLoveChen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu/",
+                "end": 47,
+                "expanded_url": "https://t.me/MizusakiWu/",
+                "start": 24,
+                "url": "https://t.co/cuxhzT92RB"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "江苏 中华人民共和国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058588416330391553/9yQ0BPNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 405,
+          "like_count": 960,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 1684
+        },
+        "username": "NyaMist5",
+        "verified": true
+      }
+    ]
+  }
+}

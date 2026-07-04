@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025241737074245632",
+        "3_2025241737074278408"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025241755592094156",
+    "created_at": "2026-02-21T16:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T17:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025241755592094156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hDly8bqaUp",
+          "end": 39,
+          "expanded_url": "https://x.com/NyaMist5/status/2025241755592094156/photo/1",
+          "media_key": "3_2025241737074245632",
+          "start": 16,
+          "url": "https://t.co/hDly8bqaUp"
+        },
+        {
+          "display_url": "pic.x.com/hDly8bqaUp",
+          "end": 39,
+          "expanded_url": "https://x.com/NyaMist5/status/2025241755592094156/photo/1",
+          "media_key": "3_2025241737074278408",
+          "start": 16,
+          "url": "https://t.co/hDly8bqaUp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025241755592094156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你说运气咋就那么不是时候的来呢 https://t.co/hDly8bqaUp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2025241737074245632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsaoTKbAAA1PTT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2025241737074278408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsaoTKbgAgermn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025241737074245632",
+            "3_2025241737074278408"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025241755592094156",
+        "created_at": "2026-02-21T16:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025241755592094156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hDly8bqaUp",
+              "end": 39,
+              "expanded_url": "https://x.com/NyaMist5/status/2025241755592094156/photo/1",
+              "media_key": "3_2025241737074245632",
+              "start": 16,
+              "url": "https://t.co/hDly8bqaUp"
+            },
+            {
+              "display_url": "pic.x.com/hDly8bqaUp",
+              "end": 39,
+              "expanded_url": "https://x.com/NyaMist5/status/2025241755592094156/photo/1",
+              "media_key": "3_2025241737074278408",
+              "start": 16,
+              "url": "https://t.co/hDly8bqaUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025241755592094156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说运气咋就那么不是时候的来呢 https://t.co/hDly8bqaUp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "曾经的悲观阴郁币/咱叫吴水琦(网名吴雾晨)/梦想做一个北欧小姑娘/星宇比较大的小猫(bushi/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Urumqi China",
+        "name": "霧會散（霧晨晨）🌫️🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025151367011336198/E3y_V5VL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 398,
+          "like_count": 493,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1123
+        },
+        "username": "NyaMist5",
+        "verified": false
+      }
+    ]
+  }
+}

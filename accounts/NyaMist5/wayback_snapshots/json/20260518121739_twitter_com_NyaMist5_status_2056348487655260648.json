@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2055998707196469467",
+    "created_at": "2026-05-18T12:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056348487655260648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900108524304076800",
+          "start": 0,
+          "username": "qi_bu64350"
+        },
+        {
+          "end": 24,
+          "id": "2012958305308565505",
+          "start": 12,
+          "username": "raindreamya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056348487655260648",
+    "in_reply_to_user_id": "1900108524304076800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055998707196469467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_bu64350 @raindreamya 好哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2055998696727416832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhf6-kakAATbWm.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2055998707196469467",
+        "created_at": "2026-05-18T12:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056348487655260648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900108524304076800",
+              "start": 0,
+              "username": "qi_bu64350"
+            },
+            {
+              "end": 24,
+              "id": "2012958305308565505",
+              "start": 12,
+              "username": "raindreamya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056348487655260648",
+        "in_reply_to_user_id": "1900108524304076800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055998707196469467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_bu64350 @raindreamya 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055998696727416832"
+          ]
+        },
+        "author_id": "1900108524304076800",
+        "conversation_id": "2055998707196469467",
+        "created_at": "2026-05-17T13:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055998707196469467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "2012958305308565505",
+              "start": 9,
+              "username": "raindreamya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fzhsxYdNMp",
+              "end": 45,
+              "expanded_url": "https://x.com/qi_bu64350/status/2055998707196469467/photo/1",
+              "media_key": "3_2055998696727416832",
+              "start": 22,
+              "url": "https://t.co/fzhsxYdNMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055998707196469467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2451,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我突然又不社恐了😋@raindreamya https://t.co/fzhsxYdNMp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "扩列：422174271(🍬💉)/生产日期：2007.11.26/逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "HECIz6"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484931238805504/5nHhKS9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 410,
+          "like_count": 933,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1633
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T08:56:07.000Z",
+        "description": "前@Ciallo_114_514 \n一切过激言论均由第二人格控制发布\n随缘回fo，私信互fo\n个人简介看上个号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 1,
+                "username": "Ciallo_114_514"
+              }
+            ]
+          }
+        },
+        "id": "1900108524304076800",
+        "location": "第五高原",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2053109515546132666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049695578402304000/1dyUSXys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 676,
+          "like_count": 967,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 1502
+        },
+        "username": "qi_bu64350",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T18:41:01.000Z",
+        "description": "🏳️‍⚧️🍥暂时是只刚出炉的mtf喵~🍥🏳️‍⚧️\n🏳️‍⚧️生产日期10.3.5 | 无证含糖 | 🍬HRT 26.2.13 | 💥 26.3.2 炸柜 |「常驻江浙沪」 |182cm 62kg | 这里可以通过tg联系窝喵👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rainsnowdream",
+                "end": 23,
+                "expanded_url": "http://t.me/rainsnowdream",
+                "start": 0,
+                "url": "https://t.co/gbPraZolk2"
+              }
+            ]
+          }
+        },
+        "id": "2012958305308565505",
+        "name": "雨梦🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043635114064986112/vB72dk36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 139,
+          "like_count": 1114,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 534
+        },
+        "url": "https://t.co/gbPraZolk2",
+        "username": "raindreamya",
+        "verified": false
+      }
+    ]
+  }
+}

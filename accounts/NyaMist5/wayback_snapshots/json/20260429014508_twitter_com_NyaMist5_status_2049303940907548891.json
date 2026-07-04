@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2049132894019551609",
+    "created_at": "2026-04-29T01:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T02:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049303940907548891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2018852260168744960",
+          "start": 0,
+          "username": "MansurBearr"
+        },
+        {
+          "end": 24,
+          "id": "1952257824664485888",
+          "start": 13,
+          "username": "LibailuOne"
+        },
+        {
+          "end": 35,
+          "id": "2031715041196875776",
+          "start": 25,
+          "username": "YiJin_0v0"
+        },
+        {
+          "end": 47,
+          "id": "1953249928320565254",
+          "start": 36,
+          "username": "JiaYu56300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049303940907548891",
+    "in_reply_to_user_id": "2018852260168744960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049292444379091075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MansurBearr @LibailuOne @YiJin_0v0 @JiaYu56300 你妈死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2049132894019551609",
+        "created_at": "2026-04-29T01:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049303940907548891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2018852260168744960",
+              "start": 0,
+              "username": "MansurBearr"
+            },
+            {
+              "end": 24,
+              "id": "1952257824664485888",
+              "start": 13,
+              "username": "LibailuOne"
+            },
+            {
+              "end": 35,
+              "id": "2031715041196875776",
+              "start": 25,
+              "username": "YiJin_0v0"
+            },
+            {
+              "end": 47,
+              "id": "1953249928320565254",
+              "start": 36,
+              "username": "JiaYu56300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049303940907548891",
+        "in_reply_to_user_id": "2018852260168744960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049292444379091075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MansurBearr @LibailuOne @YiJin_0v0 @JiaYu56300 你妈死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018852260168744960",
+        "conversation_id": "2049132894019551609",
+        "created_at": "2026-04-29T00:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T01:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049292444379091075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952257824664485888",
+              "start": 0,
+              "username": "LibailuOne"
+            },
+            {
+              "end": 21,
+              "id": "1642270015851474944",
+              "start": 12,
+              "username": "NyaMist5"
+            },
+            {
+              "end": 32,
+              "id": "2031715041196875776",
+              "start": 22,
+              "username": "YiJin_0v0"
+            },
+            {
+              "end": 44,
+              "id": "1953249928320565254",
+              "start": 33,
+              "username": "JiaYu56300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049292444379091075",
+        "in_reply_to_user_id": "1952257824664485888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049148253002944589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LibailuOne @NyaMist5 @YiJin_0v0 @JiaYu56300 这只跨畜已经死了￼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "已退役oder💊/生产日期：2007.11.26/逃生舱@HECIz6/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "HECIz6"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 482,
+          "like_count": 894,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1527
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-04T01:01:54.000Z",
+        "description": "",
+        "id": "2018852260168744960",
+        "name": "Dick Long",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042871038619586560/2W7Py4t-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 81,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "MansurBearr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T06:38:58.000Z",
+        "description": "原諒我吧，我這個罪人。Forgive me, a sinner.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/libailu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/libailu",
+                "start": 0,
+                "url": "https://t.co/QnEdZGJvUw"
+              }
+            ]
+          }
+        },
+        "id": "1952257824664485888",
+        "location": "亚神瑞亚尼赛亚（Asenruia Nisaa）",
+        "name": "Libailu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049090787191992320/M7ZR9HqM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 369,
+          "like_count": 8920,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1113
+        },
+        "url": "https://t.co/QnEdZGJvUw",
+        "username": "LibailuOne",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "@rinii165892 有事优先联系此账号\n我是辣条，不要欺负我/精神病很严重，随时都会死掉/无证含糖/家暴党",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "出租屋",
+        "name": "霖/伊井酱酱酱🍥8964～",
+        "pinned_tweet_id": "2049137147219968346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047345595497738240/v4nAldhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 436,
+          "like_count": 2380,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1496
+        },
+        "username": "YiJin_0v0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T00:21:02.000Z",
+        "description": "雌二醇重度依赖(无证)💊🍬🍭🍥🏳‍⚧(同类求互关喵)\n喜欢二次元，音游，速核，cosplay，甜食控，魔爪控，od，i/e人随机，多重人格，利他主义，泛性恋，花刀艺术，m，168/48\n妹妹：@Libailu🍥🏳️‍⚧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 96,
+                "username": "Libailu"
+              }
+            ]
+          }
+        },
+        "id": "1953249928320565254",
+        "name": "食用性少女🍥🏳‍⚧",
+        "pinned_tweet_id": "2031299825350939003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031568383674859520/obzcVkmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 39,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 63
+        },
+        "username": "JiaYu56300",
+        "verified": false
+      }
+    ]
+  }
+}

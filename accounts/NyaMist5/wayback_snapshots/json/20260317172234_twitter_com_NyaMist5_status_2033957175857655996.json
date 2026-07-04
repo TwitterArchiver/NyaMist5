@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2030940303117754615",
+    "created_at": "2026-03-17T17:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T18:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033957175857655996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "786166916876341248",
+          "start": 0,
+          "username": "Uzuki_Tsubaki"
+        },
+        {
+          "end": 30,
+          "id": "1303335410609790976",
+          "start": 15,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033957175857655996",
+    "in_reply_to_user_id": "786166916876341248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030970307671175325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uzuki_Tsubaki @Rococo90933671 我目前就在新疆，我可以很负责任的告诉你美国和中国唯一的区别就是美国人干的事情美国人自己也知道印第安大屠杀，但内地中国人不会想到再新疆这个地方在上演潜移默化的文化灭绝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2030940303117754615",
+        "created_at": "2026-03-17T17:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T18:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033957175857655996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "786166916876341248",
+              "start": 0,
+              "username": "Uzuki_Tsubaki"
+            },
+            {
+              "end": 30,
+              "id": "1303335410609790976",
+              "start": 15,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033957175857655996",
+        "in_reply_to_user_id": "786166916876341248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030970307671175325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uzuki_Tsubaki @Rococo90933671 我目前就在新疆，我可以很负责任的告诉你美国和中国唯一的区别就是美国人干的事情美国人自己也知道印第安大屠杀，但内地中国人不会想到再新疆这个地方在上演潜移默化的文化灭绝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786166916876341248",
+        "conversation_id": "2030940303117754615",
+        "created_at": "2026-03-09T11:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030970307671175325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030970307671175325",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8060,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030940303117754615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 我还见过维吾尔语版的课本，在藏区听过藏民教新生儿藏语，所以很好奇外网的所谓民族文化灭绝是怎么来的谣言。是因为美利坚真的灭绝了印第安，日本真的灭绝了琉球和阿伊努，就要以己度人吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 444,
+          "like_count": 772,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1355
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2016-10-12T11:29:34.000Z",
+        "description": "あなたと友達になりたい！",
+        "id": "786166916876341248",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "かなで@島村卯月P",
+        "pinned_tweet_id": "809315540267200512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1250115669611425795/PHGgrTOG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 242,
+          "like_count": 300,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 300
+        },
+        "username": "Uzuki_Tsubaki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9337,
+          "following_count": 2700,
+          "like_count": 31765,
+          "listed_count": 25,
+          "media_count": 3368,
+          "tweet_count": 18873
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

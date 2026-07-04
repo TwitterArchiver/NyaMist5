@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053151729160753152"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2053151812304458219",
+    "created_at": "2026-05-09T16:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T17:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053151812304458219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 48,
+          "id": "1958774802795438082",
+          "start": 35,
+          "username": "YeziLoveChen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/InPCLY2S6q",
+          "end": 72,
+          "expanded_url": "https://x.com/NyaMist5/status/2053151812304458219/video/1",
+          "media_key": "13_2053151729160753152",
+          "start": 49,
+          "url": "https://t.co/InPCLY2S6q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053151812304458219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好吧，你要知道天天卖东西卖不出去吃的还特多的惩罚是什么嘛？\n作战记录：@YeziLoveChen https://t.co/InPCLY2S6q"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053151812304458219].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053151812304458219",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053151812304458219"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15780,
+        "height": 1280,
+        "media_key": "13_2053151729160753152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053151729160753152/img/DaZzeoqzol547nXV.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053151729160753152/vid/avc1/320x568/ulsLlvMPNIDGiCo9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053151729160753152/vid/avc1/480x852/kgFSFCBYCz11e5Lm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053151729160753152/vid/avc1/720x1280/IvkI4-bQj20ARvtj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053151729160753152/pl/rNBmYsk0NLe8NypU.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "🍬商：422174271(备注来意)/生产日期：2007.11.26/逃生舱@HECIz6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "HECIz6"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 484,
+          "like_count": 916,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1559
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-22T06:14:49.000Z",
+        "description": "热爱生活！爱大家！拒绝消极！拒绝内耗！/跟老婆过最好的最幸福滴生活！/最好的老婆大人：@NyaMist5 ：hrt：2025/11/23/Fps游戏基本都玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "NyaMist5"
+              }
+            ]
+          }
+        },
+        "id": "1958774802795438082",
+        "location": "Los Angeles, CA",
+        "name": "叶子🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033362982198239232/wLE_0mo7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 66,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 101
+        },
+        "username": "YeziLoveChen",
+        "verified": false
+      }
+    ]
+  }
+}

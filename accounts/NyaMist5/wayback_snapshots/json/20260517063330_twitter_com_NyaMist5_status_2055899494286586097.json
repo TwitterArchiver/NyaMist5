@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2055883261969383861",
+    "created_at": "2026-05-17T06:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055899494286586097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892789733287460864",
+          "start": 0,
+          "username": "XIAOSUSU456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055899494286586097",
+    "in_reply_to_user_id": "1892789733287460864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055883261969383861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XIAOSUSU456 应该是校长"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2055883261969383861",
+        "created_at": "2026-05-17T06:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055899494286586097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892789733287460864",
+              "start": 0,
+              "username": "XIAOSUSU456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055899494286586097",
+        "in_reply_to_user_id": "1892789733287460864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055883261969383861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOSUSU456 应该是校长"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892789733287460864",
+        "conversation_id": "2055883261969383861",
+        "created_at": "2026-05-17T05:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055883261969383861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055883261969383861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "既然学校是我家，那我可不可以把班主任叫成妈妈🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "扩列：422174271(🍬💉)/生产日期：2007.11.26/逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "HECIz6"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484931238805504/5nHhKS9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 408,
+          "like_count": 926,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1625
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T04:13:44.000Z",
+        "description": "家长不管党 年龄党 MtF/X 随兴互fo 较社恐\n16岁，高一，不od，不自残，小证含糖\nHRT🍥:2026.04.17 | 168 cm | 58 kg | 友跨友lgbtq+文化 | INFP-T 出生日:2010.3.16\nminecraft丨异环丨铁锈战争玩家\nHTML/Gore/数码/深度二次元/AI",
+        "id": "1892789733287460864",
+        "name": "_Xiaosuda_🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046919261994823935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052239433743949824/zVtNaMaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 101,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 82
+        },
+        "username": "XIAOSUSU456",
+        "verified": false
+      }
+    ]
+  }
+}

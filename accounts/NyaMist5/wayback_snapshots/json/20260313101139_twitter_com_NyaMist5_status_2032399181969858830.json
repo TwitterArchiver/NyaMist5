@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2032399181969858830",
+    "created_at": "2026-03-13T10:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T11:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032399181969858830"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sonogamirinnet…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/sonogamirinnets/status/2031693518817955999",
+          "start": 25,
+          "url": "https://t.co/2RNChrDIe6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032399181969858830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031693518817955999",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新疆的不确定是不是谣言，但美国的这个信的包傻逼的 https://t.co/2RNChrDIe6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2032399181969858830",
+        "created_at": "2026-03-13T10:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T11:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032399181969858830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sonogamirinnet…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/sonogamirinnets/status/2031693518817955999",
+              "start": 25,
+              "url": "https://t.co/2RNChrDIe6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032399181969858830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031693518817955999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新疆的不确定是不是谣言，但美国的这个信的包傻逼的 https://t.co/2RNChrDIe6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "2031693518817955999",
+        "created_at": "2026-03-11T11:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T12:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031693518817955999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031693518817955999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 13244,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "药娘哭话第三十七则：谣谣乐\n\n某日一个中国人遇到一个美国人，中国人问美国人：那个新疆的谣言那么扯，为啥你们美国人还会信？\n\n美国人听后一脸不屑地反问到：你们中国人不也相信美国强迫未成年人变性的谣言吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "曾经的悲观阴郁币/咱叫吴水琦(网名吴雾晨)/梦想做一个北欧小姑娘/星宇比较大的小猫(bushi/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Urumqi China",
+        "name": "霧會散（霧晨晨）🌫️🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 328,
+          "like_count": 627,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1232
+        },
+        "username": "NyaMist5",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3871,
+          "following_count": 2919,
+          "like_count": 1120,
+          "listed_count": 13,
+          "media_count": 199,
+          "tweet_count": 1390
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

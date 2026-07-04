@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2044986918879023494",
+    "created_at": "2026-04-17T03:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T04:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044986918879023494"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cici20120712/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/cici20120712/status/2040080078974157145",
+          "start": 5,
+          "url": "https://t.co/lUM7g6a9z8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044986918879023494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040080078974157145",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我艹坏了 https://t.co/lUM7g6a9z8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2044986918879023494",
+        "created_at": "2026-04-17T03:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T04:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044986918879023494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cici20120712/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/cici20120712/status/2040080078974157145",
+              "start": 5,
+              "url": "https://t.co/lUM7g6a9z8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044986918879023494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040080078974157145",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我艹坏了 https://t.co/lUM7g6a9z8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808604308163940352",
+        "conversation_id": "2040080078974157145",
+        "created_at": "2026-04-03T14:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040080078974157145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040080078974157145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 482,
+          "impression_count": 797157,
+          "like_count": 2405,
+          "quote_count": 113,
+          "reply_count": 377,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "你知道吗，如果男孩子小时候不是手冲出来的是压床出来的，长大了就会变成小男娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 458,
+          "like_count": 865,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1470
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-03T20:50:59.000Z",
+        "description": "门槛68zfb口令就行了喵\n底边coser，偶尔会配音或者画画，大部分时间在睡觉，小号@ci20120712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "ci20120712"
+              }
+            ]
+          }
+        },
+        "id": "1808604308163940352",
+        "name": "魔法少女凛瓷瓷",
+        "pinned_tweet_id": "2006526827796586753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69335,
+          "following_count": 104,
+          "like_count": 875,
+          "listed_count": 179,
+          "media_count": 739,
+          "tweet_count": 1326
+        },
+        "username": "cici20120712",
+        "verified": false
+      }
+    ]
+  }
+}

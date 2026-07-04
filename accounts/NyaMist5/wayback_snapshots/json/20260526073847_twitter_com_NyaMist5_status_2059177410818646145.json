@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2059063630491226274",
+    "created_at": "2026-05-26T07:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059177410818646145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761282483834998784",
+          "start": 0,
+          "username": "qiancongxyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059177410818646145",
+    "in_reply_to_user_id": "1761282483834998784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059063630491226274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiancongxyn 苏南尤其是无锡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2059063630491226274",
+        "created_at": "2026-05-26T07:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059177410818646145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761282483834998784",
+              "start": 0,
+              "username": "qiancongxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059177410818646145",
+        "in_reply_to_user_id": "1761282483834998784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059063630491226274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiancongxyn 苏南尤其是无锡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761282483834998784",
+        "conversation_id": "2059063630491226274",
+        "created_at": "2026-05-26T00:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T01:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059063630491226274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059063630491226274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6617,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪个省xyn多🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "V:Natsuki_0915(出🍬💉)/tg: https://t.co/cuxhzT92RB逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 50,
+                "username": "HECIz6"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "YeziLoveChen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu/",
+                "end": 47,
+                "expanded_url": "https://t.me/MizusakiWu/",
+                "start": 24,
+                "url": "https://t.co/cuxhzT92RB"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "江苏 中华人民共和国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058588416330391553/9yQ0BPNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 399,
+          "like_count": 954,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1672
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 HRT 26.2.21｜无证含糖\n出厂日期 09.3.14\n\n已炸柜｜半家长党（?）\n高二物化生｜成绩倒数｜考虑休学\n爱哭+发牢骚｜负面帖垃圾桶｜觉得我傻逼就ban我\n不阔爱不pass😭｜缺爱想交朋友\n\n私信互fo｜友好相处｜性压抑给我滚🚫\n对象 @xiaoyimiaoaaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "xiaoyimiaoaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 785,
+          "like_count": 969,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 973
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": false
+      }
+    ]
+  }
+}

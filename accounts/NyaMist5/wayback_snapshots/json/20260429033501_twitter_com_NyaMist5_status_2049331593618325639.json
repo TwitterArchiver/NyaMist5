@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2049080496047731057",
+    "created_at": "2026-04-29T03:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T04:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049331593618325639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2018852260168744960",
+          "start": 0,
+          "username": "MansurBearr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049331593618325639",
+    "in_reply_to_user_id": "2018852260168744960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049331058597118201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MansurBearr 平a交大招来了，打你的飞机去吧😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2049080496047731057",
+        "created_at": "2026-04-29T03:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049331593618325639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2018852260168744960",
+              "start": 0,
+              "username": "MansurBearr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049331593618325639",
+        "in_reply_to_user_id": "2018852260168744960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049331058597118201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MansurBearr 平a交大招来了，打你的飞机去吧😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018852260168744960",
+        "conversation_id": "2049080496047731057",
+        "created_at": "2026-04-29T03:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049331058597118201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049331058597118201",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049330852254097414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 操你妈的跨畜！天天自欺欺人喊‘我是女人’，结果照镜子还是那个丑逼男的臭脸，喉结大得像鸡巴，声音粗得像拉屎，你他妈骗得到别人，骗得过自己那根没割干净的烂吊吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "已退役oder💊/生产日期：2007.11.26/逃生舱@HECIz6/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "HECIz6"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 482,
+          "like_count": 902,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1530
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-04T01:01:54.000Z",
+        "description": "",
+        "id": "2018852260168744960",
+        "name": "Dick Long",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042871038619586560/2W7Py4t-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 81,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 105
+        },
+        "username": "MansurBearr",
+        "verified": false
+      }
+    ]
+  }
+}

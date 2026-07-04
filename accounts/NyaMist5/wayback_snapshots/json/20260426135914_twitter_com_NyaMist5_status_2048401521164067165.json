@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2048345833117261898",
+    "created_at": "2026-04-26T13:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048401521164067165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2009773968891469824",
+          "start": 0,
+          "username": "420bbnnkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048401521164067165",
+    "in_reply_to_user_id": "2009773968891469824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048401181320642749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@420bbnnkk 窝趣广吸大人来了🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 725,
+        "media_key": "3_2048401111418327040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1h9Tua0AARp74.jpg",
+        "width": 2170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2048345833117261898",
+        "created_at": "2026-04-26T13:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048401521164067165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2009773968891469824",
+              "start": 0,
+              "username": "420bbnnkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048401521164067165",
+        "in_reply_to_user_id": "2009773968891469824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048401181320642749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@420bbnnkk 窝趣广吸大人来了🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048401111418327040"
+          ]
+        },
+        "author_id": "2009773968891469824",
+        "conversation_id": "2048345833117261898",
+        "created_at": "2026-04-26T13:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048401181320642749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RM4Rr1BhiU",
+              "end": 33,
+              "expanded_url": "https://x.com/420bbnnkk/status/2048401181320642749/photo/1",
+              "media_key": "3_2048401111418327040",
+              "start": 10,
+              "url": "https://t.co/RM4Rr1BhiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048401181320642749",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048345833117261898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 https://t.co/RM4Rr1BhiU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 473,
+          "like_count": 885,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1507
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-09T23:47:23.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，私信常开，接受投稿，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息，关注局长 防范骗局",
+        "id": "2009773968891469824",
+        "location": " Australia",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023055132632702976/i-G8Lq9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 34,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 98
+        },
+        "username": "420bbnnkk",
+        "verified": false
+      }
+    ]
+  }
+}

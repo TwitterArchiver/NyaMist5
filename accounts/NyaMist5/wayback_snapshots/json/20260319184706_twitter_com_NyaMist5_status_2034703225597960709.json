@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2034600937231425808",
+    "created_at": "2026-03-19T18:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T19:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034703225597960709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1636232016231542784",
+          "start": 0,
+          "username": "SEuyrj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034703225597960709",
+    "in_reply_to_user_id": "1636232016231542784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034676928628891904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SEuyrj 好久不见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2034600937231425808",
+        "created_at": "2026-03-19T18:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T19:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034703225597960709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1636232016231542784",
+              "start": 0,
+              "username": "SEuyrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034703225597960709",
+        "in_reply_to_user_id": "1636232016231542784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034676928628891904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SEuyrj 好久不见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636232016231542784",
+        "conversation_id": "2034600937231425808",
+        "created_at": "2026-03-19T17:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T18:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034676928628891904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034676928628891904",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034600937231425808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 宝宝好久不见哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 443,
+          "like_count": 797,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1377
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-16T05:04:59.000Z",
+        "description": "依然是小花酱喵～🌸  \n\n喜欢的人喵💕：@1234568hhhhh 🥵🥵/ /向我发送任意消息喵，匿名喵！点击链接喵：https://t.co/ahXsJ3ZxvW🥰 \n（不定时冒泡喵）还是堕落成小男娘了喵 (⁠｡⁠ŏ⁠﹏⁠ŏ⁠)我是笨蛋喵🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "1234568hhhhh"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/seuyrj1",
+                "end": 82,
+                "expanded_url": "https://ngl.link/seuyrj1",
+                "start": 59,
+                "url": "https://t.co/ahXsJ3ZxvW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seuyrj1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seuyrj1",
+                "start": 0,
+                "url": "https://t.co/ahXsJ3ZxvW"
+              }
+            ]
+          }
+        },
+        "id": "1636232016231542784",
+        "location": "唐辛子星",
+        "name": "小二b卵子～🌸",
+        "pinned_tweet_id": "2030248416832573950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009657883202609152/0glQAFQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 881,
+          "like_count": 10151,
+          "listed_count": 1,
+          "media_count": 378,
+          "tweet_count": 3140
+        },
+        "url": "https://t.co/ahXsJ3ZxvW",
+        "username": "SEuyrj",
+        "verified": false
+      }
+    ]
+  }
+}

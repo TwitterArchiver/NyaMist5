@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2068546356931952713",
+    "created_at": "2026-06-21T11:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068651597538963686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519649212736049152",
+          "start": 0,
+          "username": "Mark67358226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068651597538963686",
+    "in_reply_to_user_id": "1519649212736049152",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068617428544913713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mark67358226 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2068546356931952713",
+        "created_at": "2026-06-21T11:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068651597538963686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519649212736049152",
+              "start": 0,
+              "username": "Mark67358226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068651597538963686",
+        "in_reply_to_user_id": "1519649212736049152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068617428544913713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mark67358226 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519649212736049152",
+        "conversation_id": "2068546356931952713",
+        "created_at": "2026-06-21T08:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068617428544913713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068617428544913713",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068546356931952713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 有人的🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "日产芝麻油/土色天象V:Natsuki_0915/tg: https://t.co/gx52vkhQzR(江苏省内包邮)/逃生舱@HECIz6/里推@NyaMist6/07年11月等死老登",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 64,
+                "username": "HECIz6"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 52,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 29,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064980603934756864/VoAdDnwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 414,
+          "like_count": 975,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 1758
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體 簡體🉑 | 是男孩子 |日語🇯🇵 朝鮮語🇰🇷也會一點 | 友跨+LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（求你們私信找我聊天吧！）僅交友不約！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn",
+                "end": 23,
+                "expanded_url": "http://dreamail.cn",
+                "start": 0,
+                "url": "https://t.co/UrGAmTGSj9"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2049133758931161088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 1243,
+          "like_count": 20154,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 4377
+        },
+        "url": "https://t.co/UrGAmTGSj9",
+        "username": "Mark67358226",
+        "verified": false
+      }
+    ]
+  }
+}

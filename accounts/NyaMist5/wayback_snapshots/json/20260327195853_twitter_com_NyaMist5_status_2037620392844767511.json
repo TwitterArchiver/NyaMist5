@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2037620392844767511",
+    "created_at": "2026-03-27T19:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T20:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037620392844767511"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xinggu233893/s…",
+          "end": 111,
+          "expanded_url": "https://twitter.com/xinggu233893/status/2037611335266316288",
+          "start": 88,
+          "url": "https://t.co/wss0siqUxb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037620392844767511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037611335266316288",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🟩支持同性婚姻\n🟩毒品除罪化\n🟩堕胎合法化\n🟩承认跨性别\n🟩同意第三种性别的存在\n🟨废除死刑\n🟨世俗主义\n🟨女性主义\n🟩反对体罚小孩\n🟩允许多边恋\n\n🟥不同意\n🟨中立\n🟩同意 https://t.co/wss0siqUxb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2037620392844767511",
+        "created_at": "2026-03-27T19:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T20:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037620392844767511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xinggu233893/s…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/xinggu233893/status/2037611335266316288",
+              "start": 88,
+              "url": "https://t.co/wss0siqUxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037620392844767511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037611335266316288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🟩支持同性婚姻\n🟩毒品除罪化\n🟩堕胎合法化\n🟩承认跨性别\n🟩同意第三种性别的存在\n🟨废除死刑\n🟨世俗主义\n🟨女性主义\n🟩反对体罚小孩\n🟩允许多边恋\n\n🟥不同意\n🟨中立\n🟩同意 https://t.co/wss0siqUxb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902691463252852736",
+        "conversation_id": "2037611335266316288",
+        "created_at": "2026-03-27T19:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T20:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037611335266316288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037611335266316288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🟩支持同性婚姻\n🟩毒品除罪化\n🟩堕胎合法化\n🟩承认跨性别\n🟩同意第三种性别的存在\n🟩废除死刑\n🟨世俗主义\n🟨女性主义\n🟩反对体罚小孩\n🟩允许多边恋\n\n🟥不同意\n🟨中立\n🟩同意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 461,
+          "like_count": 873,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1430
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T11:59:41.000Z",
+        "description": "高中牲🤓/含糖中💊/欢迎互fo😘/fo我的我会主动回/MTX🏳️‍⚧️/半炸柜/友同🏳️‍🌈/社恐😖/身高165cm  体重40~45kg/交友dd❤️/接自残、果照定制👈/我就是个跟风的傻逼，请不要骂我/对不起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/utopia72320",
+                "end": 23,
+                "expanded_url": "https://ngl.link/utopia72320",
+                "start": 0,
+                "url": "https://t.co/1fYFYOuHT2"
+              }
+            ]
+          }
+        },
+        "id": "1902691463252852736",
+        "location": "天国候车站",
+        "name": "斯仁S-315 🏳️‍⚧️",
+        "pinned_tweet_id": "1930536461499326784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031654885956124672/D2JLoAnJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 141,
+          "like_count": 2899,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/1fYFYOuHT2",
+        "username": "xinggu233893",
+        "verified": false
+      }
+    ]
+  }
+}

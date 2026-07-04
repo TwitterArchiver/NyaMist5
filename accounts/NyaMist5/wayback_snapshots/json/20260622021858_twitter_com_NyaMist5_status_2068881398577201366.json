@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2068546356931952713",
+    "created_at": "2026-06-22T02:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T03:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068881398577201366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026612223788163072",
+          "start": 0,
+          "username": "Roikoyo_AI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068881398577201366",
+    "in_reply_to_user_id": "2026612223788163072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068707572299989074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Roikoyo_AI 抱抱……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2068546356931952713",
+        "created_at": "2026-06-22T02:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068881398577201366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026612223788163072",
+              "start": 0,
+              "username": "Roikoyo_AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068881398577201366",
+        "in_reply_to_user_id": "2026612223788163072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068707572299989074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Roikoyo_AI 抱抱……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026612223788163072",
+        "conversation_id": "2068546356931952713",
+        "created_at": "2026-06-21T14:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068707572299989074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068707572299989074",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068546356931952713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 抱抱姐姐咪🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "日产芝麻油/土色天象V:Natsuki_0915/tg: https://t.co/gx52vkhQzR(江苏省内包邮)/逃生舱@HECIz6/里推@NyaMist6/07年11月等死老登",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 64,
+                "username": "HECIz6"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 52,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 29,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064980603934756864/VoAdDnwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 418,
+          "like_count": 980,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 1772
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-25T10:58:02.000Z",
+        "description": "MtF I 2008_12 I HRT2026_02_01 I 家长党 I 回复较慢喵～",
+        "id": "2026612223788163072",
+        "name": "落霞寒漪🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2058923218283765914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057136998369091587/cRS-pRoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 243,
+          "like_count": 2266,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "Roikoyo_AI",
+        "verified": false
+      }
+    ]
+  }
+}

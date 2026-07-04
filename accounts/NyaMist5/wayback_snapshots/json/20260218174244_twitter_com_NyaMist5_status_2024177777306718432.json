@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2023817155998073339",
+    "created_at": "2026-02-18T17:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T18:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024177777306718432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999717719508492288",
+          "start": 0,
+          "username": "zzp1261305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024177777306718432",
+    "in_reply_to_user_id": "1999717719508492288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023817155998073339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzp1261305 下次就有我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2023817144866385920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBYK-HobMAAEWKR.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2023817155998073339",
+        "created_at": "2026-02-18T17:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024177777306718432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999717719508492288",
+              "start": 0,
+              "username": "zzp1261305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024177777306718432",
+        "in_reply_to_user_id": "1999717719508492288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023817155998073339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzp1261305 下次就有我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023817144866385920"
+          ]
+        },
+        "author_id": "1999717719508492288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2023817155998073339",
+        "created_at": "2026-02-17T17:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T18:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023817155998073339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2022962389520629760/tWtTsVa2?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2022962389520629760/tWtTsVa2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/cLxM4oL2qZ"
+            },
+            {
+              "display_url": "pic.x.com/buunZ8f4tp",
+              "end": 64,
+              "expanded_url": "https://x.com/zzp1261305/status/2023817155998073339/photo/1",
+              "media_key": "3_2023817144866385920",
+              "start": 41,
+              "url": "https://t.co/buunZ8f4tp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023817155998073339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/cLxM4oL2qZ https://t.co/buunZ8f4tp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "曾经的悲观阴郁币/咱叫吴水琦(网名吴雾晨)/梦想做一个北欧小姑娘/星宇比较大的小猫(bushi/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Urumqi China",
+        "name": "霧會散（霧晨晨）🌫️🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022078220385083392/6WdMh-BX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 397,
+          "like_count": 489,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1120
+        },
+        "username": "NyaMist5",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T05:47:35.000Z",
+        "description": "OIer | 前男娘，现mtf | 双相 | 已休学 | hrt:2026.1.31 | 自由主义 | 欢迎互fo喵~",
+        "id": "1999717719508492288",
+        "name": "🏳️‍⚧️传说中的蒟蒻果冻🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999722596506673152/vXtZ4YIB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 89,
+          "like_count": 14323,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "zzp1261305",
+        "verified": false
+      }
+    ]
+  }
+}

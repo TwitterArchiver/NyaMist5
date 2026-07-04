@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2049475907405115891",
+    "created_at": "2026-04-29T19:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T20:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049564660760998041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "988622188973514752",
+          "start": 0,
+          "username": "jiang19970917"
+        },
+        {
+          "end": 30,
+          "id": "1604181895721504771",
+          "start": 15,
+          "username": "mengtunwudaimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049564660760998041",
+    "in_reply_to_user_id": "988622188973514752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049557112607699226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiang19970917 @mengtunwudaimu 不像演的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2049475907405115891",
+        "created_at": "2026-04-29T19:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T20:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049564660760998041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "988622188973514752",
+              "start": 0,
+              "username": "jiang19970917"
+            },
+            {
+              "end": 30,
+              "id": "1604181895721504771",
+              "start": 15,
+              "username": "mengtunwudaimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049564660760998041",
+        "in_reply_to_user_id": "988622188973514752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049557112607699226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiang19970917 @mengtunwudaimu 不像演的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "988622188973514752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2049475907405115891",
+        "created_at": "2026-04-29T18:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T19:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049557112607699226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1604181895721504771",
+              "start": 0,
+              "username": "mengtunwudaimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049557112607699226",
+        "in_reply_to_user_id": "1604181895721504771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049475907405115891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengtunwudaimu 有没有一种可能，跟美国欧洲那几个神人比习近平干的真挺好的，外部没有对外扩张内部贸易顺差一万亿美元，能稳定住13亿人口的国家没有今天打仗后天把自己印钞票上瞎折腾还要怎样😅安安静静有钱赚有饭吃有酒喝为啥要说习近平司马？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "已退役oder💊/生产日期：2007.11.26/逃生舱@HECIz6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "HECIz6"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 483,
+          "like_count": 901,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1532
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-24T03:34:32.000Z",
+        "description": "國際",
+        "id": "988622188973514752",
+        "location": "Kansai, Hyogo",
+        "name": "kiyousai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820718737525452800/C023tN77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 103,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1361
+        },
+        "username": "jiang19970917",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T18:29:10.000Z",
+        "description": "我们终将在没有黑暗的地方相会",
+        "id": "1604181895721504771",
+        "location": "IP属地：南京",
+        "name": "川和喵酱薯条🍟🇯🇵井外势力",
+        "pinned_tweet_id": "1729765345424990414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011343699327000576/ngvpFLui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14061,
+          "following_count": 3027,
+          "like_count": 28600,
+          "listed_count": 155,
+          "media_count": 2557,
+          "tweet_count": 16034
+        },
+        "username": "mengtunwudaimu",
+        "verified": true
+      }
+    ]
+  }
+}

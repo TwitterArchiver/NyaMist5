@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2062112739687125157",
+    "created_at": "2026-06-03T11:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062127355808940469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829867271592026112",
+          "start": 0,
+          "username": "Shivam3228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062127355808940469",
+    "in_reply_to_user_id": "1829867271592026112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062112739687125157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shivam3228 最痛苦的是家人……走了他们又不乐意"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062112729771786240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4YmijbwAAHpmc.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2062112739687125157",
+        "created_at": "2026-06-03T11:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062127355808940469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062127355808940469",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062112739687125157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 最痛苦的是家人……走了他们又不乐意"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062112729771786240"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "conversation_id": "2062112739687125157",
+        "created_at": "2026-06-03T10:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062112739687125157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BXMnPi5Thp",
+              "end": 26,
+              "expanded_url": "https://x.com/Shivam3228/status/2062112739687125157/photo/1",
+              "media_key": "3_2062112729771786240",
+              "start": 3,
+              "url": "https://t.co/BXMnPi5Thp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062112739687125157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这啥 https://t.co/BXMnPi5Thp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "V:Natsuki_0915(出🍬💉)/tg: https://t.co/cuxhzT92RB逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 50,
+                "username": "HECIz6"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "YeziLoveChen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu/",
+                "end": 47,
+                "expanded_url": "https://t.me/MizusakiWu/",
+                "start": 24,
+                "url": "https://t.co/cuxhzT92RB"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "江苏 中华人民共和国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058588416330391553/9yQ0BPNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 403,
+          "like_count": 959,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 1685
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "在线时间15:00～5:00\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2061781359342047285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 352,
+          "like_count": 967,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 540
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

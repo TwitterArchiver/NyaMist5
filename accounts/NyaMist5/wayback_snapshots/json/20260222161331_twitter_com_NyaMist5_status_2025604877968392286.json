@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2025257029447909851",
+    "created_at": "2026-02-22T16:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T17:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025604877968392286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744316513291747328",
+          "start": 0,
+          "username": "shuifenziya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025604877968392286",
+    "in_reply_to_user_id": "1744316513291747328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025257029447909851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuifenziya 对不起，还以为是让我选我的……你一定要好好活着好嘛……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2025257029447909851",
+        "created_at": "2026-02-22T16:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025604877968392286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744316513291747328",
+              "start": 0,
+              "username": "shuifenziya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025604877968392286",
+        "in_reply_to_user_id": "1744316513291747328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025257029447909851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuifenziya 对不起，还以为是让我选我的……你一定要好好活着好嘛……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2025257028076339200"
+          ]
+        },
+        "author_id": "1744316513291747328",
+        "conversation_id": "2025257029447909851",
+        "created_at": "2026-02-21T17:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025257029447909851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025257029447909851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4986,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪个好一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "曾经的悲观阴郁币/咱叫吴水琦(网名吴雾晨)/梦想做一个北欧小姑娘/星宇比较大的小猫(bushi/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Urumqi China",
+        "name": "霧會散（霧晨晨）🌫️🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025151367011336198/E3y_V5VL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 399,
+          "like_count": 500,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1129
+        },
+        "username": "NyaMist5",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:14:12.000Z",
+        "description": "我...我....是水分子呀/08年17岁/休学中ing.../大证🍥hrt？个月/💥已炸柜/167cm60kg/坐标广东清远/负能/🚪35/不接线下/是条杂鱼🐟~~/SAD/互fo/喜欢六花和六花/不鉴证/小鸟游六花单推/姐姐：@WeiHan58673",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 115,
+                "username": "WeiHan58673"
+              }
+            ]
+          }
+        },
+        "id": "1744316513291747328",
+        "location": "我在二次元",
+        "name": "水分子🍥［乖乖版］",
+        "pinned_tweet_id": "1976921242499531228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990791671798509572/InGBy1sr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 893,
+          "like_count": 31797,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 2027
+        },
+        "username": "shuifenziya",
+        "verified": false
+      }
+    ]
+  }
+}

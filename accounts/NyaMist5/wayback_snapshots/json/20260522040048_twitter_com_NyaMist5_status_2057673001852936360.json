@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2055904661035700521",
+    "created_at": "2026-05-22T04:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T05:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057673001852936360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797342252068741120",
+          "start": 0,
+          "username": "chenyuxi5201314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057673001852936360",
+    "in_reply_to_user_id": "1797342252068741120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055904661035700521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenyuxi5201314 还发啊，不要命了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2272,
+        "media_key": "3_2055904603154026496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgKWAsWEAApOTl.jpg",
+        "width": 1253
+      },
+      {
+        "height": 804,
+        "media_key": "3_2055904603137355776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgKWAoXsAAVf_c.png",
+        "width": 804
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2055904661035700521",
+        "created_at": "2026-05-22T04:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057673001852936360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797342252068741120",
+              "start": 0,
+              "username": "chenyuxi5201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057673001852936360",
+        "in_reply_to_user_id": "1797342252068741120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055904661035700521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenyuxi5201314 还发啊，不要命了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055904603154026496",
+            "3_2055904603137355776"
+          ]
+        },
+        "author_id": "1797342252068741120",
+        "conversation_id": "2055904661035700521",
+        "created_at": "2026-05-17T06:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055904661035700521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkeLrjYWte",
+              "end": 23,
+              "expanded_url": "https://x.com/chenyuxi5201314/status/2055904661035700521/photo/1",
+              "media_key": "3_2055904603154026496",
+              "start": 0,
+              "url": "https://t.co/gkeLrjYWte"
+            },
+            {
+              "display_url": "pic.x.com/gkeLrjYWte",
+              "end": 23,
+              "expanded_url": "https://x.com/chenyuxi5201314/status/2055904661035700521/photo/1",
+              "media_key": "3_2055904603137355776",
+              "start": 0,
+              "url": "https://t.co/gkeLrjYWte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055904661035700521",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gkeLrjYWte"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "扩列：422174271(🍬💉)/生产日期：2007.11.26/逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "HECIz6"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484931238805504/5nHhKS9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 408,
+          "like_count": 947,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1655
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-02T18:59:31.000Z",
+        "description": "10年mtf  2025.8.15含糖🍥  小雨  lun da  苏沐瑶  家长党  身高165cm  体重48kg  互fo 可以直接评论或者私信我 爱人@aizhenxunjiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "aizhenxunjiang"
+              }
+            ]
+          }
+        },
+        "id": "1797342252068741120",
+        "location": "中国新疆",
+        "name": "🍥苏沐瑶🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975947123855421440/pfe3qdXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 233,
+          "like_count": 74,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 431
+        },
+        "username": "chenyuxi5201314",
+        "verified": false
+      }
+    ]
+  }
+}

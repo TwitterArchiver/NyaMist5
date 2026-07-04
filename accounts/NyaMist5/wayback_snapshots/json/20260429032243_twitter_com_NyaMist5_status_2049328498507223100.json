@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2049197785745088805",
+    "created_at": "2026-04-29T03:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T04:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049328498507223100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847712034361659392",
+          "start": 0,
+          "username": "huaxuejilebaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049328498507223100",
+    "in_reply_to_user_id": "1847712034361659392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049197785745088805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaxuejilebaike 窝趣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2049197655432335360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHA2aRabkAAi2aN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2049197785745088805",
+        "created_at": "2026-04-29T03:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049328498507223100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847712034361659392",
+              "start": 0,
+              "username": "huaxuejilebaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049328498507223100",
+        "in_reply_to_user_id": "1847712034361659392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049197785745088805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaxuejilebaike 窝趣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049197655432335360"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2049197785745088805",
+        "created_at": "2026-04-28T18:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T19:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049197785745088805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvIdaHxDmL",
+              "end": 49,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/2049197785745088805/photo/1",
+              "media_key": "3_2049197655432335360",
+              "start": 26,
+              "url": "https://t.co/fvIdaHxDmL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049197785745088805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 726,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啥也别说了，1t地达西尼直接起飞，我能直接看到鸡哥 https://t.co/fvIdaHxDmL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "已退役oder💊/生产日期：2007.11.26/逃生舱@HECIz6/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "HECIz6"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 482,
+          "like_count": 900,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1528
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/DF7NTAL0F9 TG交流群：https://t.co/ngKDwwK3ao DC交流群：https://t.co/Zb0fsL464g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/DF7NTAL0F9"
+              },
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 56,
+                "expanded_url": "http://t.me/weizhanersheng666",
+                "start": 33,
+                "url": "https://t.co/ngKDwwK3ao"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/Zb0fsL464g"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "2049018733067399405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1827,
+          "following_count": 928,
+          "like_count": 24349,
+          "listed_count": 2,
+          "media_count": 394,
+          "tweet_count": 2954
+        },
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

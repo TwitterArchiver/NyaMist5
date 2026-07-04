@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2053005337125695773",
+    "created_at": "2026-05-09T17:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T18:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053168253539926165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1826129497714040832",
+          "start": 0,
+          "username": "CREZAN_GA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053168253539926165",
+    "in_reply_to_user_id": "1826129497714040832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053005337125695773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CREZAN_GA 23年就是老资历了？！😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2053005337125695773",
+        "created_at": "2026-05-09T17:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053168253539926165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1826129497714040832",
+              "start": 0,
+              "username": "CREZAN_GA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053168253539926165",
+        "in_reply_to_user_id": "1826129497714040832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053005337125695773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CREZAN_GA 23年就是老资历了？！😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826129497714040832",
+        "conversation_id": "2053005337125695773",
+        "created_at": "2026-05-09T06:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053005337125695773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053005337125695773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6428,
+          "like_count": 64,
+          "quote_count": 13,
+          "reply_count": 37,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "现在中推老资历感觉已经所剩无几了…（2022/23年开始活跃的）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "🍬商：422174271(备注来意)/生产日期：2007.11.26/逃生舱@HECIz6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "HECIz6"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 483,
+          "like_count": 917,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1562
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-21T05:29:47.000Z",
+        "description": "二代目@Piannibiedangzhen666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 3,
+                "username": "Piannibiedangzhen666"
+              }
+            ]
+          }
+        },
+        "id": "1826129497714040832",
+        "location": "amrica",
+        "name": "輹辻アイ凩祏CRZ💢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032866042591195138/prdYEoKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 318,
+          "like_count": 8429,
+          "listed_count": 1,
+          "media_count": 1074,
+          "tweet_count": 5590
+        },
+        "username": "CREZAN_GA",
+        "verified": false
+      }
+    ]
+  }
+}

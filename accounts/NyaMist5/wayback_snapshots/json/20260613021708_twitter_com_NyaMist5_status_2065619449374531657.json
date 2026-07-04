@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065619441761869824"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2065619449374531657",
+    "created_at": "2026-06-13T02:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T03:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065619449374531657"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c7OKtip6BP",
+          "end": 88,
+          "expanded_url": "https://x.com/NyaMist5/status/2065619449374531657/photo/1",
+          "media_key": "3_2065619441761869824",
+          "start": 65,
+          "url": "https://t.co/c7OKtip6BP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065619449374531657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "事情是这样的，我对象今天要和她父母出去采杨梅，但是我又不敢见她父母所以我待在她车里但是一直待车里会被热死，结果我对象灵机一动…… https://t.co/c7OKtip6BP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065619441761869824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqN8CtbYAAKQ1e.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065619441761869824"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2065619449374531657",
+        "created_at": "2026-06-13T02:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065619449374531657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c7OKtip6BP",
+              "end": 88,
+              "expanded_url": "https://x.com/NyaMist5/status/2065619449374531657/photo/1",
+              "media_key": "3_2065619441761869824",
+              "start": 65,
+              "url": "https://t.co/c7OKtip6BP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065619449374531657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事情是这样的，我对象今天要和她父母出去采杨梅，但是我又不敢见她父母所以我待在她车里但是一直待车里会被热死，结果我对象灵机一动…… https://t.co/c7OKtip6BP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "日产芝麻油/土色天象V:Natsuki_0915/tg: https://t.co/gx52vkhQzR(江苏省内包邮)/逃生舱@HECIz6/里推@NyaMist6/07年11月等死老登",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 64,
+                "username": "HECIz6"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 52,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 29,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "江苏 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064980603934756864/VoAdDnwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 409,
+          "like_count": 962,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 1721
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      }
+    ]
+  }
+}

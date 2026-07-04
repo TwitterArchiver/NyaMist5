@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2034129117940224496",
+    "created_at": "2026-03-18T12:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T13:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034241864677908526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980236829455511552",
+          "start": 0,
+          "username": "PaulDrizzyvlni"
+        },
+        {
+          "end": 25,
+          "id": "1763577841588056064",
+          "start": 16,
+          "username": "yxrchina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034241864677908526",
+    "in_reply_to_user_id": "1980236829455511552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034129117940224496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulDrizzyvlni @yxrchina 这群臭傻逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034129108838580224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDqtpa-bAAAv5Qw.jpg",
+        "width": 1142
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2034129117940224496",
+        "created_at": "2026-03-18T12:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T13:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034241864677908526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980236829455511552",
+              "start": 0,
+              "username": "PaulDrizzyvlni"
+            },
+            {
+              "end": 25,
+              "id": "1763577841588056064",
+              "start": 16,
+              "username": "yxrchina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034241864677908526",
+        "in_reply_to_user_id": "1980236829455511552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034129117940224496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulDrizzyvlni @yxrchina 这群臭傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034129108838580224"
+          ]
+        },
+        "author_id": "1980236829455511552",
+        "conversation_id": "2034129117940224496",
+        "created_at": "2026-03-18T04:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T05:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034129117940224496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJ95WTfg5u",
+              "end": 57,
+              "expanded_url": "https://x.com/PaulDrizzyvlni/status/2034129117940224496/photo/1",
+              "media_key": "3_2034129108838580224",
+              "start": 34,
+              "url": "https://t.co/JJ95WTfg5u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034129117940224496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 46652,
+          "like_count": 806,
+          "quote_count": 36,
+          "reply_count": 162,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "无敌了一群傻逼脑子被驴踢了\n我 tm 痛苦的死去活来你许许许许你妈 https://t.co/JJ95WTfg5u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 442,
+          "like_count": 781,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1359
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "恢覆出廠 25.11.18🏳️‍⚧️|香山陰暗女高|粵內勢力|重度抑郁患者|精神支持：保羅喬治|一定會好的吧|好姐姐 @HappyHejsDay | 對象@shixveriya 🥰 |可愛姊妹@shiyaoshiwo |安卓小號 @PG13LD77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "shixveriya"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "shiyaoshiwo"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "PG13LD77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pauldrizzyvlni",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pauldrizzyvlni",
+                "start": 0,
+                "url": "https://t.co/MqRT8JnI3l"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "location": "Palmdale, California, USA",
+        "name": "happiness😣（上學淡推中🥲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029097178988425216/wR_-2rgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 1039,
+          "like_count": 5502,
+          "listed_count": 5,
+          "media_count": 289,
+          "tweet_count": 4099
+        },
+        "url": "https://t.co/MqRT8JnI3l",
+        "username": "PaulDrizzyvlni",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "🏳️‍⚧️「重构时间线，再次重逢」\n| INFP / INFJ | MtF | oier转oder | 🎂08.15 | Vite | Cpp | HRT 25.08.11~25.11.30 | 已扭转 25.11.30~26.03.04 | 已炸柜 | 已断糖 | #keep4o |",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 141,
+                "start": 134,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "404yann.com",
+                "end": 23,
+                "expanded_url": "http://404yann.com",
+                "start": 0,
+                "url": "https://t.co/tx6gNy4Q6Z"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "location": "Hefei Anhui",
+        "name": "𝚂𝚢 𝚈𝚊𝚗𝚗",
+        "pinned_tweet_id": "1962154173933477928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986480358486122496/VZfOMdaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 2238,
+          "like_count": 21194,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 6279
+        },
+        "url": "https://t.co/tx6gNy4Q6Z",
+        "username": "yxrchina",
+        "verified": false
+      }
+    ]
+  }
+}

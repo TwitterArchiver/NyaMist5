@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2063995532348113383",
+    "created_at": "2026-06-09T17:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064394507429556688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2883160699",
+          "start": 0,
+          "username": "chimo_pso2"
+        },
+        {
+          "end": 28,
+          "id": "1807484145439756288",
+          "start": 12,
+          "username": "sb3013905913940"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064394507429556688",
+    "in_reply_to_user_id": "2883160699",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064130378743611455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chimo_pso2 @sb3013905913940 主に中国の文化では、家族を罵ることが最も悪質な呪いとみなされて、日本はこの点に特にこだわっていないよう。以前、ある例を見たことがあります（必ずしも正しく謝罪しているとは限りません！）。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2064130364294266880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVDoU3bgAAsEyE.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2063995532348113383",
+        "created_at": "2026-06-09T17:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064394507429556688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2883160699",
+              "start": 0,
+              "username": "chimo_pso2"
+            },
+            {
+              "end": 28,
+              "id": "1807484145439756288",
+              "start": 12,
+              "username": "sb3013905913940"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064394507429556688",
+        "in_reply_to_user_id": "2883160699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064130378743611455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chimo_pso2 @sb3013905913940 主に中国の文化では、家族を罵ることが最も悪質な呪いとみなされて、日本はこの点に特にこだわっていないよう。以前、ある例を見たことがあります（必ずしも正しく謝罪しているとは限りません！）。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064130364294266880"
+          ]
+        },
+        "author_id": "2883160699",
+        "conversation_id": "2063995532348113383",
+        "created_at": "2026-06-08T23:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T00:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064130378743611455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807484145439756288",
+              "start": 0,
+              "username": "sb3013905913940"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6fPL6zIxGx",
+              "end": 116,
+              "expanded_url": "https://x.com/chimo_pso2/status/2064130378743611455/photo/1",
+              "media_key": "3_2064130364294266880",
+              "start": 93,
+              "url": "https://t.co/6fPL6zIxGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064130378743611455",
+        "in_reply_to_user_id": "1807484145439756288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 27183,
+          "like_count": 395,
+          "quote_count": 3,
+          "reply_count": 69,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063995532348113383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sb3013905913940 日本と中国は共に全体主義的だけど、自己の境界が違うから攻撃の対象も変わるのだろうね。興味深い…\n(差序格局は今調べたから合ってるか分からないけど……) https://t.co/6fPL6zIxGx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "芝麻油/土色天象V:Natsuki_0915/tg: https://t.co/cuxhzT92RB逃生舱@HECIz6/里推@NyaMist6/07年11月等死老登",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 53,
+                "username": "HECIz6"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu/",
+                "end": 50,
+                "expanded_url": "https://t.me/MizusakiWu/",
+                "start": 27,
+                "url": "https://t.co/cuxhzT92RB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "江苏 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063515083226087424/qz4w0ivy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 406,
+          "like_count": 958,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 1702
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-30T09:17:59.000Z",
+        "description": "",
+        "id": "2883160699",
+        "location": "佐渡外交部",
+        "name": "ちも",
+        "pinned_tweet_id": "2061248567881396288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049356230997708800/8YAqAtSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 559,
+          "like_count": 59578,
+          "listed_count": 9,
+          "media_count": 2268,
+          "tweet_count": 25972
+        },
+        "username": "chimo_pso2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T18:39:49.000Z",
+        "description": "为什么封我号😭",
+        "id": "1807484145439756288",
+        "name": "泰拉皇宫镇压叛乱坦克驾驶手牢兵",
+        "pinned_tweet_id": "2059734739431637037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809119808820051968/sHJ8sz4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 175,
+          "like_count": 509,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 2174
+        },
+        "username": "sb3013905913940",
+        "verified": false
+      }
+    ]
+  }
+}

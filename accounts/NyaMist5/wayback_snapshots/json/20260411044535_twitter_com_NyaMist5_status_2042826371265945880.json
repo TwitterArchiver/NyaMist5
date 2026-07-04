@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2042660923614359631",
+    "created_at": "2026-04-11T04:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T05:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042826371265945880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829502489227575296",
+          "start": 0,
+          "username": "hajihajimo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042826371265945880",
+    "in_reply_to_user_id": "1829502489227575296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042768469004009715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hajihajimo 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2042660923614359631",
+        "created_at": "2026-04-11T04:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042826371265945880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829502489227575296",
+              "start": 0,
+              "username": "hajihajimo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042826371265945880",
+        "in_reply_to_user_id": "1829502489227575296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042768469004009715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajihajimo 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829502489227575296",
+        "conversation_id": "2042660923614359631",
+        "created_at": "2026-04-11T00:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T01:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042768469004009715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042768469004009715",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042660923614359631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 喵喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 458,
+          "like_count": 856,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1455
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-30T12:52:50.000Z",
+        "description": "阴郁小孩|xnn|加q/v🚪10|不线下|各方面都不健康",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hajihajimo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hajihajimo",
+                "start": 0,
+                "url": "https://t.co/aoP0J2Wg7Y"
+              }
+            ]
+          }
+        },
+        "id": "1829502489227575296",
+        "location": "日耳曼尼亚",
+        "name": "施工作业🦐",
+        "pinned_tweet_id": "1989908835893440829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039318367346286592/LwndLiCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 309,
+          "like_count": 3201,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 1461
+        },
+        "url": "https://t.co/aoP0J2Wg7Y",
+        "username": "hajihajimo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2032153957456626003",
+    "created_at": "2026-03-12T19:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T20:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032170639440908702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032170639440908702",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032153957456626003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 幸亏回来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2032153957456626003",
+        "created_at": "2026-03-12T19:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T20:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032170639440908702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032170639440908702",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032153957456626003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 幸亏回来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2032153957456626003",
+        "created_at": "2026-03-12T17:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032153957456626003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032153957456626003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4715,
+          "like_count": 110,
+          "quote_count": 3,
+          "reply_count": 30,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "感谢某科技数码博主的协助支持，目前应该不会有太大问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "曾经的悲观阴郁币/咱叫吴水琦(网名吴雾晨)/梦想做一个北欧小姑娘/星宇比较大的小猫(bushi/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Urumqi China",
+        "name": "霧會散（霧晨晨）🌫️🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 326,
+          "like_count": 609,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1199
+        },
+        "username": "NyaMist5",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer / Android ROM Developer / Unity3D Beginner / 19y.o. / GMT+8 / ZH-CN / EN-US is OK / 🥰 @Sokei_ko_nya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 126,
+                "username": "Sokei_ko_nya"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "夏日晴海",
+        "pinned_tweet_id": "2029164319053861058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004323467546841088/arnUFBzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8569,
+          "following_count": 837,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 1279,
+          "tweet_count": 9113
+        },
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

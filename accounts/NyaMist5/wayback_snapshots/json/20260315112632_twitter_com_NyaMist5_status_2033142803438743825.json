@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2033127399618117712",
+    "created_at": "2026-03-15T11:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T12:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033142803438743825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1993628897645408256",
+          "start": 0,
+          "username": "Pr0mis3_c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033142803438743825",
+    "in_reply_to_user_id": "1993628897645408256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033127399618117712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pr0mis3_c 嘿嘿，加油哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 465,
+        "media_key": "3_2033127397026082817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDcemHrasAEMhF0.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2033127399618117712",
+        "created_at": "2026-03-15T11:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033142803438743825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1993628897645408256",
+              "start": 0,
+              "username": "Pr0mis3_c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033142803438743825",
+        "in_reply_to_user_id": "1993628897645408256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033127399618117712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pr0mis3_c 嘿嘿，加油哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033127397026082817"
+          ]
+        },
+        "author_id": "1993628897645408256",
+        "conversation_id": "2033127399618117712",
+        "created_at": "2026-03-15T10:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T11:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033127399618117712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uh7v7k58dr",
+              "end": 62,
+              "expanded_url": "https://x.com/Pr0mis3_c/status/2033127399618117712/photo/1",
+              "media_key": "3_2033127397026082817",
+              "start": 39,
+              "url": "https://t.co/Uh7v7k58dr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033127399618117712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我竟然也100fo了吗，好兴奋!🥺\n好喜欢你们~ (◍＞◡＜◍)\n˃ 𖥦 ˂ https://t.co/Uh7v7k58dr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 411,
+          "like_count": 708,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1286
+        },
+        "username": "NyaMist5",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T10:32:43.000Z",
+        "description": "🍥06 xyn/mtf 🏳️‍⚧️hrt: 2025.12.2 | 无证含糖 | 持续深柜中 | 喜欢xnn&xyn | 精神健康稳定，无不良嗜好 | 梦想srs | 同类互fo\ntg: https://t.co/yl6WM4V5Sw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Pr0m1s3",
+                "end": 117,
+                "expanded_url": "http://t.me/Pr0m1s3",
+                "start": 94,
+                "url": "https://t.co/yl6WM4V5Sw"
+              }
+            ]
+          }
+        },
+        "id": "1993628897645408256",
+        "name": "Pr0mis3🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031661442714497024/2TU5OjbE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 161,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 61
+        },
+        "username": "Pr0mis3_c",
+        "verified": true
+      }
+    ]
+  }
+}

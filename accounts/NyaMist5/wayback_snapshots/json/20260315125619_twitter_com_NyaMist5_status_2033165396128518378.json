@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "1861365683977646090",
+    "created_at": "2026-03-15T12:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T13:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033165396128518378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4364989874",
+          "start": 0,
+          "username": "Cyarakuzaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033165396128518378",
+    "in_reply_to_user_id": "4364989874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861365683977646090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyarakuzaka 我去传奇老登"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1861365680651587585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdTmOYBXUAETAV4.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "1861365683977646090",
+        "created_at": "2026-03-15T12:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033165396128518378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4364989874",
+              "start": 0,
+              "username": "Cyarakuzaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033165396128518378",
+        "in_reply_to_user_id": "4364989874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861365683977646090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyarakuzaka 我去传奇老登"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861365680651587585"
+          ]
+        },
+        "author_id": "4364989874",
+        "conversation_id": "1861365683977646090",
+        "created_at": "2024-11-26T11:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T12:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861365683977646090"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "我的X周年纪念日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjJiJh9a88",
+              "end": 50,
+              "expanded_url": "https://x.com/Cyarakuzaka/status/1861365683977646090/photo/1",
+              "media_key": "3_1861365680651587585",
+              "start": 27,
+              "url": "https://t.co/zjJiJh9a88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861365683977646090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 371,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/zjJiJh9a88"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030343424076038145/4RAKIWL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 414,
+          "like_count": 716,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1290
+        },
+        "username": "NyaMist5",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-26T08:48:07.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TianyinYuesaki",
+                "end": 23,
+                "expanded_url": "http://t.me/TianyinYuesaki",
+                "start": 0,
+                "url": "https://t.co/OQZJJpbrPb"
+              }
+            ]
+          }
+        },
+        "id": "4364989874",
+        "location": "中华人民共和国",
+        "name": "三月七🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673610737510432769/g6DgrTHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 100,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/OQZJJpbrPb",
+        "username": "Cyarakuzaka",
+        "verified": false
+      }
+    ]
+  }
+}

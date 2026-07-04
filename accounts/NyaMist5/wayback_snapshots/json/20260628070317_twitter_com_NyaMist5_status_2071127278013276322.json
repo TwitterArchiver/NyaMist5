@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2070841698696196317",
+    "created_at": "2026-06-28T07:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T08:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071127278013276322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1673364955171782657",
+          "start": 0,
+          "username": "kxk1388574"
+        },
+        {
+          "end": 19,
+          "id": "2055095022425722880",
+          "start": 12,
+          "username": "UnkMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071127278013276322",
+    "in_reply_to_user_id": "1673364955171782657",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070841698696196317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kxk1388574 @UnkMtX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 436,
+        "media_key": "3_2070841696250888192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0bjQsaAAAAnQZ.jpg",
+        "width": 504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2070841698696196317",
+        "created_at": "2026-06-28T07:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071127278013276322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1673364955171782657",
+              "start": 0,
+              "username": "kxk1388574"
+            },
+            {
+              "end": 19,
+              "id": "2055095022425722880",
+              "start": 12,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071127278013276322",
+        "in_reply_to_user_id": "1673364955171782657",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070841698696196317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kxk1388574 @UnkMtX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070841696250888192"
+          ]
+        },
+        "author_id": "1673364955171782657",
+        "conversation_id": "2070841698696196317",
+        "created_at": "2026-06-27T12:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070841698696196317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2KOSRPRXBf",
+              "end": 50,
+              "expanded_url": "https://x.com/kxk1388574/status/2070841698696196317/photo/1",
+              "media_key": "3_2070841696250888192",
+              "start": 27,
+              "url": "https://t.co/2KOSRPRXBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070841698696196317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13457,
+          "like_count": 182,
+          "quote_count": 1,
+          "reply_count": 53,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天去超市拿了瓶茶π塞屁股里就带走了，根本发现不了😋 https://t.co/2KOSRPRXBf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "日产芝麻油/土色天象V:Natsuki_0915/tg: https://t.co/gx52vkhQzR(江苏省内包邮)/🚪20/逃生舱@HECIz6/里推@NyaMist6/07年11月等死老登",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 68,
+                "username": "HECIz6"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 52,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 29,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064980603934756864/VoAdDnwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 405,
+          "like_count": 999,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 1814
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10078,
+          "following_count": 5879,
+          "like_count": 53844,
+          "listed_count": 16,
+          "media_count": 1006,
+          "tweet_count": 7879
+        },
+        "url": "",
+        "username": "kxk1388574",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫中，不发帖就是没手机了😭|\n前世@UnkXyn|\nMTX🏳️‍⚧️|HRT🍥01.28.2026，被迫断糖06.06.2026|无证|家暴党😭|\n🎂11.13.2011🍰|暂时无法Od💊✝️普瑞巴林重度依赖✝️ |159cm52kg|INFP-T|重度社恐|\n对象💖@Lvmaosamaovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 150,
+                "start": 137,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk1111131",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk1111131",
+                "start": 0,
+                "url": "https://t.co/AjAoii7tnc"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "location": "🤯",
+        "name": "✟𝗨𝗻𝗸✟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 1122,
+          "like_count": 2960,
+          "listed_count": 15,
+          "media_count": 107,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/AjAoii7tnc",
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

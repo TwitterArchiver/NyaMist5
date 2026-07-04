@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2026279758859018632",
+    "created_at": "2026-02-25T18:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T19:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026721647336767902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1889695481938448384",
+          "start": 0,
+          "username": "PnKoZCN"
+        },
+        {
+          "end": 25,
+          "id": "1818731995310309376",
+          "start": 9,
+          "username": "fuckpregaabalin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026721647336767902",
+    "in_reply_to_user_id": "1889695481938448384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026525309991051410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PnKoZCN @fuckpregaabalin 难绷吊裂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 951,
+        "media_key": "3_2026525301837271041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB-qBmhaEAEOjo0.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2026279758859018632",
+        "created_at": "2026-02-25T18:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T19:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026721647336767902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1889695481938448384",
+              "start": 0,
+              "username": "PnKoZCN"
+            },
+            {
+              "end": 25,
+              "id": "1818731995310309376",
+              "start": 9,
+              "username": "fuckpregaabalin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026721647336767902",
+        "in_reply_to_user_id": "1889695481938448384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026525309991051410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PnKoZCN @fuckpregaabalin 难绷吊裂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026525301837271041"
+          ]
+        },
+        "author_id": "1889695481938448384",
+        "conversation_id": "2026279758859018632",
+        "created_at": "2026-02-25T05:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T06:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026525309991051410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1818731995310309376",
+              "start": 0,
+              "username": "fuckpregaabalin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mXQx0M4Y1J",
+              "end": 43,
+              "expanded_url": "https://x.com/PnKoZCN/status/2026525309991051410/photo/1",
+              "media_key": "3_2026525301837271041",
+              "start": 20,
+              "url": "https://t.co/mXQx0M4Y1J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026525309991051410",
+        "in_reply_to_user_id": "1818731995310309376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026279758859018632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckpregaabalin 经典 https://t.co/mXQx0M4Y1J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "曾经的悲观阴郁币/咱叫吴水琦(网名吴雾晨)/梦想做一个北欧小姑娘/星宇比较大的小猫(bushi/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Urumqi China",
+        "name": "霧會散（霧晨晨）🌫️🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025151367011336198/E3y_V5VL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 404,
+          "like_count": 527,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1148
+        },
+        "username": "NyaMist5",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T15:18:26.000Z",
+        "description": "MtF🏳‍⚧ | 无证🍥 | INFP-T | 2010/5/4🎂 | 166cm | 45kg | 40码 | LGBT | 重庆 | 互fo | 不OD💊 | 不自残🔪 | 暂无心理以及身体疾病",
+        "id": "1889695481938448384",
+        "name": "東雪蓮🍥 🏳‍⚧Official",
+        "pinned_tweet_id": "2025149204914708864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024022645017382912/n0dFsnqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 342,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 402
+        },
+        "username": "PnKoZCN",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T19:34:41.000Z",
+        "description": "个人信息",
+        "id": "1818731995310309376",
+        "location": "中华民国，北平",
+        "name": "魔怔乐子人",
+        "pinned_tweet_id": "2019287591275958775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026687354594013185/TvkBWVUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2385,
+          "following_count": 2739,
+          "like_count": 170382,
+          "listed_count": 12,
+          "media_count": 1583,
+          "tweet_count": 32374
+        },
+        "username": "fuckpregaabalin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2061833557518192796",
+    "created_at": "2026-06-05T03:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T04:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062740599112163732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1817518828936654848",
+          "start": 0,
+          "username": "Lbgwanli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062740599112163732",
+    "in_reply_to_user_id": "1817518828936654848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061833557518192796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lbgwanli 高考加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2061833557518192796",
+        "created_at": "2026-06-05T03:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062740599112163732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1817518828936654848",
+              "start": 0,
+              "username": "Lbgwanli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062740599112163732",
+        "in_reply_to_user_id": "1817518828936654848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061833557518192796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lbgwanli 高考加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817518828936654848",
+        "conversation_id": "2061833557518192796",
+        "created_at": "2026-06-02T15:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061833557518192796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061833557518192796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过完今天 马上还有4天就高考了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "V:Natsuki_0915(出🍬💉)/tg: https://t.co/cuxhzT92RB逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 50,
+                "username": "HECIz6"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "YeziLoveChen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu/",
+                "end": 47,
+                "expanded_url": "https://t.me/MizusakiWu/",
+                "start": 24,
+                "url": "https://t.co/cuxhzT92RB"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "江苏 中华人民共和国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058588416330391553/9yQ0BPNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 406,
+          "like_count": 953,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 1694
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-28T11:14:15.000Z",
+        "description": "无证含糖mtf🍬🏳️‍⚧️同类求互关）（20260504）高三生 相信一切都会好起来的",
+        "id": "1817518828936654848",
+        "name": "小鳥が万里を泳ぐ🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061837949902499841/uo71Pavi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 1231,
+          "like_count": 1918,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Lbgwanli",
+        "verified": false
+      }
+    ]
+  }
+}

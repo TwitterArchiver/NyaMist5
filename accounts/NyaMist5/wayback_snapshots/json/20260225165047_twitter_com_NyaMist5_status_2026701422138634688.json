@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2026701422138634688",
+    "created_at": "2026-02-25T16:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T17:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026701422138634688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiechengmadoka…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/jiechengmadoka/status/2026683167017664570",
+          "start": 2,
+          "url": "https://t.co/9bppRluGxn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026701422138634688",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026683167017664570",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/9bppRluGxn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 590,
+        "media_key": "3_2026683163393798154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCA5mWpaMAo9K61.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2026701422138634688",
+        "created_at": "2026-02-25T16:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T17:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026701422138634688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiechengmadoka…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/jiechengmadoka/status/2026683167017664570",
+              "start": 2,
+              "url": "https://t.co/9bppRluGxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026701422138634688",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026683167017664570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/9bppRluGxn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026683163393798154"
+          ]
+        },
+        "author_id": "2022556004089753600",
+        "conversation_id": "2026683167017664570",
+        "created_at": "2026-02-25T15:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026683167017664570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i7H1VN0zvM",
+              "end": 26,
+              "expanded_url": "https://x.com/jiechengmadoka/status/2026683167017664570/photo/1",
+              "media_key": "3_2026683163393798154",
+              "start": 3,
+              "url": "https://t.co/i7H1VN0zvM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026683167017664570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊？ https://t.co/i7H1VN0zvM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "曾经的悲观阴郁币/咱叫吴水琦(网名吴雾晨)/梦想做一个北欧小姑娘/星宇比较大的小猫(bushi/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Urumqi China",
+        "name": "霧會散（霧晨晨）🌫️🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025151367011336198/E3y_V5VL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 403,
+          "like_count": 519,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1144
+        },
+        "username": "NyaMist5",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T06:18:29.000Z",
+        "description": "糖和糖商，粉白蓝与梦想大家好我是小圆环/2009.09.26/小证日期25.9.16/一年xyn兼紫砂干预志愿者/n55唐毓文冰棍爱爱酱推荐的糖商(下略)，清蒸协会荣誉获奖者/心理疏导需求的可以私我的说/tg:yuukihanashiya, qq3518541175加不上时:2398521880",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarrySky_Snow…",
+                "end": 23,
+                "expanded_url": "https://t.me/StarrySky_Snowfield",
+                "start": 0,
+                "url": "https://t.co/4oTEnQ18V1"
+              }
+            ]
+          }
+        },
+        "id": "2022556004089753600",
+        "location": "药娘之城",
+        "name": "鹿目圆环（糖商/全球直发）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022556799510147072/mplNMfTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 57,
+          "like_count": 56,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/4oTEnQ18V1",
+        "username": "jiechengmadoka",
+        "verified": false
+      }
+    ]
+  }
+}

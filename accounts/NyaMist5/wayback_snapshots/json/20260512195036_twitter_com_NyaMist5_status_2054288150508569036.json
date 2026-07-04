@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2054288150508569036",
+    "created_at": "2026-05-12T19:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T20:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054288150508569036"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054288150508569036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天和老公啪了两次，我发现有些时候并不是越大越有感觉，而是看对象能不能找到你的G点。我对象的可以说小到让我比较捂脸笑的那种，但是不阻碍再你说一些调情的话之后他会突然发力然后再霸道的给你说一句“别说话”“夹紧”(///▽///)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2054288150508569036",
+        "created_at": "2026-05-12T19:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T20:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054288150508569036"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054288150508569036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天和老公啪了两次，我发现有些时候并不是越大越有感觉，而是看对象能不能找到你的G点。我对象的可以说小到让我比较捂脸笑的那种，但是不阻碍再你说一些调情的话之后他会突然发力然后再霸道的给你说一句“别说话”“夹紧”(///▽///)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "🍬商：422174271(备注来意)/生产日期：2007.11.26/逃生舱@HECIz6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "HECIz6"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484931238805504/5nHhKS9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 394,
+          "like_count": 921,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1584
+        },
+        "username": "NyaMist5",
+        "verified": true
+      }
+    ]
+  }
+}

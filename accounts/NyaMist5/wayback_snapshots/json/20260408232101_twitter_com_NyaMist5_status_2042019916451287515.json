@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041554919203983360"
+      ],
+      "media_source_tweet_id": [
+        "2041554928192344480"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2042019916451287515",
+    "created_at": "2026-04-08T23:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T00:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042019916451287515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1847835560175685635",
+          "start": 3,
+          "username": "OPPOFANS114514"
+        },
+        {
+          "end": 35,
+          "id": "1763034943599607808",
+          "start": 20,
+          "username": "moonlight_ruri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PgOUiGV87M",
+          "end": 63,
+          "expanded_url": "https://x.com/OPPOFANS114514/status/2041554928192344480/photo/1",
+          "media_key": "3_2041554919203983360",
+          "start": 40,
+          "url": "https://t.co/PgOUiGV87M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042019916451287515",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041554928192344480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OPPOFANS114514: @moonlight_ruri 依旧： https://t.co/PgOUiGV87M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2041554919203983360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUPYeSa0AAOOu2.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041554919203983360"
+          ],
+          "media_source_tweet_id": [
+            "2041554928192344480"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2042019916451287515",
+        "created_at": "2026-04-08T23:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T00:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042019916451287515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1847835560175685635",
+              "start": 3,
+              "username": "OPPOFANS114514"
+            },
+            {
+              "end": 35,
+              "id": "1763034943599607808",
+              "start": 20,
+              "username": "moonlight_ruri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PgOUiGV87M",
+              "end": 63,
+              "expanded_url": "https://x.com/OPPOFANS114514/status/2041554928192344480/photo/1",
+              "media_key": "3_2041554919203983360",
+              "start": 40,
+              "url": "https://t.co/PgOUiGV87M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042019916451287515",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041554928192344480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OPPOFANS114514: @moonlight_ruri 依旧： https://t.co/PgOUiGV87M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041554919203983360"
+          ]
+        },
+        "author_id": "1847835560175685635",
+        "conversation_id": "2041532208981430542",
+        "created_at": "2026-04-07T16:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T17:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041554928192344480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PgOUiGV87M",
+              "end": 43,
+              "expanded_url": "https://x.com/OPPOFANS114514/status/2041554928192344480/photo/1",
+              "media_key": "3_2041554919203983360",
+              "start": 20,
+              "url": "https://t.co/PgOUiGV87M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041554928192344480",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041532208981430542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 依旧： https://t.co/PgOUiGV87M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 459,
+          "like_count": 851,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1441
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "我可能开心，我也可能不开心\n但记住，你一定要天天开心~ ₍˄·͈༝·͈˄*₎◞ ̑̑\n不吃🍔了，现在已对🍕上瘾 INFP-T\n颜文字万岁！( ≧▽≦ )\n凉面派😼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/37m0RVoXvD"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2294,
+          "following_count": 2231,
+          "like_count": 21908,
+          "listed_count": 7,
+          "media_count": 789,
+          "tweet_count": 21228
+        },
+        "url": "https://t.co/37m0RVoXvD",
+        "username": "OPPOFANS114514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "男娘，谢谢喜欢。好きになってくれてありがとうございます",
+        "id": "1763034943599607808",
+        "location": "🉑🌙🚪48",
+        "name": "月光的琉璃梦🏳️‍⚧️🍥🌸4代目",
+        "pinned_tweet_id": "2041532208981430542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041518071383527424/Ikw4pdSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 27,
+          "like_count": 166,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 939
+        },
+        "username": "moonlight_ruri",
+        "verified": false
+      }
+    ]
+  }
+}

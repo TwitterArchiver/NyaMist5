@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2036939098586571164",
+    "created_at": "2026-03-25T23:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T00:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036955605379014890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974865605204586498",
+          "start": 0,
+          "username": "Krktmk_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036955605379014890",
+    "in_reply_to_user_id": "1974865605204586498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036939098586571164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Krktmk_8964 看起来把我淡出去了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2036939094169907200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HESpUGEacAAqyfq.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2036939098586571164",
+        "created_at": "2026-03-25T23:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T00:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036955605379014890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036955605379014890",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036939098586571164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Krktmk_8964 看起来把我淡出去了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036939094169907200"
+          ]
+        },
+        "author_id": "1974865605204586498",
+        "conversation_id": "2036939098586571164",
+        "created_at": "2026-03-25T22:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T23:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036939098586571164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/2oXrR3HHCw"
+            },
+            {
+              "display_url": "pic.x.com/fjHJVtidYG",
+              "end": 64,
+              "expanded_url": "https://x.com/Krktmk_8964/status/2036939098586571164/photo/1",
+              "media_key": "3_2036939094169907200",
+              "start": 41,
+              "url": "https://t.co/fjHJVtidYG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036939098586571164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/2oXrR3HHCw https://t.co/fjHJVtidYG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 461,
+          "like_count": 851,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1414
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2031286928503615640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016867499816693760/cgM-POhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 2217,
+          "like_count": 34937,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 3491
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      }
+    ]
+  }
+}

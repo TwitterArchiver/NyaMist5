@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2065028870139789451",
+    "created_at": "2026-06-12T17:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065479424812957759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065479424812957759",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065028870139789451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy 看fate看多了自动转化电音"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1267,
+        "media_key": "3_2065028859964375040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKh0zqEbQAAvT3R.jpg",
+        "width": 1420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2065028870139789451",
+        "created_at": "2026-06-12T17:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065479424812957759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065479424812957759",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065028870139789451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 看fate看多了自动转化电音"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065028859964375040"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2065028870139789451",
+        "created_at": "2026-06-11T11:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065028870139789451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4bPebd9Unl",
+              "end": 34,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2065028870139789451/photo/1",
+              "media_key": "3_2065028859964375040",
+              "start": 11,
+              "url": "https://t.co/4bPebd9Unl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065028870139789451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 259,
+          "impression_count": 918768,
+          "like_count": 5251,
+          "quote_count": 21,
+          "reply_count": 798,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "请读出这个品牌的名字 https://t.co/4bPebd9Unl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "日产芝麻油/土色天象V:Natsuki_0915/tg: https://t.co/gx52vkhQzR(江苏省内包邮)/逃生舱@HECIz6/里推@NyaMist6/07年11月等死老登",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 64,
+                "username": "HECIz6"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 52,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 29,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "江苏 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064980603934756864/VoAdDnwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 409,
+          "like_count": 962,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 1720
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11959,
+          "following_count": 4359,
+          "like_count": 48965,
+          "listed_count": 36,
+          "media_count": 2772,
+          "tweet_count": 15893
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

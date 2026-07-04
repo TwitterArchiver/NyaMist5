@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2049017021883691489",
+    "created_at": "2026-04-28T07:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049026637090750954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013517011729465344",
+          "start": 0,
+          "username": "RfbxaUauj41685"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049026637090750954",
+    "in_reply_to_user_id": "2013517011729465344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049017021883691489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RfbxaUauj41685 难绷吊裂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2049017021883691489",
+        "created_at": "2026-04-28T07:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049026637090750954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013517011729465344",
+              "start": 0,
+              "username": "RfbxaUauj41685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049026637090750954",
+        "in_reply_to_user_id": "2013517011729465344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049017021883691489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RfbxaUauj41685 难绷吊裂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013517011729465344",
+        "conversation_id": "2049017021883691489",
+        "created_at": "2026-04-28T06:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049017021883691489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NyaMist5/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/NyaMist5/status/2048436284755202070",
+              "start": 10,
+              "url": "https://t.co/rUu2GDJc1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049017021883691489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048436284755202070",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了还是连续剧 https://t.co/rUu2GDJc1B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "已退役oder💊/生产日期：2007.11.26/逃生舱@HECIz6/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "HECIz6"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 482,
+          "like_count": 896,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1519
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-20T07:40:54.000Z",
+        "description": "男/mtx 前世：@rednightmare962",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2013517011729465344",
+        "name": "洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036639177761333249/V3qDiwX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 63,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 181
+        },
+        "username": "RfbxaUauj41685",
+        "verified": false
+      }
+    ]
+  }
+}

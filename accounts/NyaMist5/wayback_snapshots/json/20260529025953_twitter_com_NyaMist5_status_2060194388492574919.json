@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2059920617781318129",
+    "created_at": "2026-05-29T02:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060194388492574919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 28,
+          "id": "1547812257676963840",
+          "start": 16,
+          "username": "YLS69979546"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060194388492574919",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060166737073766401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen @YLS69979546 固态硬盘不能一直扫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2059920617781318129",
+        "created_at": "2026-05-29T02:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060194388492574919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 28,
+              "id": "1547812257676963840",
+              "start": 16,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060194388492574919",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060166737073766401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @YLS69979546 固态硬盘不能一直扫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2059920617781318129",
+        "created_at": "2026-05-29T01:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060166737073766401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060166737073766401",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 640,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060026935212929102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 以前还出现过 ACE「大量扫盘导致固态硬盘寿命大幅缩减」的问题。不过那个问题有传言说是硬盘厂商制造的谣言，環状線目前无法证实这个说法的真实性。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "V:Natsuki_0915(出🍬💉)/tg: https://t.co/cuxhzT92RB逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 50,
+                "username": "HECIz6"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "YeziLoveChen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu/",
+                "end": 47,
+                "expanded_url": "https://t.me/MizusakiWu/",
+                "start": 24,
+                "url": "https://t.co/cuxhzT92RB"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "江苏 中华人民共和国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058588416330391553/9yQ0BPNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 401,
+          "like_count": 958,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1677
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2057756896728436791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4310,
+          "following_count": 862,
+          "like_count": 22956,
+          "listed_count": 11,
+          "media_count": 1222,
+          "tweet_count": 6848
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 66,
+          "like_count": 4739,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 564
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

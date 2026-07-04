@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068688803758485504"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      }
+    ],
+    "conversation_id": "2068688814869238116",
+    "created_at": "2026-06-21T13:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T14:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068688814869238116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5EHToF5PuA",
+          "end": 34,
+          "expanded_url": "https://x.com/NyaMist5/status/2068688814869238116/photo/1",
+          "media_key": "3_2068688803758485504",
+          "start": 11,
+          "url": "https://t.co/5EHToF5PuA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068688814869238116",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小京都果然是小京都～ https://t.co/5EHToF5PuA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068688803758485504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV1gbLaMAAzSDt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068688803758485504"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "2068688814869238116",
+        "created_at": "2026-06-21T13:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068688814869238116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5EHToF5PuA",
+              "end": 34,
+              "expanded_url": "https://x.com/NyaMist5/status/2068688814869238116/photo/1",
+              "media_key": "3_2068688803758485504",
+              "start": 11,
+              "url": "https://t.co/5EHToF5PuA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068688814869238116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小京都果然是小京都～ https://t.co/5EHToF5PuA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "日产芝麻油/土色天象V:Natsuki_0915/tg: https://t.co/gx52vkhQzR(江苏省内包邮)/逃生舱@HECIz6/里推@NyaMist6/07年11月等死老登",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 64,
+                "username": "HECIz6"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 52,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 29,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064980603934756864/VoAdDnwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 415,
+          "like_count": 975,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 1759
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      }
+    ]
+  }
+}

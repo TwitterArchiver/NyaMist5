@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2042635729218703723",
+    "created_at": "2026-04-10T17:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T18:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042658503458984078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1589964590124716032",
+          "start": 0,
+          "username": "ccccx93209831"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042658503458984078",
+    "in_reply_to_user_id": "1589964590124716032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042635729218703723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccccx93209831 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2042635729218703723",
+        "created_at": "2026-04-10T17:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042658503458984078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1589964590124716032",
+              "start": 0,
+              "username": "ccccx93209831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042658503458984078",
+        "in_reply_to_user_id": "1589964590124716032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042635729218703723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccccx93209831 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589964590124716032",
+        "conversation_id": "2042635729218703723",
+        "created_at": "2026-04-10T16:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042635729218703723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042635729218703723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5413,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 90,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所有人都来祝我生日快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "准备退役oder💊/生产日期：2007.11.26/梦想做一个北欧小姑娘/家长党！/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Уси Китай",
+        "name": "霧會散_Mizusaki",
+        "pinned_tweet_id": "2032667875211907213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 460,
+          "like_count": 852,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1449
+        },
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-08T12:55:03.000Z",
+        "description": "随便发发",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.yy.tz69.vip/#/register?code=KPupKXNZ",
+                "start": 0,
+                "url": "https://t.co/4rWlYXPVRs"
+              }
+            ]
+          }
+        },
+        "id": "1589964590124716032",
+        "location": "29元包年千G流量VPN👉",
+        "name": "我一点都不开心！",
+        "pinned_tweet_id": "1886253448363901387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999483289246269446/1-FDZC-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 130,
+          "like_count": 3337,
+          "listed_count": 5,
+          "media_count": 290,
+          "tweet_count": 4362
+        },
+        "url": "https://t.co/4rWlYXPVRs",
+        "username": "ccccx93209831",
+        "verified": false
+      }
+    ]
+  }
+}

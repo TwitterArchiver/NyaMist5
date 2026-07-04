@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2023817155998073339",
+    "created_at": "2026-02-18T17:45:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T18:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024178465793286427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999717719508492288",
+          "start": 0,
+          "username": "zzp1261305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024178465793286427",
+    "in_reply_to_user_id": "1999717719508492288",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024178356963717614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzp1261305 ~\\(≧▽≦)/~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2023817155998073339",
+        "created_at": "2026-02-18T17:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024178465793286427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999717719508492288",
+              "start": 0,
+              "username": "zzp1261305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024178465793286427",
+        "in_reply_to_user_id": "1999717719508492288",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024178356963717614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzp1261305 ~\\(≧▽≦)/~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999717719508492288",
+        "conversation_id": "2023817155998073339",
+        "created_at": "2026-02-18T17:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024178356963717614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024178356963717614",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024177777306718432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 好耶！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "曾经的悲观阴郁币/咱叫吴水琦(网名吴雾晨)/梦想做一个北欧小姑娘/星宇比较大的小猫(bushi/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/07大龄xyn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Urumqi China",
+        "name": "霧會散（霧晨晨）🌫️🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022078220385083392/6WdMh-BX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 397,
+          "like_count": 489,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1121
+        },
+        "username": "NyaMist5",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T05:47:35.000Z",
+        "description": "OIer | 前男娘，现mtf | 双相 | 已休学 | hrt:2026.1.31 | 自由主义 | 欢迎互fo喵~",
+        "id": "1999717719508492288",
+        "name": "🏳️‍⚧️传说中的蒟蒻果冻🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999722596506673152/vXtZ4YIB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 90,
+          "like_count": 14326,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "username": "zzp1261305",
+        "verified": false
+      }
+    ]
+  }
+}

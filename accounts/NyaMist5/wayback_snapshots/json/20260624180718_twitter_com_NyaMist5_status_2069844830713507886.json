@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069844818461900800"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2060133409025110389",
+    "created_at": "2026-06-24T18:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T19:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069844830713507886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886568842018856960",
+          "start": 0,
+          "username": "T5618B_WAN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e1RCpwGZ3V",
+          "end": 58,
+          "expanded_url": "https://x.com/NyaMist5/status/2069844830713507886/photo/1",
+          "media_key": "3_2069844818461900800",
+          "start": 35,
+          "url": "https://t.co/e1RCpwGZ3V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069844830713507886",
+    "in_reply_to_user_id": "1886568842018856960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060133409025110389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T5618B_WAN 有能力还是去上海或南京吧，无锡的精卫确实傻逼 https://t.co/e1RCpwGZ3V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069844818461900800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmQ5ViawAA9w5W.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069844818461900800"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2060133409025110389",
+        "created_at": "2026-06-24T18:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069844830713507886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886568842018856960",
+              "start": 0,
+              "username": "T5618B_WAN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e1RCpwGZ3V",
+              "end": 58,
+              "expanded_url": "https://x.com/NyaMist5/status/2069844830713507886/photo/1",
+              "media_key": "3_2069844818461900800",
+              "start": 35,
+              "url": "https://t.co/e1RCpwGZ3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069844830713507886",
+        "in_reply_to_user_id": "1886568842018856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060133409025110389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T5618B_WAN 有能力还是去上海或南京吧，无锡的精卫确实傻逼 https://t.co/e1RCpwGZ3V"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886568842018856960",
+        "conversation_id": "2060133409025110389",
+        "created_at": "2026-05-28T22:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T23:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060133409025110389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060133409025110389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "避雷无锡精卫-章姣洁医生\n \n出发前手写我自己7天内的情况让gemini 帮我转markdown格式好看点打印出来，他看了两眼就放一边说这是豆包还是ds写的😑，说了我嗓子疼说不了很多话才写材料说明的，非要扯一堆有的没的，和我监护人扯马斯克的儿子和我有什么关系，我超过7个符合双相的症状写在那是一个字不看全程把我监护人拉进来闲聊\n\n上一次说住院确定状态稳定就可以开小证这次又说我们要团队诊疗评估之后才会开而且开了没意义，我gd犯了当场站起来直接说明我的解决方案完全是我自己在控制和检测雌二醇还有肝肾功能指标，常去医院神内开个女性六项就31.5带孕酮，到他这就是只乐意给我开男六项不带孕酮\n\n开头写的我需要独处独自安排生活节奏就能稳定下来硬是推荐让我住院，有考虑过让一个作息本来稳定只要安静无光无噪音和打扰作息早6晚11中午睡1h的患者在集体病房会触发过激行为的后果么\n\n还有他妈的**大学附属人民医院呼吸科**睿，做了4项检查还没Gemini对我的帮助大，最后是靠我自己和哈基米排查出来的问题😓"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2993,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "避雷无锡精卫-章姣洁医生\n \n出发前手写我自己7天内的情况让gemini"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "日产芝麻油/土色天象V:Natsuki_0915/tg: https://t.co/gx52vkhQzR(江苏省内包邮)/🚪20/逃生舱@HECIz6/里推@NyaMist6/07年11月等死老登",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 68,
+                "username": "HECIz6"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 52,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 29,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064980603934756864/VoAdDnwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 413,
+          "like_count": 985,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 1787
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-04T00:14:07.000Z",
+        "description": "Computer science|Unix|network|\n里推:@yesyunn \n绒布球:@yq142857\n休学中，叫我tb妹妹就好\n面向同类开放\n乱七八糟的发/好用机场分享/日常发颠/不日常就是在读/写(我不是硬盘)\n电报群：https://t.co/TOsMU3cfcF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "yesyunn"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "yq142857"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+shhuNR9Y6U42M…",
+                "end": 141,
+                "expanded_url": "http://t.me/+shhuNR9Y6U42MDA0",
+                "start": 118,
+                "url": "https://t.co/TOsMU3cfcF"
+              }
+            ]
+          }
+        },
+        "id": "1886568842018856960",
+        "location": "Blue Earth",
+        "name": "T5618B",
+        "pinned_tweet_id": "2008926629134057836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026672124820414464/zq0s7ttN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 275,
+          "like_count": 14084,
+          "listed_count": 9,
+          "media_count": 914,
+          "tweet_count": 2890
+        },
+        "url": "",
+        "username": "T5618B_WAN",
+        "verified": false
+      }
+    ]
+  }
+}
