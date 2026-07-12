@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075191745323954176"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2075191758393360638",
+    "created_at": "2026-07-09T12:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075191758393360638"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LTtkU5k5Lc",
+          "end": 32,
+          "expanded_url": "https://x.com/NyaMist5/status/2075191758393360638/photo/1",
+          "media_key": "3_2075191745323954176",
+          "start": 9,
+          "url": "https://t.co/LTtkU5k5Lc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075191758393360638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你已获得致幻之力 https://t.co/LTtkU5k5Lc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2075191745323954176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyP5cTbcAACIla.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075191745323954176"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2075191758393360638",
+        "created_at": "2026-07-09T12:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075191758393360638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LTtkU5k5Lc",
+              "end": 32,
+              "expanded_url": "https://x.com/NyaMist5/status/2075191758393360638/photo/1",
+              "media_key": "3_2075191745323954176",
+              "start": 9,
+              "url": "https://t.co/LTtkU5k5Lc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075191758393360638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你已获得致幻之力 https://t.co/LTtkU5k5Lc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "糖商tg: https://t.co/gx52vkhQzR(江苏省内包邮)/🚪20/逃生舱@NyaMist5_5/里推@NyaMist6/2007.11.26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 29,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 6,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071275138860077056/Dvb0uiUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 404,
+          "like_count": 997,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 1844
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      }
+    ]
+  }
+}
