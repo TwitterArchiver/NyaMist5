@@ -1,19 +1,34 @@
 {
   "name": "MistAvi🍥",
   "username": "@NyaMist5",
-  "bio": "糖商tg: t.me/MizusakiWu(江苏省内包邮)/🚪20/逃生舱@NyaMist5_5/里推@NyaMist6/2007.11.26",
+  "bio": "糖商tg: https://t.me/MizusakiWu(江苏省内包邮)/🚪20/逃生舱@NyaMist5_5/里推@NyaMist6/2007.11.26",
   "location": "无锡 中华人民共和国",
-  "link": "t.me/MizusakiWu",
+  "link": "https://t.me/MizusakiWu",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2055601650929434718",
   "bio_entities": {
     "mentions": [
       {
-        "end": 82,
-        "start": 69,
-        "username": "YeziLoveChen"
+        "end": 56,
+        "start": 45,
+        "username": "NyaMist5_5"
+      },
+      {
+        "end": 68,
+        "start": 59,
+        "username": "NyaMist6"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "t.me/MizusakiWu",
+        "end": 29,
+        "expanded_url": "https://t.me/MizusakiWu",
+        "start": 6,
+        "url": "https://t.co/gx52vkhQzR"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2071275138860077056/Dvb0uiUZ_normal.jpg"
 }
