@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2079725525166444734",
+    "created_at": "2026-07-22T00:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T01:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079725525166444734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__fanqie__/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/__fanqie__/status/2079410617967108189",
+          "start": 14,
+          "url": "https://t.co/e6dcKmJHin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079725525166444734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079410617967108189",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《争 取 全 部 自 愿》 https://t.co/e6dcKmJHin"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 614,
+        "media_key": "3_2079410606638292992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuM7fba4AA3d77.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2079725525166444734",
+        "created_at": "2026-07-22T00:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079725525166444734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__fanqie__/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/__fanqie__/status/2079410617967108189",
+              "start": 14,
+              "url": "https://t.co/e6dcKmJHin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079725525166444734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079410617967108189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《争 取 全 部 自 愿》 https://t.co/e6dcKmJHin"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079410606638292992"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2079410617967108189",
+        "created_at": "2026-07-21T03:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079410617967108189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9FbmUa0VIw",
+              "end": 32,
+              "expanded_url": "https://x.com/__fanqie__/status/2079410617967108189/photo/1",
+              "media_key": "3_2079410606638292992",
+              "start": 9,
+              "url": "https://t.co/9FbmUa0VIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079410617967108189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4043,
+          "like_count": 66,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "羡慕被挨个教室查 https://t.co/9FbmUa0VIw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KZ",
+              "full_name": "Kazakhstan",
+              "geo": {
+                "coordinates": [
+                  68.0,
+                  48.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "糖商tg: https://t.co/gx52vkhQzR(江苏省内包邮)/🚪20/逃生舱@NyaMist5_5/里推@NyaMist6/小小号:@NyaMist7/2007.11.26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "NyaMist7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 29,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 6,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Kazakhstan",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071275138860077056/Dvb0uiUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 355,
+          "like_count": 1010,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 1895
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuO2ty"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2077018352132968707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11385,
+          "following_count": 2811,
+          "like_count": 1610,
+          "listed_count": 25,
+          "media_count": 2314,
+          "tweet_count": 11042
+        },
+        "url": "https://t.co/ndOwWuO2ty",
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

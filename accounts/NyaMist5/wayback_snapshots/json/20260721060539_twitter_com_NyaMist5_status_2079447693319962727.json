@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079447667135164417"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2079447693319962727",
+    "created_at": "2026-07-21T06:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T07:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079447693319962727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c0UQ1n4Ua6",
+          "end": 36,
+          "expanded_url": "https://x.com/NyaMist5/status/2079447693319962727/photo/1",
+          "media_key": "3_2079447667135164417",
+          "start": 13,
+          "url": "https://t.co/c0UQ1n4Ua6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079447693319962727",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是好女孩嘛？( ⩌⤚⩌) https://t.co/c0UQ1n4Ua6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2079447667135164417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuuosibMAEnLZU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079447667135164417"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2079447693319962727",
+        "created_at": "2026-07-21T06:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079447693319962727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0UQ1n4Ua6",
+              "end": 36,
+              "expanded_url": "https://x.com/NyaMist5/status/2079447693319962727/photo/1",
+              "media_key": "3_2079447667135164417",
+              "start": 13,
+              "url": "https://t.co/c0UQ1n4Ua6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079447693319962727",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是好女孩嘛？( ⩌⤚⩌) https://t.co/c0UQ1n4Ua6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KZ",
+              "full_name": "Kazakhstan",
+              "geo": {
+                "coordinates": [
+                  68.0,
+                  48.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "糖商tg: https://t.co/gx52vkhQzR(江苏省内包邮)/🚪20/逃生舱@NyaMist5_5/里推@NyaMist6/小小号:@NyaMist7/2007.11.26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "NyaMist7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 29,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 6,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Kazakhstan",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071275138860077056/Dvb0uiUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 355,
+          "like_count": 1005,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 1883
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      }
+    ]
+  }
+}

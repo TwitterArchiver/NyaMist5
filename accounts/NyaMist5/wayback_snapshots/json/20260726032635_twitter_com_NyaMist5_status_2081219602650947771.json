@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2081190472744358375",
+    "created_at": "2026-07-26T03:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081219602650947771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1945331416528539649",
+          "start": 0,
+          "username": "bpmiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081219602650947771",
+    "in_reply_to_user_id": "1945331416528539649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081190472744358375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bpmiea 14岁拿驾照，16岁当警察怀孕，我真不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1804,
+        "media_key": "3_2081190460350164992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOHfsnMacAA67Hg.jpg",
+        "width": 1861
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2081190472744358375",
+        "created_at": "2026-07-26T03:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081219602650947771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1945331416528539649",
+              "start": 0,
+              "username": "bpmiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081219602650947771",
+        "in_reply_to_user_id": "1945331416528539649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081190472744358375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bpmiea 14岁拿驾照，16岁当警察怀孕，我真不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081190460350164992"
+          ]
+        },
+        "author_id": "1945331416528539649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081190472744358375",
+        "created_at": "2026-07-26T01:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081190472744358375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s9l3Die0xP",
+              "end": 41,
+              "expanded_url": "https://x.com/bpmiea/status/2081190472744358375/photo/1",
+              "media_key": "3_2081190460350164992",
+              "start": 18,
+              "url": "https://t.co/s9l3Die0xP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081190472744358375",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 698,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已被奇异搞笑怀孕王block。。。 https://t.co/s9l3Die0xP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KZ",
+              "full_name": "Kazakhstan",
+              "geo": {
+                "coordinates": [
+                  68.0,
+                  48.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Kazakhstan",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080945250101764096/ZDhr9ulG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 355,
+          "like_count": 1020,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 1926
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-16T03:55:59.000Z",
+        "description": "MtF🏳️‍⚧️ | 无证🍥 from 2026.1 | 2011出厂 | 自恨党，出走预备中\n不吸毒不自残不键政不滥交 | archlinux | gfwfucker | Vibecoder | Vocaloid/SV | 会发一些日常和碎碎念，可能会有负面内容…\n欢迎同类互fo！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bpmiea",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bpmiea",
+                "start": 0,
+                "url": "https://t.co/o0j8ZV1aqF"
+              }
+            ]
+          }
+        },
+        "id": "1945331416528539649",
+        "location": "小城市",
+        "name": "叶洛夜🍥𝓑.𝓜.",
+        "pinned_tweet_id": "2077917279115985096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075763756723044352/VWZ-Y7B4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 665,
+          "like_count": 871,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 1156
+        },
+        "url": "https://t.co/o0j8ZV1aqF",
+        "username": "bpmiea",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2080313481849643106",
+    "created_at": "2026-07-25T09:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T10:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080948350883368996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2079365089334112256",
+          "start": 0,
+          "username": "Kiyoshiaufzju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080948350883368996",
+    "in_reply_to_user_id": "2079365089334112256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080313481849643106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiyoshiaufzju 我真不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1445,
+        "media_key": "3_2080313477667893248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7CFgHaMAAV_Lp.jpg",
+        "width": 1088
+      },
+      {
+        "height": 941,
+        "media_key": "3_2080313478624186368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7CFjraEAAQTOI.jpg",
+        "width": 1672
+      },
+      {
+        "height": 1049,
+        "media_key": "3_2080313478368403456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7CFiubIAAXlrp.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2080313481849643106",
+        "created_at": "2026-07-25T09:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080948350883368996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2079365089334112256",
+              "start": 0,
+              "username": "Kiyoshiaufzju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080948350883368996",
+        "in_reply_to_user_id": "2079365089334112256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080313481849643106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiyoshiaufzju 我真不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080313477667893248",
+            "3_2080313478624186368",
+            "3_2080313478368403456"
+          ]
+        },
+        "author_id": "2079365089334112256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080313481849643106",
+        "created_at": "2026-07-23T15:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080313481849643106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BghksFBkm6",
+              "end": 85,
+              "expanded_url": "https://x.com/Kiyoshiaufzju/status/2080313481849643106/photo/1",
+              "media_key": "3_2080313477667893248",
+              "start": 62,
+              "url": "https://t.co/BghksFBkm6"
+            },
+            {
+              "display_url": "pic.x.com/BghksFBkm6",
+              "end": 85,
+              "expanded_url": "https://x.com/Kiyoshiaufzju/status/2080313481849643106/photo/1",
+              "media_key": "3_2080313478624186368",
+              "start": 62,
+              "url": "https://t.co/BghksFBkm6"
+            },
+            {
+              "display_url": "pic.x.com/BghksFBkm6",
+              "end": 85,
+              "expanded_url": "https://x.com/Kiyoshiaufzju/status/2080313481849643106/photo/1",
+              "media_key": "3_2080313478368403456",
+              "start": 62,
+              "url": "https://t.co/BghksFBkm6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080313481849643106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 155603,
+          "like_count": 184,
+          "quote_count": 26,
+          "reply_count": 155,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "生下来了    10年小姑娘喜提男宝宝   我让护士给我拍的   护士把我拍的好迷茫😅不过我也是有孩子的人了   晚安各位 https://t.co/BghksFBkm6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KZ",
+              "full_name": "Kazakhstan",
+              "geo": {
+                "coordinates": [
+                  68.0,
+                  48.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "糖商tg: https://t.co/gx52vkhQzR(江苏省内包邮)/🚪20/逃生舱@NyaMist5_5/里推@NyaMist6/小小号:@NyaMist7/2007.11.26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "NyaMist7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 29,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 6,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Kazakhstan",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080945250101764096/ZDhr9ulG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 354,
+          "like_count": 1019,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 1919
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T00:38:39.000Z",
+        "description": "原@666666666ZT账号被我自愿冻结，现号是二代目，生产日期2010年7月1日",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "666666666ZT"
+              }
+            ]
+          }
+        },
+        "id": "2079365089334112256",
+        "name": "电子爱好者清正🍥🏳️‍⚧️（二代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079365529480118273/gD1bMelp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 144,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "Kiyoshiaufzju",
+        "verified": false
+      }
+    ]
+  }
+}

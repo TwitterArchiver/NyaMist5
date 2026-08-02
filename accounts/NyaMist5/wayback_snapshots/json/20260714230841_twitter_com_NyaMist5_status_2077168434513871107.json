@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2077168335452811264"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2077168434513871107",
+    "created_at": "2026-07-14T23:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T00:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077168434513871107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 29,
+          "id": "1958774802795438082",
+          "start": 16,
+          "username": "YeziLoveChen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jMosugxLkK",
+          "end": 73,
+          "expanded_url": "https://x.com/NyaMist5/status/2077168434513871107/video/1",
+          "media_key": "7_2077168335452811264",
+          "start": 50,
+          "url": "https://t.co/jMosugxLkK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077168434513871107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "反攻大陆年年喊，反攻老公第一个\n@YeziLoveChen 让你天天草我喵，现在等着堕落吧~¯꒳¯ https://t.co/jMosugxLkK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24773,
+        "height": 1080,
+        "media_key": "7_2077168335452811264",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2077168335452811264/pu/img/3reCFFj4nlxN8QEa.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077168335452811264/pu/vid/avc1/640x360/06ns2Mt43qnYYlF_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077168335452811264/pu/vid/avc1/1280x720/ACkcxxiVoRZDdcNb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2077168335452811264/pu/pl/YQGzy5Y-yQ9qw0yj.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077168335452811264/pu/vid/avc1/480x270/ljErTXi4Qsmza2e1.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077168335452811264/pu/vid/avc1/1920x1080/B-VWU4XAyNyTtHm0.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2077168335452811264"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2077168434513871107",
+        "created_at": "2026-07-14T23:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T00:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077168434513871107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1958774802795438082",
+              "start": 16,
+              "username": "YeziLoveChen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jMosugxLkK",
+              "end": 73,
+              "expanded_url": "https://x.com/NyaMist5/status/2077168434513871107/video/1",
+              "media_key": "7_2077168335452811264",
+              "start": 50,
+              "url": "https://t.co/jMosugxLkK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077168434513871107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反攻大陆年年喊，反攻老公第一个\n@YeziLoveChen 让你天天草我喵，现在等着堕落吧~¯꒳¯ https://t.co/jMosugxLkK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KZ",
+              "full_name": "Kazakhstan",
+              "geo": {
+                "coordinates": [
+                  68.0,
+                  48.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "糖商tg: https://t.co/gx52vkhQzR(江苏省内包邮)/🚪20/逃生舱@NyaMist5_5/里推@NyaMist6/小小号:@NyaMist7/2007.11.26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "NyaMist7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 29,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 6,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Kazakhstan",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071275138860077056/Dvb0uiUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 356,
+          "like_count": 1000,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 1856
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-22T06:14:49.000Z",
+        "description": "热爱生活！爱大家！拒绝消极！拒绝内耗！/跟老婆过最好的最幸福滴生活！/最好的老婆大人：@NyaMist5 ：hrt：2025/11/23/Fps游戏基本都玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "NyaMist5"
+              }
+            ]
+          }
+        },
+        "id": "1958774802795438082",
+        "location": "Los Angeles, CA",
+        "name": "叶子🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033362982198239232/wLE_0mo7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 61,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "YeziLoveChen",
+        "verified": false
+      }
+    ]
+  }
+}

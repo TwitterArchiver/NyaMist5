@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2073598500387098701",
+    "created_at": "2026-07-24T01:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T02:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080461102874521962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1271278454537744384",
+          "start": 0,
+          "username": "Rabbit_Pussy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080461102874521962",
+    "in_reply_to_user_id": "1271278454537744384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073598500387098701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rabbit_Pussy gti既视感"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073598490136252416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbm1yNbkAA1S3u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2073598500387098701",
+        "created_at": "2026-07-24T01:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080461102874521962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1271278454537744384",
+              "start": 0,
+              "username": "Rabbit_Pussy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080461102874521962",
+        "in_reply_to_user_id": "1271278454537744384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073598500387098701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rabbit_Pussy gti既视感"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073598490136252416"
+          ]
+        },
+        "author_id": "1271278454537744384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073598500387098701",
+        "created_at": "2026-07-05T02:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073598500387098701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/imWLEPy8k3",
+              "end": 26,
+              "expanded_url": "https://x.com/Rabbit_Pussy/status/2073598500387098701/photo/1",
+              "media_key": "3_2073598490136252416",
+              "start": 3,
+              "url": "https://t.co/imWLEPy8k3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073598500387098701",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 589,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘎嘎 https://t.co/imWLEPy8k3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KZ",
+              "full_name": "Kazakhstan",
+              "geo": {
+                "coordinates": [
+                  68.0,
+                  48.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "糖商tg: https://t.co/gx52vkhQzR(江苏省内包邮)/🚪20/逃生舱@NyaMist5_5/里推@NyaMist6/小小号:@NyaMist7/2007.11.26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "NyaMist7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 29,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 6,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Kazakhstan",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071275138860077056/Dvb0uiUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 355,
+          "like_count": 1017,
+          "listed_count": 3,
+          "media_count": 186,
+          "tweet_count": 1915
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-12T03:09:46.000Z",
+        "description": "没关系，一切都会坏起来的，因为人口红利/熵增",
+        "id": "1271278454537744384",
+        "location": "Niger",
+        "name": "兔毛M ε ow",
+        "pinned_tweet_id": "2062614219393257688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077551825247707136/I0HAjv2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5356,
+          "following_count": 2077,
+          "like_count": 27552,
+          "listed_count": 8,
+          "media_count": 1169,
+          "tweet_count": 8045
+        },
+        "url": "",
+        "username": "Rabbit_Pussy",
+        "verified": false
+      }
+    ]
+  }
+}

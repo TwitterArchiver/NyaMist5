@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2081233386052718956",
+    "created_at": "2026-07-27T00:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T01:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081535912794874141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882465252664913920",
+          "start": 0,
+          "username": "Shadowin__"
+        },
+        {
+          "end": 22,
+          "id": "1982449259774656512",
+          "start": 12,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081535912794874141",
+    "in_reply_to_user_id": "1882465252664913920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081374186560430355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Shadowin__ @smiroyama 我和我同学离谱，是在抖音上认识的，结果一看一个学校"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2081233386052718956",
+        "created_at": "2026-07-27T00:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T01:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081535912794874141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882465252664913920",
+              "start": 0,
+              "username": "Shadowin__"
+            },
+            {
+              "end": 22,
+              "id": "1982449259774656512",
+              "start": 12,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081535912794874141",
+        "in_reply_to_user_id": "1882465252664913920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081374186560430355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Shadowin__ @smiroyama 我和我同学离谱，是在抖音上认识的，结果一看一个学校"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882465252664913920",
+        "conversation_id": "2081233386052718956",
+        "created_at": "2026-07-26T13:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081374186560430355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081374186560430355",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081233386052718956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@smiroyama mtf里大部分在学校里都深柜吧呃我很好奇怎么找学校里的木桶饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KZ",
+              "full_name": "Kazakhstan",
+              "geo": {
+                "coordinates": [
+                  68.0,
+                  48.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Kazakhstan",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080945250101764096/ZDhr9ulG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 355,
+          "like_count": 1022,
+          "listed_count": 3,
+          "media_count": 192,
+          "tweet_count": 1929
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-23T16:27:55.000Z",
+        "description": "i gave up okay u can call me mpt",
+        "id": "1882465252664913920",
+        "location": "Bukan",
+        "name": "MPT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078072286004056064/3Wb-kaOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 143,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 575
+        },
+        "url": "",
+        "username": "Shadowin__",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "闺蜜:@qianxunchan\n朋友:@Huang_Yut1ng @fukui_p26\nDeveloping https://t.co/pJ9VtduSxe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 32,
+                "start": 19,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 78,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 55,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "name": "Smirnova🍡",
+        "pinned_tweet_id": "2065373003169570821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298418834018304/5_bmbU-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7330,
+          "following_count": 2609,
+          "like_count": 14141,
+          "listed_count": 14,
+          "media_count": 2416,
+          "tweet_count": 8862
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082290501659860992"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2082290513252905039",
+    "created_at": "2026-07-29T02:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T03:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082290513252905039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s0n58u5DLv",
+          "end": 32,
+          "expanded_url": "https://x.com/NyaMist5/status/2082290513252905039/photo/1",
+          "media_key": "3_2082290501659860992",
+          "start": 9,
+          "url": "https://t.co/s0n58u5DLv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082290513252905039",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个娚孩在抽七星 https://t.co/s0n58u5DLv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082290501659860992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXILcabIAAY8B4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082290501659860992"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2082290513252905039",
+        "created_at": "2026-07-29T02:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082290513252905039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s0n58u5DLv",
+              "end": 32,
+              "expanded_url": "https://x.com/NyaMist5/status/2082290513252905039/photo/1",
+              "media_key": "3_2082290501659860992",
+              "start": 9,
+              "url": "https://t.co/s0n58u5DLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082290513252905039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个娚孩在抽七星 https://t.co/s0n58u5DLv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KZ",
+              "full_name": "Kazakhstan",
+              "geo": {
+                "coordinates": [
+                  68.0,
+                  48.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Kazakhstan",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080945250101764096/ZDhr9ulG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 358,
+          "like_count": 1031,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 1950
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      }
+    ]
+  }
+}

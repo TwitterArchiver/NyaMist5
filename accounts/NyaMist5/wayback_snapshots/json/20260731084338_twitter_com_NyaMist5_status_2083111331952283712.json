@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2082989042397020160"
+      ],
+      "media_source_tweet_id": [
+        "2082989348203741341"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2083111331952283712",
+    "created_at": "2026-07-31T08:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083111331952283712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ywIIp1XEvq",
+          "end": 33,
+          "expanded_url": "https://x.com/NL8526/status/2082989348203741341/photo/1",
+          "media_key": "16_2082989042397020160",
+          "start": 10,
+          "url": "https://t.co/ywIIp1XEvq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083111331952283712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好可爱的emoji\nhttps://t.co/ywIIp1XEvq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2082989042397020160",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOhDf3cbAAAT5Ww.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOhDf3cbAAAT5Ww.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2082989042397020160"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2082989348203741341",
+        "created_at": "2026-07-31T00:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:37:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082989055135080888",
+          "2082989348203741341"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "音乐"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "回忆"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXFFPJm42i",
+              "end": 123,
+              "expanded_url": "https://x.com/NL8526/status/2082989348203741341/photo/1",
+              "media_key": "16_2082989042397020160",
+              "start": 100,
+              "url": "https://t.co/zXFFPJm42i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082989348203741341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 368,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是真的很推荐大家，如果你特别想记住某一段时间的感觉和记忆，就在这段时间疯狂的单曲循环同一首歌。\n\n这样无论过了多久，只要听到这首歌，都会马上有一种回到过去的 属于你自己独特的感觉。\n#音乐 #回忆 https://t.co/zXFFPJm42i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2082989042397020160"
+          ],
+          "media_source_tweet_id": [
+            "2082989348203741341"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2083111331952283712",
+        "created_at": "2026-07-31T08:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083111331952283712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ywIIp1XEvq",
+              "end": 33,
+              "expanded_url": "https://x.com/NL8526/status/2082989348203741341/photo/1",
+              "media_key": "16_2082989042397020160",
+              "start": 10,
+              "url": "https://t.co/ywIIp1XEvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083111331952283712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好可爱的emoji\nhttps://t.co/ywIIp1XEvq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KZ",
+              "full_name": "Kazakhstan",
+              "geo": {
+                "coordinates": [
+                  68.0,
+                  48.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Kazakhstan",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080945250101764096/ZDhr9ulG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 361,
+          "like_count": 1036,
+          "listed_count": 3,
+          "media_count": 205,
+          "tweet_count": 1982
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2081965752178151609",
+    "created_at": "2026-07-29T00:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T01:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082264601295810914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1604181895721504771",
+          "start": 0,
+          "username": "mengtunwudaimu"
+        },
+        {
+          "end": 31,
+          "id": "1563916965869133830",
+          "start": 16,
+          "username": "plucknimaalive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082264601295810914",
+    "in_reply_to_user_id": "1604181895721504771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082042324822241622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengtunwudaimu @plucknimaalive 不行我真绷不住了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2081965752178151609",
+        "created_at": "2026-07-29T00:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082264601295810914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1604181895721504771",
+              "start": 0,
+              "username": "mengtunwudaimu"
+            },
+            {
+              "end": 31,
+              "id": "1563916965869133830",
+              "start": 16,
+              "username": "plucknimaalive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082264601295810914",
+        "in_reply_to_user_id": "1604181895721504771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082042324822241622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengtunwudaimu @plucknimaalive 不行我真绷不住了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604181895721504771",
+        "conversation_id": "2081965752178151609",
+        "created_at": "2026-07-28T09:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082042324822241622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1563916965869133830",
+              "start": 0,
+              "username": "plucknimaalive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082042324822241622",
+        "in_reply_to_user_id": "1563916965869133830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 644,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082035652225630337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plucknimaalive 中国人确实人机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KZ",
+              "full_name": "Kazakhstan",
+              "geo": {
+                "coordinates": [
+                  68.0,
+                  48.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Kazakhstan",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080945250101764096/ZDhr9ulG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 358,
+          "like_count": 1027,
+          "listed_count": 3,
+          "media_count": 196,
+          "tweet_count": 1943
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-17T18:29:10.000Z",
+        "description": "大家好，我是一個日本人，中文學習中，希望可以和使用中文的人成為朋友。",
+        "id": "1604181895721504771",
+        "location": "IP属地：美麗的日本",
+        "name": "川和喵酱薯条🍟🇯🇵井外势力",
+        "pinned_tweet_id": "1729765345424990414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067680240068083713/vzZpnDsF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14627,
+          "following_count": 3108,
+          "like_count": 31294,
+          "listed_count": 145,
+          "media_count": 2887,
+          "tweet_count": 18337
+        },
+        "url": "",
+        "username": "mengtunwudaimu",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-28T15:50:44.000Z",
+        "description": "共产党员、高雅资二代（24岁年入百万）、国企壬员、新法家理论家。玩推几年遭丑国多次冥煮。钢铁直男，打球、健身，有对象，🐔佬勿扰qqqxx。\n\n党就像黑暗中的光明，指引我们前进的方向。对党忠诚永不变！\n请自学：#钟子新法家思想",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 104,
+                "tag": "钟子新法家思想"
+              }
+            ]
+          }
+        },
+        "id": "1563916965869133830",
+        "location": "非常高雅之地区",
+        "name": "阿钟哥🚩新时代中国青年",
+        "pinned_tweet_id": "1563921695064326149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949836860689383424/7rYhLINI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 222,
+          "like_count": 40,
+          "listed_count": 10,
+          "media_count": 39,
+          "tweet_count": 1017
+        },
+        "url": "",
+        "username": "plucknimaalive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2079234951002865956",
+    "created_at": "2026-07-21T21:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T22:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079679637668651166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2065993210485252096",
+          "start": 0,
+          "username": "SiriusBlacpqhw"
+        },
+        {
+          "end": 25,
+          "id": "1594297311836143616",
+          "start": 16,
+          "username": "xiwu0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079679637668651166",
+    "in_reply_to_user_id": "2065993210485252096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079538821893353542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SiriusBlacpqhw @xiwu0721 你首先能不能组成一句完整的话？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2079234951002865956",
+        "created_at": "2026-07-21T21:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079679637668651166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2065993210485252096",
+              "start": 0,
+              "username": "SiriusBlacpqhw"
+            },
+            {
+              "end": 25,
+              "id": "1594297311836143616",
+              "start": 16,
+              "username": "xiwu0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079679637668651166",
+        "in_reply_to_user_id": "2065993210485252096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079538821893353542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SiriusBlacpqhw @xiwu0721 你首先能不能组成一句完整的话？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065993210485252096",
+        "conversation_id": "2079234951002865956",
+        "created_at": "2026-07-21T12:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079538821893353542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            },
+            {
+              "end": 19,
+              "id": "1594297311836143616",
+              "start": 10,
+              "username": "xiwu0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079538821893353542",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079513245334073794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 @xiwu0721 不是就你们这种东西还说别人配不配为人赶紧自己好好想想吧我要是你们这种乐子直接找个楼跳了 你还不如消停找个下水道咪着去这种男不男女不女的臭玩意赶紧找个楼跳了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KZ",
+              "full_name": "Kazakhstan",
+              "geo": {
+                "coordinates": [
+                  68.0,
+                  48.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "糖商tg: https://t.co/gx52vkhQzR(江苏省内包邮)/🚪20/逃生舱@NyaMist5_5/里推@NyaMist6/小小号:@NyaMist7/2007.11.26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "NyaMist7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 29,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 6,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Kazakhstan",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071275138860077056/Dvb0uiUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 355,
+          "like_count": 1008,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 1888
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-14T03:06:31.000Z",
+        "description": "",
+        "id": "2065993210485252096",
+        "name": "Sirius Black",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065994583155089408/56kkSaky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 48,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "SiriusBlacpqhw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T11:51:36.000Z",
+        "description": "小证含糖🍥MtF🏳️‍⚧️/HRT Since 2026.3.12🍬/SRS倒计时两年攒钱ing/🏫休学中/同类互fo（没看到请私信我） 贴贴喵🥺/家长反对党😭已被赶出门😇（离家出走）/喜欢可爱的事物🥰想要很多朋友/永远活在16岁✨",
+        "id": "1594297311836143616",
+        "location": "风信子号",
+        "name": "夕雾🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040815765197316096/KCGQMePy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 371,
+          "like_count": 409,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "xiwu0721",
+        "verified": false
+      }
+    ]
+  }
+}

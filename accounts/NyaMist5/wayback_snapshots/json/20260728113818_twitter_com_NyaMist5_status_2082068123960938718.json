@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082064000574164992"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2082068123960938718",
+    "created_at": "2026-07-28T11:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082068123960938718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TLVKiLWypS",
+          "end": 78,
+          "expanded_url": "https://x.com/NyaMist5/status/2082068123960938718/video/1",
+          "media_key": "13_2082064000574164992",
+          "start": 55,
+          "url": "https://t.co/TLVKiLWypS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082068123960938718",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“回来了？”\n“嗯，套就在放药的抽屉里”\n“今天上玩具”\n“啊？”\n（真的好爽而且今天惹老公生气了很用力🥺） https://t.co/TLVKiLWypS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 278781,
+        "height": 3840,
+        "media_key": "13_2082064000574164992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082064000574164992/img/GTPnAU0KToJu2oa4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082064000574164992/vid/avc1/720x1280/wSWWPoqmeEKP2qe2.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082064000574164992/vid/avc1/1080x1920/pX-vu_c3-o2CEcaW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082064000574164992/vid/avc1/480x852/cRN_uZrhM7uNS0qW.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082064000574164992/vid/avc1/320x568/CNigi5648_f3i-7M.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082064000574164992/pl/449CRzvpuBjeJ92F.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082064000574164992/vid/avc1/2160x3840/d_mU-GHOWVTsOyu7.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082064000574164992"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2082068123960938718",
+        "created_at": "2026-07-28T11:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082068123960938718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TLVKiLWypS",
+              "end": 78,
+              "expanded_url": "https://x.com/NyaMist5/status/2082068123960938718/video/1",
+              "media_key": "13_2082064000574164992",
+              "start": 55,
+              "url": "https://t.co/TLVKiLWypS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082068123960938718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“回来了？”\n“嗯，套就在放药的抽屉里”\n“今天上玩具”\n“啊？”\n（真的好爽而且今天惹老公生气了很用力🥺） https://t.co/TLVKiLWypS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KZ",
+              "full_name": "Kazakhstan",
+              "geo": {
+                "coordinates": [
+                  68.0,
+                  48.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Kazakhstan",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080945250101764096/ZDhr9ulG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 357,
+          "like_count": 1027,
+          "listed_count": 3,
+          "media_count": 196,
+          "tweet_count": 1941
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      }
+    ]
+  }
+}

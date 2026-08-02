@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2075989046573281346",
+    "created_at": "2026-07-13T09:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T10:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076600193550864733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1493620079581298692",
+          "start": 0,
+          "username": "hydrogen_nia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076600193550864733",
+    "in_reply_to_user_id": "1493620079581298692",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075989046573281346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hydrogen_nia 好呆喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075989034820845568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9lBzIaQAAt9nQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2075989046573281346",
+        "created_at": "2026-07-13T09:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076600193550864733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1493620079581298692",
+              "start": 0,
+              "username": "hydrogen_nia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076600193550864733",
+        "in_reply_to_user_id": "1493620079581298692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075989046573281346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hydrogen_nia 好呆喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075989034820845568"
+          ]
+        },
+        "author_id": "1493620079581298692",
+        "conversation_id": "2075989046573281346",
+        "created_at": "2026-07-11T17:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075989046573281346"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "男娘"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CoiX0WGa4",
+              "end": 65,
+              "expanded_url": "https://x.com/hydrogen_nia/status/2075989046573281346/photo/1",
+              "media_key": "3_2075989034820845568",
+              "start": 42,
+              "url": "https://t.co/0CoiX0WGa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075989046573281346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 20937,
+          "like_count": 198,
+          "quote_count": 1,
+          "reply_count": 97,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点好奇，在xnn中底子算好吗qwq\n（要是丑到大家了，致歉qwq\n#男娘 #伪娘 https://t.co/0CoiX0WGa4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KZ",
+              "full_name": "Kazakhstan",
+              "geo": {
+                "coordinates": [
+                  68.0,
+                  48.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "糖商tg: https://t.co/gx52vkhQzR(江苏省内包邮)/🚪20/逃生舱@NyaMist5_5/里推@NyaMist6/小小号:@NyaMist7/2007.11.26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "NyaMist7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 29,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 6,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Kazakhstan",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071275138860077056/Dvb0uiUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 356,
+          "like_count": 998,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 1853
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-15T16:16:05.000Z",
+        "description": "INFJ-T / 困 / 距离黎明还有三秒钟 / 究极舞萌吃 / chemistry / 东方厨 / 我的宝宝@Yuhane_ZZZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "Yuhane_ZZZ"
+              }
+            ]
+          }
+        },
+        "id": "1493620079581298692",
+        "name": "雨柔yurki _official🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029209588751605760/42geeMk5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 393,
+          "like_count": 6603,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 2537
+        },
+        "url": "",
+        "username": "hydrogen_nia",
+        "verified": false
+      }
+    ]
+  }
+}

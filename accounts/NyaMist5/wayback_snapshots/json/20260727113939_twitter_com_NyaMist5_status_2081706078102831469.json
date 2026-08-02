@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081706068158435328"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2081706078102831469",
+    "created_at": "2026-07-27T11:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081706078102831469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uE93nRWNWr",
+          "end": 33,
+          "expanded_url": "https://x.com/NyaMist5/status/2081706078102831469/photo/1",
+          "media_key": "3_2081706068158435328",
+          "start": 10,
+          "url": "https://t.co/uE93nRWNWr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081706078102831469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我平时在群里就这样 https://t.co/uE93nRWNWr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081706068158435328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOO0o79b0AA56lq.jpg",
+        "width": 1098
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081706068158435328"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2081706078102831469",
+        "created_at": "2026-07-27T11:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081706078102831469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uE93nRWNWr",
+              "end": 33,
+              "expanded_url": "https://x.com/NyaMist5/status/2081706078102831469/photo/1",
+              "media_key": "3_2081706068158435328",
+              "start": 10,
+              "url": "https://t.co/uE93nRWNWr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081706078102831469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我平时在群里就这样 https://t.co/uE93nRWNWr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KZ",
+              "full_name": "Kazakhstan",
+              "geo": {
+                "coordinates": [
+                  68.0,
+                  48.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Kazakhstan",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080945250101764096/ZDhr9ulG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 356,
+          "like_count": 1025,
+          "listed_count": 3,
+          "media_count": 193,
+          "tweet_count": 1935
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      }
+    ]
+  }
+}

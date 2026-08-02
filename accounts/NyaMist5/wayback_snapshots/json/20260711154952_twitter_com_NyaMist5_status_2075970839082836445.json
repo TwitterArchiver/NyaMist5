@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2075578104404406274",
+    "created_at": "2026-07-11T15:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075970839082836445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075970839082836445",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075578104404406274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 我是新疆出生长大的，只能说如果抛开一些茗猪籽油的话，新疆过得还不算太难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2075578104404406274",
+        "created_at": "2026-07-11T15:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075970839082836445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075970839082836445",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075578104404406274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 我是新疆出生长大的，只能说如果抛开一些茗猪籽油的话，新疆过得还不算太难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2075578104404406274",
+        "created_at": "2026-07-10T13:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075578104404406274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chinaeastern_c…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/chinaeastern_cn/status/2075530950201737484",
+              "start": 148,
+              "url": "https://t.co/KKUnF5HHKF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075578104404406274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "至善環状線：\n祝您出生在中国北上广深港澳台地区喵\n\n善良環状線：\n祝您出生在中国江浙沪地区喵\n\n温良環状線：\n祝您出生在中国长江以南地区喵\n\n中立環状線：\n祝您出生在中国华中、华北地区喵\n\n坏坏環状線：\n祝您出生在中国山河四省地区喵\n\n邪恶環状線：\n祝您出生在中国东北三省地区喵\n\n极恶環状線：\n祝您出生在中国黑河-腾冲线以西地区"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 52193,
+          "like_count": 320,
+          "quote_count": 9,
+          "reply_count": 117,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075530950201737484",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至善環状線：\n祝您出生在中国北上广深港澳台地区喵\n\n善良環状線：\n祝您出生在中国江浙沪地区喵\n\n温良環状線：\n祝您出生在中国长江以南地区喵\n\n中立環状線：\n祝您出生在中国华中、华北地区喵\n\n坏坏環状線：\n祝您出生在中国山河四省地区喵\n\n邪恶環状線：\n祝您出生在中国东北三省地区喵\n\n极恶環状線： https://t.co/KKUnF5HHKF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "糖商tg: https://t.co/gx52vkhQzR(江苏省内包邮)/🚪20/逃生舱@NyaMist5_5/里推@NyaMist6/2007.11.26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "NyaMist6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 29,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 6,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中华人民共和国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071275138860077056/Dvb0uiUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 406,
+          "like_count": 996,
+          "listed_count": 3,
+          "media_count": 170,
+          "tweet_count": 1849
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9732,
+          "following_count": 882,
+          "like_count": 30492,
+          "listed_count": 13,
+          "media_count": 2007,
+          "tweet_count": 10140
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

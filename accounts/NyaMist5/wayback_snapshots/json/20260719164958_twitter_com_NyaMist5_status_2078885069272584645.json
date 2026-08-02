@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078885052608548864",
+        "3_2078885060158410752"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2078885069272584645",
+    "created_at": "2026-07-19T16:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078885069272584645"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q4Wde5D1Ub",
+          "end": 34,
+          "expanded_url": "https://x.com/NyaMist5/status/2078885069272584645/photo/1",
+          "media_key": "3_2078885052608548864",
+          "start": 11,
+          "url": "https://t.co/Q4Wde5D1Ub"
+        },
+        {
+          "display_url": "pic.x.com/Q4Wde5D1Ub",
+          "end": 34,
+          "expanded_url": "https://x.com/NyaMist5/status/2078885069272584645/photo/1",
+          "media_key": "3_2078885060158410752",
+          "start": 11,
+          "url": "https://t.co/Q4Wde5D1Ub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078885069272584645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "附赠老公极品美脚一双 https://t.co/Q4Wde5D1Ub"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1052,
+        "media_key": "3_2078885052608548864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmu8OGaEAAU4Mk.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078885060158410752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmu8qOb0AAttNN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078885052608548864",
+            "3_2078885060158410752"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2078885069272584645",
+        "created_at": "2026-07-19T16:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078885069272584645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q4Wde5D1Ub",
+              "end": 34,
+              "expanded_url": "https://x.com/NyaMist5/status/2078885069272584645/photo/1",
+              "media_key": "3_2078885052608548864",
+              "start": 11,
+              "url": "https://t.co/Q4Wde5D1Ub"
+            },
+            {
+              "display_url": "pic.x.com/Q4Wde5D1Ub",
+              "end": 34,
+              "expanded_url": "https://x.com/NyaMist5/status/2078885069272584645/photo/1",
+              "media_key": "3_2078885060158410752",
+              "start": 11,
+              "url": "https://t.co/Q4Wde5D1Ub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078885069272584645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "附赠老公极品美脚一双 https://t.co/Q4Wde5D1Ub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KZ",
+              "full_name": "Kazakhstan",
+              "geo": {
+                "coordinates": [
+                  68.0,
+                  48.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "糖商tg: https://t.co/gx52vkhQzR(江苏省内包邮)/🚪20/逃生舱@NyaMist5_5/里推@NyaMist6/小小号:@NyaMist7/2007.11.26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "NyaMist7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 29,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 6,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Kazakhstan",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071275138860077056/Dvb0uiUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 354,
+          "like_count": 1005,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 1876
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      }
+    ]
+  }
+}
