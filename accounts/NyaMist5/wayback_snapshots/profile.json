@@ -1,9 +1,9 @@
 {
-  "name": "MistAvi🍥",
+  "name": "晨雾雾🍥🏳️‍⚧️",
   "username": "@NyaMist5",
-  "bio": "07mtf/心境/无锡南京上海随缘刷新/🚪20 /烟鬼🚬/逃生舱@NyaMist5_5",
-  "location": "Kazakhstan",
-  "link": "https://t.me/MizusakiWu",
+  "bio": "07mtf/心境/无锡南京上海随缘刷新/🚪20 /烟鬼🚬/逃生舱@NyaMist5_5/小猫:@WcAIYz 备用tg号:http://t.me/MizusakiWu",
+  "location": "江苏 无锡",
+  "link": "http://t.me/chenwuwunya",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2055601650929434718",
@@ -13,8 +13,22 @@
         "end": 43,
         "start": 32,
         "username": "NyaMist5_5"
+      },
+      {
+        "end": 54,
+        "start": 47,
+        "username": "WcAIYz"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "t.me/MizusakiWu",
+        "end": 84,
+        "expanded_url": "http://t.me/MizusakiWu",
+        "start": 61,
+        "url": "https://t.co/o33eG6ArfO"
       }
     ]
   },
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2080945250101764096/ZDhr9ulG_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2088287584061722624/VW7U9ubU_normal.jpg"
 }
