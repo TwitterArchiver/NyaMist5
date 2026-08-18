@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088256262719062017"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2088260484080468214",
+    "created_at": "2026-08-14T13:44:32.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T14:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088260484080468214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 29,
+          "id": "2051936177628790784",
+          "start": 22,
+          "username": "WcAIYz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ROnxmIVlzo",
+          "end": 53,
+          "expanded_url": "https://x.com/NyaMist5/status/2088260484080468214/video/1",
+          "media_key": "13_2088256262719062017",
+          "start": 30,
+          "url": "https://t.co/ROnxmIVlzo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088260484080468214",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2088256262719062017"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呜呜呜，被当狗了……˃̣̣̥᷄⌓˂̣̣̥᷅\n@WcAIYz https://t.co/ROnxmIVlzo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17508,
+        "height": 3840,
+        "media_key": "13_2088256262719062017",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088256262719062017/img/B2VUXYl6dcxm6b1v.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088256262719062017/vid/avc1/720x1280/VxGpDvJ8CPYY3rEn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088256262719062017/vid/avc1/480x852/eIEg_aYti8cuxjCP.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088256262719062017/vid/avc1/1080x1920/sEIZ9iaV54FqJoBO.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088256262719062017/vid/avc1/2160x3840/aVOHKpWnIAglFBI8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088256262719062017/pl/e_iijhWbOEMt05ej.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088256262719062017/vid/avc1/320x568/mVm6C4DFFFCICin6.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088256262719062017"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2088260484080468214",
+        "created_at": "2026-08-14T13:44:32.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088260484080468214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "2051936177628790784",
+              "start": 22,
+              "username": "WcAIYz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ROnxmIVlzo",
+              "end": 53,
+              "expanded_url": "https://x.com/NyaMist5/status/2088260484080468214/video/1",
+              "media_key": "13_2088256262719062017",
+              "start": 30,
+              "url": "https://t.co/ROnxmIVlzo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088260484080468214",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2088256262719062017"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜，被当狗了……˃̣̣̥᷄⌓˂̣̣̥᷅\n@WcAIYz https://t.co/ROnxmIVlzo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuxi, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.28857,
+                  31.56887
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuxi",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5/小猫:@WcAIYz 备用tg号:https://t.co/o33eG6ArfO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 54,
+                "start": 47,
+                "username": "WcAIYz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 84,
+                "expanded_url": "http://t.me/MizusakiWu",
+                "start": 61,
+                "url": "https://t.co/o33eG6ArfO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "江苏 无锡",
+        "most_recent_tweet_id": "2088260484080468214",
+        "name": "晨雾雾🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087915343834722304/wrPXA95r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 360,
+          "like_count": 1064,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 2106
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-06T08:04:58.000Z",
+        "description": "",
+        "id": "2051936177628790784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088182992791576902",
+        "name": "叶叶子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051936177628790784/1786696567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087533558688800768/m2CI7i9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 4,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "WcAIYz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

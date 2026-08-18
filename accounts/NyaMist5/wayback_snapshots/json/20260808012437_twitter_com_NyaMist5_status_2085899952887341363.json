@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2085756901082669141",
+    "created_at": "2026-08-08T01:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T02:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085899952887341363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1743651797087277056",
+          "start": 0,
+          "username": "Aether9008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085899952887341363",
+    "in_reply_to_user_id": "1743651797087277056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085756901082669141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aether9008 这得挨不少电"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 824,
+        "media_key": "3_2085756889774858240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIY1ybaoAA37qg.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2085756901082669141",
+        "created_at": "2026-08-08T01:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T02:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085899952887341363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1743651797087277056",
+              "start": 0,
+              "username": "Aether9008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085899952887341363",
+        "in_reply_to_user_id": "1743651797087277056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085756901082669141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aether9008 这得挨不少电"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085756889774858240"
+          ]
+        },
+        "author_id": "1743651797087277056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085756901082669141",
+        "created_at": "2026-08-07T15:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085756901082669141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fZLL3Mq2Vu",
+              "end": 23,
+              "expanded_url": "https://x.com/Aether9008/status/2085756901082669141/photo/1",
+              "media_key": "3_2085756889774858240",
+              "start": 0,
+              "url": "https://t.co/fZLL3Mq2Vu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085756901082669141",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fZLL3Mq2Vu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡市 中国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085564318196879360/nu2-sxFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 360,
+          "like_count": 1049,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 2039
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-06T15:12:50.000Z",
+        "description": "よろしく",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aether_9008",
+                "end": 23,
+                "expanded_url": "https://t.me/Aether_9008",
+                "start": 0,
+                "url": "https://t.co/8b55wfYMre"
+              }
+            ]
+          }
+        },
+        "id": "1743651797087277056",
+        "location": "United Kingdom of Teyvat",
+        "name": "空ちゃん／丹羽空 🇯🇵",
+        "pinned_tweet_id": "2074700098723029221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082795186619547648/GCRdlNpD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 2408,
+          "like_count": 23274,
+          "listed_count": 11,
+          "media_count": 1465,
+          "tweet_count": 4907
+        },
+        "url": "https://t.co/8b55wfYMre",
+        "username": "Aether9008",
+        "verified": true
+      }
+    ]
+  }
+}

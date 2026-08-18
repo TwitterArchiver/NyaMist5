@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2069655146565615806",
+    "created_at": "2026-08-09T03:49:23.000Z",
+    "display_text_range": [
+      22,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T04:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086298772183929313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1535479910596321282",
+          "start": 0,
+          "username": "qwqqwqqwrd"
+        },
+        {
+          "end": 21,
+          "id": "552806299",
+          "start": 12,
+          "username": "pattifly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086298772183929313",
+    "in_reply_to_user_id": "1535479910596321282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069655146565615806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwqqwqqwrd @pattifly 我去，居然和我差一天生日"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2069655133517209600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjkYODbYAAGJkB.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2069655146565615806",
+        "created_at": "2026-08-09T03:49:23.000Z",
+        "display_text_range": [
+          22,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T04:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086298772183929313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535479910596321282",
+              "start": 0,
+              "username": "qwqqwqqwrd"
+            },
+            {
+              "end": 21,
+              "id": "552806299",
+              "start": 12,
+              "username": "pattifly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086298772183929313",
+        "in_reply_to_user_id": "1535479910596321282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069655146565615806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwqqwqqwrd @pattifly 我去，居然和我差一天生日"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069655133517209600"
+          ]
+        },
+        "author_id": "1535479910596321282",
+        "conversation_id": "2069655146565615806",
+        "created_at": "2026-06-24T05:33:33.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069655146565615806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "552806299",
+              "start": 4,
+              "username": "pattifly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/he96wcRNWw",
+              "end": 37,
+              "expanded_url": "https://x.com/qwqqwqqwrd/status/2069655146565615806/photo/1",
+              "media_key": "3_2069655133517209600",
+              "start": 14,
+              "url": "https://t.co/he96wcRNWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069655146565615806",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2069655133517209600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2592,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "收到了\n@pattifly https://t.co/he96wcRNWw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "无锡市 中国",
+        "most_recent_tweet_id": "2086298772183929313",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085564318196879360/nu2-sxFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 360,
+          "like_count": 1050,
+          "listed_count": 3,
+          "media_count": 219,
+          "tweet_count": 2048
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-11T04:32:04.000Z",
+        "description": "MTF | 06.11.27 | 无证🍥2026.6.24 | 未出柜 | 重度社恐 |",
+        "id": "1535479910596321282",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086156002789822677",
+        "name": "雾莲雪🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1535479910596321282/1785778541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077027490229522433/HmKV6lW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 315,
+          "like_count": 2815,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "qwqqwqqwrd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-04-13T15:54:51.000Z",
+        "description": "@AksharJethwa Hey 这里猫耳朵 ૮₍ᵔ⤙ᵔ ₎ა ｜土色｜泰补｜减肥药｜日雌｜日贴｜日孕｜国内现货，当天可发出，可邮寄海外。咨询/下单 请私信tg：https://t.co/KALZt59nD1｜或者2号推：@Rrrrrrr1234550",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "AksharJethwa"
+              },
+              {
+                "end": 127,
+                "start": 112,
+                "username": "Rrrrrrr1234550"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/maoerduo91837",
+                "end": 105,
+                "expanded_url": "http://t.me/maoerduo91837",
+                "start": 82,
+                "url": "https://t.co/KALZt59nD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+4IOQl-oUUqY1M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+4IOQl-oUUqY1MWY1",
+                "start": 0,
+                "url": "https://t.co/rEghYgTduh"
+              }
+            ]
+          }
+        },
+        "id": "552806299",
+        "is_identity_verified": false,
+        "location": "TG聊天群👉👉",
+        "most_recent_tweet_id": "2086297461530956212",
+        "name": "猫耳朵🥥（药娘/药商/糖商）泰补/土色/色谱龙/补佳乐/减肥药",
+        "pinned_tweet_id": "1872572055239168330",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/552806299/1754831111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809563996955250688/HYXsy2L8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4882,
+          "following_count": 2470,
+          "like_count": 1321,
+          "listed_count": 18,
+          "media_count": 238,
+          "tweet_count": 822
+        },
+        "url": "https://t.co/rEghYgTduh",
+        "username": "pattifly",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

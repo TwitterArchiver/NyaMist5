@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085561653203288064"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2085233179330576878",
+    "created_at": "2026-08-07T03:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085561705338388736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "nanami_mua"
+        },
+        {
+          "end": 26,
+          "id": "1963285303168569345",
+          "start": 12,
+          "username": "absooolutemet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dIOqTyp3ar",
+          "end": 111,
+          "expanded_url": "https://x.com/NyaMist5/status/2085561705338388736/photo/1",
+          "media_key": "3_2085561653203288064",
+          "start": 88,
+          "url": "https://t.co/dIOqTyp3ar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085561705338388736",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085561229603664092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami_mua @absooolutemet 因为我是回族，而且后面小学初中高中因为性取向和性别问题我也一直被歧视，后来实在没办法逃到无锡来的，我今年高三高考都没参加 https://t.co/dIOqTyp3ar"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_2085561653203288064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPFnRhhbwAAHbRi.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085561653203288064"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2085233179330576878",
+        "created_at": "2026-08-07T03:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085561705338388736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            },
+            {
+              "end": 26,
+              "id": "1963285303168569345",
+              "start": 12,
+              "username": "absooolutemet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dIOqTyp3ar",
+              "end": 111,
+              "expanded_url": "https://x.com/NyaMist5/status/2085561705338388736/photo/1",
+              "media_key": "3_2085561653203288064",
+              "start": 88,
+              "url": "https://t.co/dIOqTyp3ar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085561705338388736",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085561229603664092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua @absooolutemet 因为我是回族，而且后面小学初中高中因为性取向和性别问题我也一直被歧视，后来实在没办法逃到无锡来的，我今年高三高考都没参加 https://t.co/dIOqTyp3ar"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "2085233179330576878",
+        "created_at": "2026-08-07T02:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T03:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085561229603664092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            },
+            {
+              "end": 24,
+              "id": "1963285303168569345",
+              "start": 10,
+              "username": "absooolutemet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085561229603664092",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085560138673672355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 @absooolutemet 你才六岁啊…这不纯纯虐待小孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡市 中国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080945250101764096/ZDhr9ulG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 359,
+          "like_count": 1048,
+          "listed_count": 3,
+          "media_count": 216,
+          "tweet_count": 2025
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX&Non-Binary/🍥25.1.11/半个家长党/100%健全/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "AnranbuSleep"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanameow～",
+        "pinned_tweet_id": "2085555860215136277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 513,
+          "like_count": 93286,
+          "listed_count": 8,
+          "media_count": 924,
+          "tweet_count": 11896
+        },
+        "url": "",
+        "username": "nanami_mua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T16:57:58.000Z",
+        "description": "Bisexual/偏双向/半i人/精神状态中等/偏理性/乐于想象/喜欢看些画/喜欢发言表达，讨厌某些人和事，随便记录发帖，尽量欢迎你们，",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net",
+                "end": 23,
+                "expanded_url": "http://pixiv.net",
+                "start": 0,
+                "url": "https://t.co/K5qFmksIrm"
+              }
+            ]
+          }
+        },
+        "id": "1963285303168569345",
+        "location": "lost",
+        "name": "absooolutel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044542997040427008/P56siNBu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 447,
+          "like_count": 4129,
+          "listed_count": 4,
+          "media_count": 116,
+          "tweet_count": 2912
+        },
+        "url": "https://t.co/K5qFmksIrm",
+        "username": "absooolutemet",
+        "verified": false
+      }
+    ]
+  }
+}

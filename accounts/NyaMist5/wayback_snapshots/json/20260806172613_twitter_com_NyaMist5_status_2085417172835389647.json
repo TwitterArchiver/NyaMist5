@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2085417172835389647",
+    "created_at": "2026-08-06T17:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T18:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085417172835389647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 60,
+          "id": "1720665183188922368",
+          "start": 55,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Selenophile080…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/Selenophile080/status/2084908554050552245",
+          "start": 61,
+          "url": "https://t.co/52QyFDvRAh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085417172835389647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084908554050552245",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "根据我2026年1月以来的所有推文, 从1到100, 我的男娘指数是多少? 直接给我数据, 不用做任何解释。\n@grok https://t.co/52QyFDvRAh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2085417172835389647",
+        "created_at": "2026-08-06T17:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085417172835389647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "1720665183188922368",
+              "start": 55,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Selenophile080…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/Selenophile080/status/2084908554050552245",
+              "start": 61,
+              "url": "https://t.co/52QyFDvRAh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085417172835389647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084908554050552245",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据我2026年1月以来的所有推文, 从1到100, 我的男娘指数是多少? 直接给我数据, 不用做任何解释。\n@grok https://t.co/52QyFDvRAh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002873553792966658",
+        "conversation_id": "2084908554050552245",
+        "created_at": "2026-08-05T07:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084908554050552245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "1720665183188922368",
+              "start": 55,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084908554050552245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根据我2026年1月以来的所有推文, 从1到100, 我的男娘指数是多少? 直接给我数据, 不用做任何解释。\n@grok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡市 中国",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080945250101764096/ZDhr9ulG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 360,
+          "like_count": 1047,
+          "listed_count": 3,
+          "media_count": 215,
+          "tweet_count": 2019
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8926124,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7274,
+          "media_count": 9227843,
+          "tweet_count": 134561934
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-21T22:47:50.000Z",
+        "description": "爱吃🐭💊，我再也不当搞笑女了，互联网没有人懂我的抽象。\n@FrostyStrings讨厌你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "FrostyStrings"
+              }
+            ]
+          }
+        },
+        "id": "2002873553792966658",
+        "name": "琉璃雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082433161414283570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076592113878441985/fklIDCLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 186,
+          "like_count": 257,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 328
+        },
+        "url": "",
+        "username": "Selenophile080",
+        "verified": false
+      }
+    ]
+  }
+}

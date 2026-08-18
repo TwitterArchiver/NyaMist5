@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2088260484080468214",
+    "created_at": "2026-08-14T15:44:45.000Z",
+    "display_text_range": [
+      19,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088290740984295447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2004453066653999104",
+          "start": 0,
+          "username": "luoju1524"
+        },
+        {
+          "end": 18,
+          "id": "2051936177628790784",
+          "start": 11,
+          "username": "WcAIYz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088290740984295447",
+    "in_reply_to_user_id": "2004453066653999104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088262729845117008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoju1524 @WcAIYz 没牢橘烧捏😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2088260484080468214",
+        "created_at": "2026-08-14T15:44:45.000Z",
+        "display_text_range": [
+          19,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088290740984295447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2004453066653999104",
+              "start": 0,
+              "username": "luoju1524"
+            },
+            {
+              "end": 18,
+              "id": "2051936177628790784",
+              "start": 11,
+              "username": "WcAIYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088290740984295447",
+        "in_reply_to_user_id": "2004453066653999104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088262729845117008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoju1524 @WcAIYz 没牢橘烧捏😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004453066653999104",
+        "conversation_id": "2088260484080468214",
+        "created_at": "2026-08-14T13:53:27.000Z",
+        "display_text_range": [
+          18,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088262729845117008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            },
+            {
+              "end": 17,
+              "id": "2051936177628790784",
+              "start": 10,
+              "username": "WcAIYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088262729845117008",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088260484080468214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 @WcAIYz 烧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5/小猫:@WcAIYz 备用tg号:https://t.co/o33eG6ArfO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 54,
+                "start": 47,
+                "username": "WcAIYz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 84,
+                "expanded_url": "http://t.me/MizusakiWu",
+                "start": 61,
+                "url": "https://t.co/o33eG6ArfO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "江苏 无锡",
+        "most_recent_tweet_id": "2088290740984295447",
+        "name": "晨雾雾🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088287584061722624/VW7U9ubU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 360,
+          "like_count": 1064,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 2110
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T07:24:00.000Z",
+        "description": "男娘猛1 也可以0 男娘同好贴贴喵\n这里有日常女装、涩涩图片、作战记录…\n坐标南京\n扩列的话q2121319163可以直接加，私信不一定看到。",
+        "id": "2004453066653999104",
+        "is_identity_verified": false,
+        "location": "🚪50r喵，搞涩涩需要赞助喵，有涩图和作战记录看",
+        "most_recent_tweet_id": "2088262729845117008",
+        "name": "洛橘",
+        "pinned_tweet_id": "2072517828759191960",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004453066653999104/1766905745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005174145597014020/He6So_DE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4819,
+          "following_count": 841,
+          "like_count": 1770,
+          "listed_count": 20,
+          "media_count": 64,
+          "tweet_count": 606
+        },
+        "url": "",
+        "username": "luoju1524",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-06T08:04:58.000Z",
+        "description": "",
+        "id": "2051936177628790784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088283004083020235",
+        "name": "叶叶子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051936177628790784/1786696567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087533558688800768/m2CI7i9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 4,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "WcAIYz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

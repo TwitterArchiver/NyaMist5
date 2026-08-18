@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2087820663759466847",
+    "created_at": "2026-08-14T07:56:39.000Z",
+    "display_text_range": [
+      33,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T08:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088172938868777318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2017557489454292992",
+          "start": 0,
+          "username": "HerreraCar28479"
+        },
+        {
+          "end": 32,
+          "id": "778677727",
+          "start": 17,
+          "username": "zhinarencs8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088172938868777318",
+    "in_reply_to_user_id": "2017557489454292992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087881444513452434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HerreraCar28479 @zhinarencs8964 东北狗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2087820663759466847",
+        "created_at": "2026-08-14T07:56:39.000Z",
+        "display_text_range": [
+          33,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088172938868777318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2017557489454292992",
+              "start": 0,
+              "username": "HerreraCar28479"
+            },
+            {
+              "end": 32,
+              "id": "778677727",
+              "start": 17,
+              "username": "zhinarencs8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088172938868777318",
+        "in_reply_to_user_id": "2017557489454292992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087881444513452434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HerreraCar28479 @zhinarencs8964 东北狗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017557489454292992",
+        "conversation_id": "2087820663759466847",
+        "created_at": "2026-08-13T12:38:21.000Z",
+        "display_text_range": [
+          16,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087881444513452434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "778677727",
+              "start": 0,
+              "username": "zhinarencs8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087881444513452434",
+        "in_reply_to_user_id": "778677727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5055,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087820663759466847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarencs8964 又是一个歧视东北人的😅，你们江东鼠辈了不起了是吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5/小猫:@WcAIYz 备用tg号:https://t.co/o33eG6ArfO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 54,
+                "start": 47,
+                "username": "WcAIYz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 84,
+                "expanded_url": "http://t.me/MizusakiWu",
+                "start": 61,
+                "url": "https://t.co/o33eG6ArfO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "Wuxi",
+        "most_recent_tweet_id": "2088172938868777318",
+        "name": "晨雾雾🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087915343834722304/wrPXA95r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 360,
+          "like_count": 1064,
+          "listed_count": 4,
+          "media_count": 233,
+          "tweet_count": 2103
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-31T11:16:19.000Z",
+        "description": "觉得好看的话记得点个赞",
+        "id": "2017557489454292992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088162738296258871",
+        "name": "Carolyn Herrera",
+        "pinned_tweet_id": "2031728689180975152",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053664527443795968/97ZOq2dq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 36,
+          "like_count": 658,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1023
+        },
+        "url": "",
+        "username": "HerreraCar28479",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-08-24T17:52:02.000Z",
+        "description": "其它账号@zhinarensml8964 @zhinarencnm8964 @zhinarenqsl8964\n坚定不移的辱支小能手，动保，友跨，LGBT\n对国家的好感度取决于滞纳人给我扣的帽子🥵:包括不限于精日，美国殖狗，南棒孝子，乌贼，鱿鱼孝子等\n私信看的少回复不及时请见谅，锁推一般是号不用或者被限制了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "zhinarensml8964"
+              },
+              {
+                "end": 37,
+                "start": 21,
+                "username": "zhinarencnm8964"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "zhinarenqsl8964"
+              }
+            ]
+          }
+        },
+        "id": "778677727",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088161564721656076",
+        "name": "到处乱跑的牢内_official",
+        "pinned_tweet_id": "2080961383383077057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/778677727/1785901019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084901081428234240/cVv3NY3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 514,
+          "like_count": 7927,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 1442
+        },
+        "url": "",
+        "username": "zhinarencs8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087866721327783936",
+        "3_2087866788340183042"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2087866904107237847",
+    "created_at": "2026-08-13T11:40:35.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T12:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087866904107237847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2oUhc4Y6F2",
+          "end": 37,
+          "expanded_url": "https://x.com/NyaMist5/status/2087866904107237847/photo/1",
+          "media_key": "3_2087866721327783936",
+          "start": 14,
+          "url": "https://t.co/2oUhc4Y6F2"
+        },
+        {
+          "display_url": "pic.x.com/2oUhc4Y6F2",
+          "end": 37,
+          "expanded_url": "https://x.com/NyaMist5/status/2087866904107237847/photo/1",
+          "media_key": "3_2087866788340183042",
+          "start": 14,
+          "url": "https://t.co/2oUhc4Y6F2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087866904107237847",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087866721327783936"
+      },
+      {
+        "media_key": "3_2087866788340183042"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "肯德基你妈死了加那么多冰？ https://t.co/2oUhc4Y6F2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2087866721327783936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmXuJcaIAAvjGv.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2087866788340183042",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmXyDFaMAI-qgK.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087866721327783936",
+            "3_2087866788340183042"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087866904107237847",
+        "created_at": "2026-08-13T11:40:35.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087866904107237847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2oUhc4Y6F2",
+              "end": 37,
+              "expanded_url": "https://x.com/NyaMist5/status/2087866904107237847/photo/1",
+              "media_key": "3_2087866721327783936",
+              "start": 14,
+              "url": "https://t.co/2oUhc4Y6F2"
+            },
+            {
+              "display_url": "pic.x.com/2oUhc4Y6F2",
+              "end": 37,
+              "expanded_url": "https://x.com/NyaMist5/status/2087866904107237847/photo/1",
+              "media_key": "3_2087866788340183042",
+              "start": 14,
+              "url": "https://t.co/2oUhc4Y6F2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087866904107237847",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087866721327783936"
+          },
+          {
+            "media_key": "3_2087866788340183042"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肯德基你妈死了加那么多冰？ https://t.co/2oUhc4Y6F2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuxi, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.28857,
+                  31.56887
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuxi",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5/备用tg号:https://t.co/o33eG6ArfO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 73,
+                "expanded_url": "http://t.me/MizusakiWu",
+                "start": 50,
+                "url": "https://t.co/o33eG6ArfO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "Wuxi",
+        "most_recent_tweet_id": "2087866904107237847",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085564318196879360/nu2-sxFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 360,
+          "like_count": 1064,
+          "listed_count": 3,
+          "media_count": 229,
+          "tweet_count": 2090
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

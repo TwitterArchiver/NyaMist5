@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2083917664343433398",
+    "created_at": "2026-08-02T14:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083917664343433398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1958774802795438082",
+          "start": 0,
+          "username": "YeziLoveChen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/bbkk23333/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/bbkk23333/status/2083504985841750438",
+          "start": 22,
+          "url": "https://t.co/ZtYWJCyXa2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083917664343433398",
+    "in_reply_to_user_id": "1958774802795438082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083504985841750438",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeziLoveChen 你就是个大悲子 https://t.co/ZtYWJCyXa2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1089,
+        "media_key": "3_2083504972998770688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoYu-taAAAN1yj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2083917664343433398",
+        "created_at": "2026-08-02T14:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083917664343433398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1958774802795438082",
+              "start": 0,
+              "username": "YeziLoveChen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bbkk23333/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/bbkk23333/status/2083504985841750438",
+              "start": 22,
+              "url": "https://t.co/ZtYWJCyXa2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083917664343433398",
+        "in_reply_to_user_id": "1958774802795438082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083504985841750438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeziLoveChen 你就是个大悲子 https://t.co/ZtYWJCyXa2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083504972998770688"
+          ]
+        },
+        "author_id": "1964335711521558531",
+        "conversation_id": "2083504985841750438",
+        "created_at": "2026-08-01T10:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083504985841750438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QHnZXpyQf4",
+              "end": 38,
+              "expanded_url": "https://x.com/bbkk23333/status/2083504985841750438/photo/1",
+              "media_key": "3_2083504972998770688",
+              "start": 15,
+              "url": "https://t.co/QHnZXpyQf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083504985841750438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 18007,
+          "like_count": 575,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我看这一下谁敢说我是乐子喵😋 https://t.co/QHnZXpyQf4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KZ",
+              "full_name": "Kazakhstan",
+              "geo": {
+                "coordinates": [
+                  68.0,
+                  48.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 23,
+                "expanded_url": "https://t.me/MizusakiWu",
+                "start": 0,
+                "url": "https://t.co/gx52vkhQzR"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Kazakhstan",
+        "name": "MistAvi🍥",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080945250101764096/ZDhr9ulG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 360,
+          "like_count": 1041,
+          "listed_count": 3,
+          "media_count": 208,
+          "tweet_count": 1995
+        },
+        "url": "https://t.co/gx52vkhQzR",
+        "username": "NyaMist5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-22T06:14:49.000Z",
+        "description": "热爱生活！爱大家！拒绝消极！拒绝内耗！/跟老婆过最好的最幸福滴生活！/最好的老婆大人：@NyaMist5 ：hrt：2025/11/23/Fps游戏基本都玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "NyaMist5"
+              }
+            ]
+          }
+        },
+        "id": "1958774802795438082",
+        "location": "Los Angeles, CA",
+        "name": "叶子🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033362982198239232/wLE_0mo7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 61,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "YeziLoveChen",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T14:32:23.000Z",
+        "description": "我喜欢你喵🏳️‍⚧️\n网络小宠物喵，假期24小时中强度刷推\n≽^ ⦁ ⩊ ⦁ ^≼",
+        "id": "1964335711521558531",
+        "location": "垃圾桶旁边的纸箱",
+        "name": "沐雨喵~",
+        "pinned_tweet_id": "2069381811596386570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 459,
+          "like_count": 5927,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 2816
+        },
+        "url": "",
+        "username": "bbkk23333",
+        "verified": true
+      }
+    ]
+  }
+}

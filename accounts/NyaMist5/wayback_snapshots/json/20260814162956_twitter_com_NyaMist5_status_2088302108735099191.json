@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2088260484080468214",
+    "created_at": "2026-08-14T16:29:56.000Z",
+    "display_text_range": [
+      18,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T17:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088302108735099191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1762636006207913984",
+          "start": 0,
+          "username": "konx9527"
+        },
+        {
+          "end": 17,
+          "id": "2051936177628790784",
+          "start": 10,
+          "username": "WcAIYz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088302108735099191",
+    "in_reply_to_user_id": "1762636006207913984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088302028003094682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konx9527 @WcAIYz 有点失眠的说）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2088260484080468214",
+        "created_at": "2026-08-14T16:29:56.000Z",
+        "display_text_range": [
+          18,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088302108735099191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1762636006207913984",
+              "start": 0,
+              "username": "konx9527"
+            },
+            {
+              "end": 17,
+              "id": "2051936177628790784",
+              "start": 10,
+              "username": "WcAIYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088302108735099191",
+        "in_reply_to_user_id": "1762636006207913984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088302028003094682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konx9527 @WcAIYz 有点失眠的说）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762636006207913984",
+        "conversation_id": "2088260484080468214",
+        "created_at": "2026-08-14T16:29:36.000Z",
+        "display_text_range": [
+          18,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088302028003094682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            },
+            {
+              "end": 17,
+              "id": "2051936177628790784",
+              "start": 10,
+              "username": "WcAIYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088302028003094682",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088301649152659852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 @WcAIYz 早点睡呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuxi, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.28857,
+                  31.56887
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuxi",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5/小猫:@WcAIYz 备用tg号:https://t.co/o33eG6ArfO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 54,
+                "start": 47,
+                "username": "WcAIYz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 84,
+                "expanded_url": "http://t.me/MizusakiWu",
+                "start": 61,
+                "url": "https://t.co/o33eG6ArfO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "江苏 无锡",
+        "most_recent_tweet_id": "2088302108735099191",
+        "name": "晨雾雾🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088287584061722624/VW7U9ubU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 360,
+          "like_count": 1064,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 2114
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-28T00:29:13.000Z",
+        "description": "INFP/ mtf 泛性恋？ 有互动就互fo     始于2008 she/her",
+        "id": "1762636006207913984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088302028003094682",
+        "name": "Kumoka",
+        "pinned_tweet_id": "2034907760522141790",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1762636006207913984/1764791280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064053318998261760/0snaVHz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 864,
+          "like_count": 6234,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 3369
+        },
+        "url": "",
+        "username": "konx9527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-06T08:04:58.000Z",
+        "description": "",
+        "id": "2051936177628790784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088283004083020235",
+        "name": "叶叶子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051936177628790784/1786696567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087533558688800768/m2CI7i9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 4,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "WcAIYz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
