@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2096964370886725942",
+    "created_at": "2026-09-07T14:10:40.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096964370886725942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RX_Xron28390/s…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/RX_Xron28390/status/2096795808842547366",
+          "start": 111,
+          "url": "https://t.co/tV1kgYSxXJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096964370886725942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096795808842547366",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你有多自由派？\n\n最少 🟥🟧🟨🟩🟦 最多\n\n🟦 言論自由  \n🟦LGBTQ+ 權利 \n🟦政教分離  \n🟦支持烏克蘭    \n🟦核能  \n🟦開放移民  \n🟦自由貿易  \n🟦自由市場  \n🟦放鬆管制  \n🟦民主  \n🟦持槍權 https://t.co/tV1kgYSxXJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2096964370886725942",
+        "created_at": "2026-09-07T14:10:40.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096964370886725942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RX_Xron28390/s…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/RX_Xron28390/status/2096795808842547366",
+              "start": 111,
+              "url": "https://t.co/tV1kgYSxXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096964370886725942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096795808842547366",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你有多自由派？\n\n最少 🟥🟧🟨🟩🟦 最多\n\n🟦 言論自由  \n🟦LGBTQ+ 權利 \n🟦政教分離  \n🟦支持烏克蘭    \n🟦核能  \n🟦開放移民  \n🟦自由貿易  \n🟦自由市場  \n🟦放鬆管制  \n🟦民主  \n🟦持槍權 https://t.co/tV1kgYSxXJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699985068721082368",
+        "conversation_id": "2096795808842547366",
+        "created_at": "2026-09-07T03:00:52.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096795808842547366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chubailuo/stat…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/chubailuo/status/2096445876717707650",
+              "start": 112,
+              "url": "https://t.co/Zn4DAPk6Wc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096795808842547366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 389,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096445876717707650",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你有多自由派？\n\n最少 🟥🟧🟨🟩🟦 最多\n\n🟦 言論自由  \n🟧LGBTQ+ 權利 \n🟦政教分離  \n🟧支持烏克蘭    \n🟦核能  \n🟩開放移民  \n🟦自由貿易  \n🟦自由市場  \n🟧放鬆管制  \n🟨 民主  \n🟩持槍權 https://t.co/Zn4DAPk6Wc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年/mtf/心境/新疆猫在无锡居住喵/🚪20\n/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz 扩列q：422174271）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 57,
+                "start": 50,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2096964370886725942",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093727163434557441/50aKeHl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 350,
+          "like_count": 1153,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 2275
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "17岁在美宾洲男高/德拉无疑是美味的😋/战雷elb🇷🇺/apex/kards/崩/舟/洲/BF/卡丘\n蓝标会回fo的，或者私信（\n本账号大部分发布的作品为转发\n鉴证打咩",
+        "id": "1699985068721082368",
+        "is_identity_verified": false,
+        "location": "凡爾登，378號高地陣地，1916",
+        "most_recent_tweet_id": "2096960697624101251",
+        "name": "𝑇𝑦𝑟 𝑉𝑜𝑛 𝑊𝑒𝑙𝑡",
+        "pinned_tweet_id": "2096243036317458758",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699985068721082368/1772490472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061669969558147072/IWw1uzlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 510,
+          "like_count": 14622,
+          "listed_count": 4,
+          "media_count": 1710,
+          "tweet_count": 10606
+        },
+        "url": "",
+        "username": "RX_Xron28390",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

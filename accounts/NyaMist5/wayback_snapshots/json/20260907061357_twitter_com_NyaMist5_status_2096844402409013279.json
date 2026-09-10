@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2096844402409013279",
+    "created_at": "2026-09-07T06:13:57.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T07:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096844402409013279"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "无锡"
+        },
+        {
+          "end": 7,
+          "start": 4,
+          "tag": "滨湖"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/2096464463490875649",
+          "start": 20,
+          "url": "https://t.co/hAjJYmN7DO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096844402409013279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096464463490875649",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#无锡 #滨湖 这地方会有跨性别出没？ https://t.co/hAjJYmN7DO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2096844402409013279",
+        "created_at": "2026-09-07T06:13:57.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096844402409013279"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "无锡"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "滨湖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2096464463490875649",
+              "start": 20,
+              "url": "https://t.co/hAjJYmN7DO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096844402409013279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096464463490875649",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#无锡 #滨湖 这地方会有跨性别出没？ https://t.co/hAjJYmN7DO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2096464463490875649",
+        "created_at": "2026-09-06T05:04:13.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096464463490875649"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "天津"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "厦门"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/meowania_Fan/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/meowania_Fan/status/2096403189067345962",
+              "start": 20,
+              "url": "https://t.co/KWRvaPgmNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096464463490875649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4529,
+          "like_count": 51,
+          "quote_count": 8,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096403189067345962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "#天津 #厦门 这城市会有跨性别出没？ https://t.co/KWRvaPgmNG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年/mtf/心境/新疆猫在无锡居住喵/🚪20\n/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz 扩列q：422174271）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 57,
+                "start": 50,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2096844402409013279",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093727163434557441/50aKeHl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 350,
+          "like_count": 1152,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 2273
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tientsin",
+        "most_recent_tweet_id": "2096793553691430991",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8874,
+          "following_count": 1303,
+          "like_count": 226228,
+          "listed_count": 7,
+          "media_count": 1320,
+          "tweet_count": 9592
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

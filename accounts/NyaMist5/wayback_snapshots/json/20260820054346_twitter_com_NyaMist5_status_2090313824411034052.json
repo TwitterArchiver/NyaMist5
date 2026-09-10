@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2090312463183200591",
+    "created_at": "2026-08-20T05:43:46.000Z",
+    "display_text_range": [
+      17,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T06:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090313824411034052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007397795532333056",
+          "start": 0,
+          "username": "shaoxiancao1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090313824411034052",
+    "in_reply_to_user_id": "2007397795532333056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090312463183200591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaoxiancao1314 所以咋顺带给我取了？😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2090312463183200591",
+        "created_at": "2026-08-20T05:43:46.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090313824411034052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007397795532333056",
+              "start": 0,
+              "username": "shaoxiancao1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090313824411034052",
+        "in_reply_to_user_id": "2007397795532333056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090312463183200591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaoxiancao1314 所以咋顺带给我取了？😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007397795532333056",
+        "conversation_id": "2090312463183200591",
+        "created_at": "2026-08-20T05:38:22.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090312463183200591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuwenMewo/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/YuwenMewo/status/2090310110023409921",
+              "start": 13,
+              "url": "https://t.co/hMohD3Sk6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090312463183200591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090310110023409921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛逼\n那这个号还给烧仙草 https://t.co/hMohD3Sk6U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5/小猫:@WcAIYz 备用tg号:https://t.co/o33eG6ArfO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 54,
+                "start": 47,
+                "username": "WcAIYz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 84,
+                "expanded_url": "http://t.me/MizusakiWu",
+                "start": 61,
+                "url": "https://t.co/o33eG6ArfO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "江苏 无锡",
+        "most_recent_tweet_id": "2090313824411034052",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088287584061722624/VW7U9ubU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 356,
+          "like_count": 1075,
+          "listed_count": 5,
+          "media_count": 245,
+          "tweet_count": 2164
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-03T10:25:12.000Z",
+        "description": "秽土超过30次的人｜药娘王｜抽象炒作逼｜ESTP｜15｜HRT一年多｜切除术半年｜Support Israel！｜",
+        "id": "2007397795532333056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090312463183200591",
+        "name": "唐毓文🍥🏳️‍⚧️（出自制10倍保湿凝胶）",
+        "pinned_tweet_id": "2088507048795459618",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2007397795532333056/1772652661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090091023943020544/d-M6a10X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 256,
+          "like_count": 6612,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "shaoxiancao1314",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

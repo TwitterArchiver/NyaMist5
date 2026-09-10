@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2093881817111674910",
+    "created_at": "2026-08-30T04:14:09.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T05:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093915151561089374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2069859146086907904",
+          "start": 0,
+          "username": "xooxksnsb2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093915151561089374",
+    "in_reply_to_user_id": "2069859146086907904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093881817111674910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xooxksnsb2 拜拜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2093881804721881089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ72aFQaAAEarzL.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2093881817111674910",
+        "created_at": "2026-08-30T04:14:09.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093915151561089374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2069859146086907904",
+              "start": 0,
+              "username": "xooxksnsb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093915151561089374",
+        "in_reply_to_user_id": "2069859146086907904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093881817111674910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xooxksnsb2 拜拜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093881804721881089"
+          ]
+        },
+        "author_id": "2069859146086907904",
+        "conversation_id": "2093881817111674910",
+        "created_at": "2026-08-30T02:01:42.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T03:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093881817111674910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXhFkThCch",
+              "end": 53,
+              "expanded_url": "https://x.com/xooxksnsb2/status/2093881817111674910/photo/1",
+              "media_key": "3_2093881804721881089",
+              "start": 30,
+              "url": "https://t.co/QXhFkThCch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093881817111674910",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093881804721881089"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 434,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到校门口了，把急用药先放口袋里，拜拜过几天再见了推友🙃🙃🙃 https://t.co/QXhFkThCch"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/mtf/心境/新疆猫在无锡居住喵/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5/小猫:@WcAIYz 备用tg号:https://t.co/o33eG6ArfO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "WcAIYz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 85,
+                "expanded_url": "http://t.me/MizusakiWu",
+                "start": 62,
+                "url": "https://t.co/o33eG6ArfO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "江苏 无锡",
+        "most_recent_tweet_id": "2093915151561089374",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093727163434557441/50aKeHl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 353,
+          "like_count": 1122,
+          "listed_count": 5,
+          "media_count": 259,
+          "tweet_count": 2229
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-24T19:05:07.000Z",
+        "description": "无证含糖｜正在上学｜出厂时间07.08.13｜傻子一个｜身高:173    体重:54kg｜求互fo私信喵～｜https://t.co/JuKGDqgF0s",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/yueyingxi",
+                "end": 78,
+                "expanded_url": "http://t.me/yueyingxi",
+                "start": 55,
+                "url": "https://t.co/JuKGDqgF0s"
+              }
+            ]
+          }
+        },
+        "id": "2069859146086907904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093881817111674910",
+        "name": "月影汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2092897561053163729",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069859146086907904/1787285343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090648198226563072/0PqhZIHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 589,
+          "like_count": 1538,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 348
+        },
+        "url": "",
+        "username": "xooxksnsb2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

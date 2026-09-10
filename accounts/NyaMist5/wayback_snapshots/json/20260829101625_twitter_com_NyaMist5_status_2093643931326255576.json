@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2093458612928880906",
+    "created_at": "2026-08-29T10:16:25.000Z",
+    "display_text_range": [
+      29,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T11:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093643931326255576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676572709742944259",
+          "start": 0,
+          "username": "Technology80420"
+        },
+        {
+          "end": 28,
+          "id": "1962302660541079552",
+          "start": 17,
+          "username": "by_yueeeer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093643931326255576",
+    "in_reply_to_user_id": "1676572709742944259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093618572161663111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Technology80420 @by_yueeeer 大部分妈妈是封建家庭中最受洗脑和教育的一个人，可能也是为了防止后代做出所谓传统之外的事被更加敌对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2093458612928880906",
+        "created_at": "2026-08-29T10:16:25.000Z",
+        "display_text_range": [
+          29,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T11:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093643931326255576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676572709742944259",
+              "start": 0,
+              "username": "Technology80420"
+            },
+            {
+              "end": 28,
+              "id": "1962302660541079552",
+              "start": 17,
+              "username": "by_yueeeer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093643931326255576",
+        "in_reply_to_user_id": "1676572709742944259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093618572161663111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technology80420 @by_yueeeer 大部分妈妈是封建家庭中最受洗脑和教育的一个人，可能也是为了防止后代做出所谓传统之外的事被更加敌对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676572709742944259",
+        "conversation_id": "2093458612928880906",
+        "created_at": "2026-08-29T08:35:39.000Z",
+        "display_text_range": [
+          12,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T09:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093618572161663111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "by_yueeeer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093618572161663111",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 406,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093458612928880906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@by_yueeeer 为何有很多家庭老妈比老爸更保…完全无法理解且接受…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuxi, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.28857,
+                  31.56887
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuxi",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "07年/mtf/♠️/心境/新疆猫在无锡居住喵/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5/小猫:@WcAIYz 备用tg号:https://t.co/o33eG6ArfO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 58,
+                "start": 51,
+                "username": "WcAIYz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 88,
+                "expanded_url": "http://t.me/MizusakiWu",
+                "start": 65,
+                "url": "https://t.co/o33eG6ArfO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "江苏 无锡",
+        "most_recent_tweet_id": "2093643931326255576",
+        "name": "晨雾雾♠️",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091480628940460032/dkCZNj0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 353,
+          "like_count": 1115,
+          "listed_count": 5,
+          "media_count": 258,
+          "tweet_count": 2225
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "业余摄影师 she/her🏳️‍⚧️ 16yo.\n\n原名 TechnologyMatrix科技矩阵 现已改名 Momo'sLensSpace 不要认错啊啊啊啊啊啊\n\n小号：@tinyspacefomomo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 86,
+                "username": "tinyspacefomomo"
+              }
+            ]
+          }
+        },
+        "id": "1676572709742944259",
+        "is_identity_verified": false,
+        "location": "Earth",
+        "most_recent_tweet_id": "2093629499095302317",
+        "name": "Momo'sLensSpace",
+        "pinned_tweet_id": "2089245629172318340",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676572709742944259/1702811698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089238065797890048/TaQF2_EP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 3356,
+          "like_count": 95004,
+          "listed_count": 3,
+          "media_count": 438,
+          "tweet_count": 8710
+        },
+        "url": "",
+        "username": "Technology80420",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "GAHT：26.4.17🍥/18岁🥲/180-54/幼稚小孩🎈/或许是小天残党😭/梗图号/两个世界的公民🌠/性别不清✨/我还有我自己：@ling_qyu1314 💌/\n『坎通_江门⛅』\n——如果我在这儿，那么你在哪儿呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ling_qyu1314"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "is_identity_verified": false,
+        "location": "最后的思绪",
+        "most_recent_tweet_id": "2093639807100498060",
+        "name": "🌆小白羽🌈⛅",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962302660541079552/1787727905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093342351821504514/hFKp9Nxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3611,
+          "following_count": 1593,
+          "like_count": 17408,
+          "listed_count": 4,
+          "media_count": 1516,
+          "tweet_count": 5297
+        },
+        "url": "",
+        "username": "by_yueeeer",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

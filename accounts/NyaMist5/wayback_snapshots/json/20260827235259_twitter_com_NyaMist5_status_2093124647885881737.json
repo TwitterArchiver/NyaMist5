@@ -1,0 +1,596 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2092935495730987163",
+    "created_at": "2026-08-27T23:52:59.000Z",
+    "display_text_range": [
+      53,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T00:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093124647885881737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945950486412271616",
+          "start": 0,
+          "username": "wei1798074"
+        },
+        {
+          "end": 25,
+          "id": "2043843639948853248",
+          "start": 12,
+          "username": "fufu212fufu2"
+        },
+        {
+          "end": 35,
+          "id": "1823907233065000962",
+          "start": 26,
+          "username": "F4DEZERO"
+        },
+        {
+          "end": 52,
+          "id": "1773035658359242753",
+          "start": 36,
+          "username": "VeILo0ut5017112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093124647885881737",
+    "in_reply_to_user_id": "1945950486412271616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092935495730987163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wei1798074 @fufu212fufu2 @F4DEZERO @VeILo0ut5017112 你好多贴贴😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1192,
+        "media_key": "3_2092933480921563136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuX6XzaAAANo61.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2092935495730987163",
+        "created_at": "2026-08-27T23:52:59.000Z",
+        "display_text_range": [
+          53,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T00:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093124647885881737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945950486412271616",
+              "start": 0,
+              "username": "wei1798074"
+            },
+            {
+              "end": 25,
+              "id": "2043843639948853248",
+              "start": 12,
+              "username": "fufu212fufu2"
+            },
+            {
+              "end": 35,
+              "id": "1823907233065000962",
+              "start": 26,
+              "username": "F4DEZERO"
+            },
+            {
+              "end": 52,
+              "id": "1773035658359242753",
+              "start": 36,
+              "username": "VeILo0ut5017112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093124647885881737",
+        "in_reply_to_user_id": "1945950486412271616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092935495730987163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wei1798074 @fufu212fufu2 @F4DEZERO @VeILo0ut5017112 你好多贴贴😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092933480921563136"
+          ]
+        },
+        "author_id": "1945950486412271616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "2092935495730987163",
+        "created_at": "2026-08-27T11:21:21.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092935495730987163"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "Cosplay"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "男の娘"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "男娘"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "伪娘"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "蕾服"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "地雷系"
+            },
+            {
+              "end": 88,
+              "start": 81,
+              "tag": "femboy"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "JK"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "女仆装"
+            },
+            {
+              "end": 102,
+              "start": 98,
+              "tag": "能天使"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "和纱"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "雪糕"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "cos"
+            },
+            {
+              "end": 122,
+              "start": 116,
+              "tag": "明日方舟ㅤ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 49,
+              "id": "2043843639948853248",
+              "start": 36,
+              "username": "fufu212fufu2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJSHf4XZe2",
+              "end": 146,
+              "expanded_url": "https://x.com/wei1798074/status/2092935495730987163/photo/1",
+              "media_key": "3_2092933480921563136",
+              "start": 123,
+              "url": "https://t.co/tJSHf4XZe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092935495730987163",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092933480921563136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1334,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "水一张库存贴贴合照~❤️就是当时没带自拍杆，拍的乱七八糟的（😇\n能天使：@fufu212fufu2\n#Cosplay #男の娘 #男娘 #伪娘 #蕾服 #地雷系 #femboy #JK #女仆装 #能天使 #和纱 #雪糕 #cos #明日方舟ㅤ https://t.co/tJSHf4XZe2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuxi, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.28857,
+                  31.56887
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuxi",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "07年/mtf/♠️/心境/新疆猫在无锡居住喵/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5/小猫:@WcAIYz 备用tg号:https://t.co/o33eG6ArfO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 58,
+                "start": 51,
+                "username": "WcAIYz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 88,
+                "expanded_url": "http://t.me/MizusakiWu",
+                "start": 65,
+                "url": "https://t.co/o33eG6ArfO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "江苏 无锡",
+        "most_recent_tweet_id": "2093124647885881737",
+        "name": "晨雾雾♠️",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091480628940460032/dkCZNj0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 354,
+          "like_count": 1110,
+          "listed_count": 5,
+          "media_count": 257,
+          "tweet_count": 2219
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T20:56:06.000Z",
+        "description": "",
+        "id": "1945950486412271616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093069648669688037",
+        "name": "为君扶病坠高台",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945950486412271616/1773821830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945951610280062977/yFW3a_BO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 159,
+          "like_count": 452,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 488
+        },
+        "url": "",
+        "username": "wei1798074",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T00:08:02.000Z",
+        "description": "在山东喵，可以接寄拍哦，喜欢拍瑟瑟但不是很想接线下，男娘快和我贴贴，粉丝群在置顶",
+        "id": "2043843639948853248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092931712854741447",
+        "name": "灰蛊纳米风暴",
+        "pinned_tweet_id": "2075054947599794189",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043843639948853248/1780295128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043848001148596224/vPCEQ99-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 149,
+          "like_count": 254,
+          "listed_count": 6,
+          "media_count": 48,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "fufu212fufu2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-15T02:19:20.000Z",
+        "description": "",
+        "id": "1823907233065000962",
+        "is_identity_verified": false,
+        "name": "F4DEZERO",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912412921453273088/v89hjkAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "",
+        "username": "F4DEZERO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-27T17:13:49.000Z",
+        "description": "",
+        "id": "1773035658359242753",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092967619465040170",
+        "name": "小林多喜二",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082491060631326720/iKgp9ftP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 40,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "VeILo0ut5017112",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

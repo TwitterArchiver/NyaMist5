@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2088648395754029144",
+    "created_at": "2026-08-16T16:23:51.000Z",
+    "display_text_range": [
+      25,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089025353679577421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1917117577689763840",
+          "start": 0,
+          "username": "susu_blender"
+        },
+        {
+          "end": 24,
+          "id": "2004453066653999104",
+          "start": 14,
+          "username": "luoju1524"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089025353679577421",
+    "in_reply_to_user_id": "1917117577689763840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088648395754029144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@susu_blender @luoju1524 萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 142581,
+        "height": 960,
+        "media_key": "13_2088644928431874048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088644928431874048/img/vTPP-6XccVSDdQqa.jpg",
+        "public_metrics": {
+          "view_count": 7183
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088644928431874048/vid/avc1/360x270/RHFb8nufC6GUf_HN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088644928431874048/vid/avc1/480x360/GTdM9vFeMfdcN-v-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088644928431874048/vid/avc1/960x720/P2Ow6Jjd_58qZtwb.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088644928431874048/pl/LoNkzjzKvhdQnftU.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2088648395754029144",
+        "created_at": "2026-08-16T16:23:51.000Z",
+        "display_text_range": [
+          25,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089025353679577421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1917117577689763840",
+              "start": 0,
+              "username": "susu_blender"
+            },
+            {
+              "end": 24,
+              "id": "2004453066653999104",
+              "start": 14,
+              "username": "luoju1524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089025353679577421",
+        "in_reply_to_user_id": "1917117577689763840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088648395754029144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@susu_blender @luoju1524 萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088644928431874048"
+          ]
+        },
+        "author_id": "1917117577689763840",
+        "conversation_id": "2088648395754029144",
+        "created_at": "2026-08-15T15:25:57.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088648395754029144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 92,
+              "id": "2004453066653999104",
+              "start": 82,
+              "username": "luoju1524"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f9E5lloSYr",
+              "end": 116,
+              "expanded_url": "https://x.com/susu_blender/status/2088648395754029144/video/1",
+              "media_key": "13_2088644928431874048",
+              "start": 93,
+              "url": "https://t.co/f9E5lloSYr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088648395754029144",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088644928431874048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 11203,
+          "like_count": 489,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "超级可爱超级甜的视频\n腿并一下 顶到花心啦 \n不耐操的我弓的像大虾一样\n做爱超爽₍ᐢ˶ˊ꒳ˋ˶ᐢ₎\n1：56\n来自洛师傅的疑惑\n哎 这个铃铛为什么在我脖子上\n洛师傅@luoju1524 https://t.co/f9E5lloSYr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuxi, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.28857,
+                  31.56887
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuxi",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5/小猫:@WcAIYz 备用tg号:https://t.co/o33eG6ArfO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 54,
+                "start": 47,
+                "username": "WcAIYz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 84,
+                "expanded_url": "http://t.me/MizusakiWu",
+                "start": 61,
+                "url": "https://t.co/o33eG6ArfO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "江苏 无锡",
+        "most_recent_tweet_id": "2089025353679577421",
+        "name": "晨雾雾🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088287584061722624/VW7U9ubU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 360,
+          "like_count": 1070,
+          "listed_count": 5,
+          "media_count": 240,
+          "tweet_count": 2137
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T07:23:54.000Z",
+        "description": "男娘 宿州",
+        "id": "1917117577689763840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088933759454421180",
+        "name": "susu_blender",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917117577689763840/1759764265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078679483306094592/gwgD5YCX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5196,
+          "following_count": 14,
+          "like_count": 82,
+          "listed_count": 15,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "susu_blender",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T07:24:00.000Z",
+        "description": "男娘猛1 也可以0 男娘贴贴喵\n这里有日常女装、涩涩图片、作战记录…\n坐标南京\n扩列的话q2121319163可以直接加，私信不一定看到。",
+        "id": "2004453066653999104",
+        "is_identity_verified": false,
+        "location": "🚪50r喵，扩列不需要，想看更多涩图作战记录赞助喵",
+        "most_recent_tweet_id": "2089021600268210615",
+        "name": "洛橘",
+        "pinned_tweet_id": "2065394320723804459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004453066653999104/1766905745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005174145597014020/He6So_DE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5004,
+          "following_count": 984,
+          "like_count": 2150,
+          "listed_count": 20,
+          "media_count": 64,
+          "tweet_count": 644
+        },
+        "url": "",
+        "username": "luoju1524",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

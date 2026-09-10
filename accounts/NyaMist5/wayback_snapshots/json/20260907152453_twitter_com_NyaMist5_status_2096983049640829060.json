@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2096638999813394525",
+    "created_at": "2026-09-07T15:24:53.000Z",
+    "display_text_range": [
+      29,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096983049640829060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1996918295946272768",
+          "start": 0,
+          "username": "xixizilng156910"
+        },
+        {
+          "end": 28,
+          "id": "1981352257355710464",
+          "start": 17,
+          "username": "X1aoYu_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096983049640829060",
+    "in_reply_to_user_id": "1996918295946272768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096707761577112049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixizilng156910 @X1aoYu_QAQ 让你妈也陪着一起呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2096638999813394525",
+        "created_at": "2026-09-07T15:24:53.000Z",
+        "display_text_range": [
+          29,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096983049640829060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1996918295946272768",
+              "start": 0,
+              "username": "xixizilng156910"
+            },
+            {
+              "end": 28,
+              "id": "1981352257355710464",
+              "start": 17,
+              "username": "X1aoYu_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096983049640829060",
+        "in_reply_to_user_id": "1996918295946272768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096707761577112049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixizilng156910 @X1aoYu_QAQ 让你妈也陪着一起呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996918295946272768",
+        "conversation_id": "2096638999813394525",
+        "created_at": "2026-09-06T21:10:59.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T22:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096707761577112049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1981352257355710464",
+              "start": 0,
+              "username": "X1aoYu_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096707761577112049",
+        "in_reply_to_user_id": "1981352257355710464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096638999813394525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X1aoYu_QAQ 哭呗赶紧下海荬必"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/mtf/心境/新疆猫在无锡居住喵/🚪20\n/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz 扩列q：422174271）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 57,
+                "start": 50,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "Shanghai, People's Republic of China",
+        "most_recent_tweet_id": "2096983049640829060",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093727163434557441/50aKeHl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 350,
+          "like_count": 1153,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 2277
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-05T12:23:29.000Z",
+        "description": "",
+        "id": "1996918295946272768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096707761577112049",
+        "name": "V",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1996918295946272768/1764938333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996922171386667008/kp7CA-C8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 3577,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "xixizilng156910",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-23T13:29:33.000Z",
+        "description": "我叫小雨｜天秤｜ISFP｜SWITCH｜偷盗存图替我挡灾｜废话日常｜纯绿🚪52｜大号飞升版@X1aoYuQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "X1aoYuQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1981352257355710464",
+        "is_identity_verified": false,
+        "location": "除🚪不闲聊 看心情回复",
+        "most_recent_tweet_id": "2096667056028758091",
+        "name": "YUuuu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1981352257355710464/1767328599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021257681810620418/0nm4Ew01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4830,
+          "following_count": 269,
+          "like_count": 1049,
+          "listed_count": 8,
+          "media_count": 158,
+          "tweet_count": 466
+        },
+        "url": "",
+        "username": "X1aoYu_QAQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

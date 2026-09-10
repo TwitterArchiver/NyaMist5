@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2092969473657688391",
+    "created_at": "2026-09-02T08:24:08.000Z",
+    "display_text_range": [
+      11,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T09:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095065225821381036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2058457646718742528",
+          "start": 0,
+          "username": "qiguankk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095065225821381036",
+    "in_reply_to_user_id": "2058457646718742528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092969473657688391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiguankk2 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6830,
+        "height": 1280,
+        "media_key": "13_2092969443362226176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092969443362226176/img/0jQ2OwQdtnuFYmab.jpg",
+        "public_metrics": {
+          "view_count": 1886
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092969443362226176/vid/avc1/320x568/TgbwEAGzzubsFNqf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092969443362226176/vid/avc1/480x852/hqfcsfovAp_12Af4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092969443362226176/vid/avc1/720x1280/7jy5bjy-HvYp7ccS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092969443362226176/pl/FRVd3aRF8QyGimKi.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2092969473657688391",
+        "created_at": "2026-09-02T08:24:08.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T09:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095065225821381036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2058457646718742528",
+              "start": 0,
+              "username": "qiguankk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095065225821381036",
+        "in_reply_to_user_id": "2058457646718742528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092969473657688391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiguankk2 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092969443362226176"
+          ]
+        },
+        "author_id": "2058457646718742528",
+        "conversation_id": "2092969473657688391",
+        "created_at": "2026-08-27T13:36:22.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092969473657688391"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "男娘"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "娼年"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "美少女"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DpNuiyzWbh",
+              "end": 75,
+              "expanded_url": "https://x.com/qiguankk2/status/2092969473657688391/video/1",
+              "media_key": "13_2092969443362226176",
+              "start": 52,
+              "url": "https://t.co/DpNuiyzWbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092969473657688391",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2092969443362226176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9915,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "没人找我都木有作战记录发了(￣Д￣)ﾉ，什么什么，你说是我懒，自己不愿意拍？\n#男娘 #娼年 #美少女 https://t.co/DpNuiyzWbh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuxi, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.28857,
+                  31.56887
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuxi",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "07年/mtf/心境/新疆猫在无锡居住喵/🚪20\n/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz 扩列q：422174271）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 57,
+                "start": 50,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "江苏 无锡",
+        "most_recent_tweet_id": "2095065225821381036",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093727163434557441/50aKeHl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 354,
+          "like_count": 1140,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 2252
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-24T07:59:59.000Z",
+        "description": "ciallo,这里是祁官，160/51萝莉御姐，大号被封@qiguankk，原先的视频会发电报里，重新关注这个号叭，常驻南京，别问接不接，肯定接的哇，🚪50，只回口令和互推，欢迎小可爱来骚扰\n电报群：https://t.co/GTbRa5GH01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "qiguankk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/qiguankilla123",
+                "end": 123,
+                "expanded_url": "https://t.me/qiguankilla123",
+                "start": 100,
+                "url": "https://t.co/GTbRa5GH01"
+              }
+            ]
+          }
+        },
+        "id": "2058457646718742528",
+        "is_identity_verified": false,
+        "location": "南京",
+        "most_recent_tweet_id": "2094835298496827451",
+        "name": "祁官killa(求互推）",
+        "pinned_tweet_id": "2092969473657688391",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058457646718742528/1783418472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074733786185814016/jgucGlJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5117,
+          "following_count": 41,
+          "like_count": 130,
+          "listed_count": 24,
+          "media_count": 16,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "qiguankk2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

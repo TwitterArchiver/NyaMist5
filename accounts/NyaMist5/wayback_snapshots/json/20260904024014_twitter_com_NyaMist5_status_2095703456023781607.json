@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095703439187869696"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2095703456023781607",
+    "created_at": "2026-09-04T02:40:14.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T03:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095703456023781607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CP9x2Ftvsh",
+          "end": 38,
+          "expanded_url": "https://x.com/NyaMist5/status/2095703456023781607/photo/1",
+          "media_key": "3_2095703439187869696",
+          "start": 15,
+          "url": "https://t.co/CP9x2Ftvsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095703456023781607",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095703439187869696"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "居然还是中小学生嘛，有点意思 https://t.co/CP9x2Ftvsh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2095703439187869696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRVvLKdbgAAZg3s.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095703439187869696"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2095703456023781607",
+        "created_at": "2026-09-04T02:40:14.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T03:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095703456023781607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CP9x2Ftvsh",
+              "end": 38,
+              "expanded_url": "https://x.com/NyaMist5/status/2095703456023781607/photo/1",
+              "media_key": "3_2095703439187869696",
+              "start": 15,
+              "url": "https://t.co/CP9x2Ftvsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095703456023781607",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095703439187869696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "居然还是中小学生嘛，有点意思 https://t.co/CP9x2Ftvsh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuxi, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.28857,
+                  31.56887
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuxi",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "07年/mtf/心境/新疆猫在无锡居住喵/🚪20\n/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz 扩列q：422174271）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 57,
+                "start": 50,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "江苏 无锡",
+        "most_recent_tweet_id": "2095703456023781607",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093727163434557441/50aKeHl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 349,
+          "like_count": 1144,
+          "listed_count": 5,
+          "media_count": 262,
+          "tweet_count": 2261
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

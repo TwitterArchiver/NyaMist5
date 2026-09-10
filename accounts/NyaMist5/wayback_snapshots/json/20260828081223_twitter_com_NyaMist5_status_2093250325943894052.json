@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2093004359600869393",
+    "created_at": "2026-08-28T08:12:23.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T09:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093250325943894052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2075453124974936064",
+          "start": 0,
+          "username": "cinnanirch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093250325943894052",
+    "in_reply_to_user_id": "2075453124974936064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093004359600869393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cinnanirch 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2093004306551369728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvYU91bcAAehcy.jpg",
+        "width": 2299
+      },
+      {
+        "height": 2184,
+        "media_key": "3_2093004327950626816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvYWNjaMAAKK12.jpg",
+        "width": 1232
+      },
+      {
+        "height": 2496,
+        "media_key": "3_2093004342286835712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvYXC9bYAAaCPp.jpg",
+        "width": 1664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2093004359600869393",
+        "created_at": "2026-08-28T08:12:23.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T09:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093250325943894052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2075453124974936064",
+              "start": 0,
+              "username": "cinnanirch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093250325943894052",
+        "in_reply_to_user_id": "2075453124974936064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093004359600869393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cinnanirch 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093004306551369728",
+            "3_2093004327950626816",
+            "3_2093004342286835712"
+          ]
+        },
+        "author_id": "2075453124974936064",
+        "conversation_id": "2093004359600869393",
+        "created_at": "2026-08-27T15:55:00.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093004359600869393"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "男娘"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "伪娘"
+            },
+            {
+              "end": 34,
+              "start": 27,
+              "tag": "femboy"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "闲聊"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "交友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DrNfzc6egM",
+              "end": 67,
+              "expanded_url": "https://x.com/cinnanirch/status/2093004359600869393/photo/1",
+              "media_key": "3_2093004306551369728",
+              "start": 44,
+              "url": "https://t.co/DrNfzc6egM"
+            },
+            {
+              "display_url": "pic.x.com/DrNfzc6egM",
+              "end": 67,
+              "expanded_url": "https://x.com/cinnanirch/status/2093004359600869393/photo/1",
+              "media_key": "3_2093004327950626816",
+              "start": 44,
+              "url": "https://t.co/DrNfzc6egM"
+            },
+            {
+              "display_url": "pic.x.com/DrNfzc6egM",
+              "end": 67,
+              "expanded_url": "https://x.com/cinnanirch/status/2093004359600869393/photo/1",
+              "media_key": "3_2093004342286835712",
+              "start": 44,
+              "url": "https://t.co/DrNfzc6egM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093004359600869393",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093004306551369728"
+          },
+          {
+            "media_key": "3_2093004327950626816"
+          },
+          {
+            "media_key": "3_2093004342286835712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2166,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次发推，可以来找我玩吗喵喵喵🥺\n\n#男娘 #伪娘 #femboy #闲聊  #交友 https://t.co/DrNfzc6egM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuxi, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.28857,
+                  31.56887
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuxi",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "07年/mtf/♠️/心境/新疆猫在无锡居住喵/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5/小猫:@WcAIYz 备用tg号:https://t.co/o33eG6ArfO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 58,
+                "start": 51,
+                "username": "WcAIYz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 88,
+                "expanded_url": "http://t.me/MizusakiWu",
+                "start": 65,
+                "url": "https://t.co/o33eG6ArfO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "江苏 无锡",
+        "most_recent_tweet_id": "2093250325943894052",
+        "name": "晨雾雾♠️",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091480628940460032/dkCZNj0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 353,
+          "like_count": 1114,
+          "listed_count": 5,
+          "media_count": 257,
+          "tweet_count": 2222
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T05:33:51.000Z",
+        "description": "猫娘一枚喵，不定期更新\n浙江某大学 工科大二在读\n欢迎交流喵！\n(可以是正常聊天，也可以是色色，甚至可以是高考志愿填报交流、工科专业内的交流喵)",
+        "id": "2075453124974936064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093243462145704056",
+        "name": "黎云irch",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075453124974936064/1787738025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092551060636487680/W9EA5ikz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 15,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "cinnanirch",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

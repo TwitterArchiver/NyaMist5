@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "1335900828700299264",
+    "created_at": "2026-09-09T02:40:29.000Z",
+    "display_text_range": [
+      35,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T03:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097515458027229485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1200751481969946624",
+          "start": 0,
+          "username": "Tensenn9"
+        },
+        {
+          "end": 22,
+          "id": "87884263",
+          "start": 10,
+          "username": "jake_j_jung"
+        },
+        {
+          "end": 34,
+          "id": "1152807212068175872",
+          "start": 23,
+          "username": "kinoko0536"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097515458027229485",
+    "in_reply_to_user_id": "1642270015851474944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097515125255401852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tensenn9 @jake_j_jung @kinoko0536 还有正体字日本也不使用，日本使用的汉字可以分为和中国大陆一样写法的简体字/港澳台及华人用的正体字以及日本自创的汉字和新字体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "1335900828700299264",
+        "created_at": "2026-09-09T02:40:29.000Z",
+        "display_text_range": [
+          35,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T03:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097515458027229485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1200751481969946624",
+              "start": 0,
+              "username": "Tensenn9"
+            },
+            {
+              "end": 22,
+              "id": "87884263",
+              "start": 10,
+              "username": "jake_j_jung"
+            },
+            {
+              "end": 34,
+              "id": "1152807212068175872",
+              "start": 23,
+              "username": "kinoko0536"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097515458027229485",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097515125255401852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tensenn9 @jake_j_jung @kinoko0536 还有正体字日本也不使用，日本使用的汉字可以分为和中国大陆一样写法的简体字/港澳台及华人用的正体字以及日本自创的汉字和新字体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "1335900828700299264",
+        "created_at": "2026-09-09T02:39:10.000Z",
+        "display_text_range": [
+          35,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T03:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097515125255401852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1200751481969946624",
+              "start": 0,
+              "username": "Tensenn9"
+            },
+            {
+              "end": 22,
+              "id": "87884263",
+              "start": 10,
+              "username": "jake_j_jung"
+            },
+            {
+              "end": 34,
+              "id": "1152807212068175872",
+              "start": 23,
+              "username": "kinoko0536"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097515125255401852",
+        "in_reply_to_user_id": "1200751481969946624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1336296110063759361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tensenn9 @jake_j_jung @kinoko0536 就是郁的正体，正体字在几十年前就在中国大陆被废弃了，港澳台及其他地方出生的华人他们的父母会教这个字"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年/mtf/心境/新疆猫在无锡居住喵/🚪20\n/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz 扩列q：422174271）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 57,
+                "start": 50,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2097515458027229485",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093727163434557441/50aKeHl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 349,
+          "like_count": 1156,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 2284
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-30T12:20:56.000Z",
+        "description": "A normal animes lover.",
+        "id": "1200751481969946624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096628720857391292",
+        "name": "天弦九清",
+        "pinned_tweet_id": "1340645446168043521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1200751481969946624/1606317701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1200752134251302913/W49ZAvP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 1369,
+          "like_count": 42504,
+          "listed_count": 4,
+          "media_count": 643,
+          "tweet_count": 6219
+        },
+        "url": "",
+        "username": "Tensenn9",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-11-06T06:40:42.000Z",
+        "description": "JP→EN translator of anime (Made in Abyss, Ghost Cat Anzu, Ya Boy Kongming, Future Boy Conan) & manga (Star Strings & ??). JVTA teacher, gym bro 日本永住の米国人でアニメの翻訳家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jake.junghonyaku.jp",
+                "end": 23,
+                "expanded_url": "http://jake.junghonyaku.jp",
+                "start": 0,
+                "url": "https://t.co/c5Ovlag4cB"
+              }
+            ]
+          }
+        },
+        "id": "87884263",
+        "is_identity_verified": true,
+        "location": "Kagawa↔️Kyoto🇯🇵 via MI🇺🇸",
+        "most_recent_tweet_id": "2097507928580440194",
+        "name": "Jake Jung （ジェイク・ヤング）",
+        "pinned_tweet_id": "1046973242160877574",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/87884263/1556082371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080668603754401792/uxCNA3xH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12808,
+          "following_count": 2314,
+          "like_count": 111690,
+          "listed_count": 149,
+          "media_count": 6181,
+          "tweet_count": 25149
+        },
+        "url": "https://t.co/c5Ovlag4cB",
+        "username": "jake_j_jung",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-21T05:07:12.000Z",
+        "description": "中国人otakuです(っ ॑꒳ ॑c)\n日本語勉強し、原神 スタレ 風燕伝やってます。モルモット2匹を飼っています\nフォローありがとうございます！よろしく！",
+        "id": "1152807212068175872",
+        "is_identity_verified": false,
+        "location": "中国湖北",
+        "most_recent_tweet_id": "2097166499882684501",
+        "name": "蘑菇🍄",
+        "pinned_tweet_id": "1492787834167517184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152807212068175872/1686672556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668651752546086912/S7-fvGum_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 1893,
+          "like_count": 26089,
+          "listed_count": 20,
+          "media_count": 441,
+          "tweet_count": 11555
+        },
+        "url": "",
+        "username": "kinoko0536",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

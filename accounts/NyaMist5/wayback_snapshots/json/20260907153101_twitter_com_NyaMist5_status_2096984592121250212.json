@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2093237140163588383",
+    "created_at": "2026-09-07T15:31:01.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096984592121250212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1927836358464122880",
+          "start": 0,
+          "username": "Tracey_hosu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096984592121250212",
+    "in_reply_to_user_id": "1927836358464122880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093237140163588383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tracey_hosu 抱抱哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2093237082961666048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQysCVia4AAoV2-.jpg",
+        "width": 479
+      },
+      {
+        "height": 3200,
+        "media_key": "3_2093237093879480320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQysC-NbgAAFK7F.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1636,
+        "media_key": "3_2093237114041421824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQysEJUaUAAUNqK.jpg",
+        "width": 1421
+      },
+      {
+        "height": 3200,
+        "media_key": "3_2093237126796386304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQysE41boAArSv2.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2093237140163588383",
+        "created_at": "2026-09-07T15:31:01.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096984592121250212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1927836358464122880",
+              "start": 0,
+              "username": "Tracey_hosu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096984592121250212",
+        "in_reply_to_user_id": "1927836358464122880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093237140163588383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tracey_hosu 抱抱哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093237082961666048",
+            "3_2093237093879480320",
+            "3_2093237114041421824",
+            "3_2093237126796386304"
+          ]
+        },
+        "author_id": "1927836358464122880",
+        "conversation_id": "2093237140163588383",
+        "created_at": "2026-08-28T07:19:59.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T08:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093237140163588383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FWtbl5mDcz",
+              "end": 32,
+              "expanded_url": "https://x.com/Tracey_hosu/status/2093237140163588383/photo/1",
+              "media_key": "3_2093237082961666048",
+              "start": 9,
+              "url": "https://t.co/FWtbl5mDcz"
+            },
+            {
+              "display_url": "pic.x.com/FWtbl5mDcz",
+              "end": 32,
+              "expanded_url": "https://x.com/Tracey_hosu/status/2093237140163588383/photo/1",
+              "media_key": "3_2093237093879480320",
+              "start": 9,
+              "url": "https://t.co/FWtbl5mDcz"
+            },
+            {
+              "display_url": "pic.x.com/FWtbl5mDcz",
+              "end": 32,
+              "expanded_url": "https://x.com/Tracey_hosu/status/2093237140163588383/photo/1",
+              "media_key": "3_2093237114041421824",
+              "start": 9,
+              "url": "https://t.co/FWtbl5mDcz"
+            },
+            {
+              "display_url": "pic.x.com/FWtbl5mDcz",
+              "end": 32,
+              "expanded_url": "https://x.com/Tracey_hosu/status/2093237140163588383/photo/1",
+              "media_key": "3_2093237126796386304",
+              "start": 9,
+              "url": "https://t.co/FWtbl5mDcz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093237140163588383",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093237082961666048"
+          },
+          {
+            "media_key": "3_2093237093879480320"
+          },
+          {
+            "media_key": "3_2093237114041421824"
+          },
+          {
+            "media_key": "3_2093237126796386304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么要离开我😭 https://t.co/FWtbl5mDcz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年/mtf/心境/新疆猫在无锡居住喵/🚪20\n/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz 扩列q：422174271）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 57,
+                "start": 50,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2096984592121250212",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093727163434557441/50aKeHl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 350,
+          "like_count": 1153,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 2279
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-28T21:16:22.000Z",
+        "description": "不语一切",
+        "id": "1927836358464122880",
+        "is_identity_verified": false,
+        "location": "heaven",
+        "most_recent_tweet_id": "2096112448621150539",
+        "name": "pucci🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080955408244772864/OQvNZL2D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 35,
+          "like_count": 761,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "Tracey_hosu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089686275792175104"
+      ],
+      "media_source_tweet_id": [
+        "2089686322680303777"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2089976827465122057",
+    "created_at": "2026-08-19T07:24:40.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089976827465122057"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "男娘"
+        },
+        {
+          "end": 70,
+          "start": 66,
+          "tag": "里百合"
+        },
+        {
+          "end": 76,
+          "start": 71,
+          "tag": "作战记录"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2004453066653999104",
+          "start": 3,
+          "username": "luoju1524"
+        },
+        {
+          "end": 60,
+          "id": "1826809663373049856",
+          "start": 48,
+          "username": "warspite_yz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YAkWTcwj25",
+          "end": 100,
+          "expanded_url": "https://x.com/luoju1524/status/2089686322680303777/video/1",
+          "media_key": "13_2089686275792175104",
+          "start": 77,
+          "url": "https://t.co/YAkWTcwj25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089976827465122057",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2089686275792175104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089686322680303777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luoju1524: 全新作战记录喵\n\n是烧猫被洛橘后入，然而烧猫并不耐超，悲\n\n烧猫:@warspite_yz \n#男娘 #里百合 #作战记录 https://t.co/YAkWTcwj25"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47299,
+        "height": 960,
+        "media_key": "13_2089686275792175104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089686275792175104/img/mKaNpvmUlANShxED.jpg",
+        "public_metrics": {
+          "view_count": 1707
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089686275792175104/vid/avc1/320x426/GXo-7y3PXEGUZp9U.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089686275792175104/vid/avc1/480x640/xI_Y5-hQO9qWfQyl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089686275792175104/vid/avc1/720x960/90BFX4cvuKF_3L0M.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089686275792175104/pl/_IDrA8axj4I3q7hM.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089686275792175104"
+          ],
+          "media_source_tweet_id": [
+            "2089686322680303777"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2089976827465122057",
+        "created_at": "2026-08-19T07:24:40.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089976827465122057"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "男娘"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "里百合"
+            },
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "作战记录"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2004453066653999104",
+              "start": 3,
+              "username": "luoju1524"
+            },
+            {
+              "end": 60,
+              "id": "1826809663373049856",
+              "start": 48,
+              "username": "warspite_yz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YAkWTcwj25",
+              "end": 100,
+              "expanded_url": "https://x.com/luoju1524/status/2089686322680303777/video/1",
+              "media_key": "13_2089686275792175104",
+              "start": 77,
+              "url": "https://t.co/YAkWTcwj25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089976827465122057",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089686275792175104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089686322680303777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luoju1524: 全新作战记录喵\n\n是烧猫被洛橘后入，然而烧猫并不耐超，悲\n\n烧猫:@warspite_yz \n#男娘 #里百合 #作战记录 https://t.co/YAkWTcwj25"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089686275792175104"
+          ]
+        },
+        "author_id": "2004453066653999104",
+        "conversation_id": "2089686322680303777",
+        "created_at": "2026-08-18T12:10:18.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089686322680303777"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "男娘"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "里百合"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "作战记录"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 45,
+              "id": "1826809663373049856",
+              "start": 33,
+              "username": "warspite_yz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YAkWTcwj25",
+              "end": 85,
+              "expanded_url": "https://x.com/luoju1524/status/2089686322680303777/video/1",
+              "media_key": "13_2089686275792175104",
+              "start": 62,
+              "url": "https://t.co/YAkWTcwj25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089686322680303777",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089686275792175104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 2913,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "全新作战记录喵\n\n是烧猫被洛橘后入，然而烧猫并不耐超，悲\n\n烧猫:@warspite_yz \n#男娘 #里百合 #作战记录 https://t.co/YAkWTcwj25"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuxi, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.28857,
+                  31.56887
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuxi",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5/小猫:@WcAIYz 备用tg号:https://t.co/o33eG6ArfO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 54,
+                "start": 47,
+                "username": "WcAIYz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 84,
+                "expanded_url": "http://t.me/MizusakiWu",
+                "start": 61,
+                "url": "https://t.co/o33eG6ArfO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "江苏 无锡",
+        "most_recent_tweet_id": "2089976827465122057",
+        "name": "晨雾雾🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088287584061722624/VW7U9ubU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 360,
+          "like_count": 1075,
+          "listed_count": 5,
+          "media_count": 244,
+          "tweet_count": 2158
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T07:24:00.000Z",
+        "description": "男娘猛1 也可以0 男娘贴贴喵\n这里有日常女装、涩涩图片、作战记录…\n坐标南京\n扩列的话q2121319163可以直接加，私信不一定看到。",
+        "id": "2004453066653999104",
+        "is_identity_verified": false,
+        "location": "🚪50r喵，扩列不需要，想看更多涩图作战记录赞助喵",
+        "most_recent_tweet_id": "2089903734327537776",
+        "name": "洛橘",
+        "pinned_tweet_id": "2065394320723804459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004453066653999104/1766905745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005174145597014020/He6So_DE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5169,
+          "following_count": 1053,
+          "like_count": 2337,
+          "listed_count": 20,
+          "media_count": 66,
+          "tweet_count": 691
+        },
+        "url": "",
+        "username": "luoju1524",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-23T02:32:39.000Z",
+        "description": "09/坐标南京/男娘一只/后面忘了/接线下/欢迎大家来玩我/180/65 扩列加我哦 欢迎各位男娘互推互fo 🚪50",
+        "id": "1826809663373049856",
+        "is_identity_verified": false,
+        "location": "nanking",
+        "most_recent_tweet_id": "2089690147096855027",
+        "name": "茶冷challenger2",
+        "pinned_tweet_id": "2079508021768524081",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826809663373049856/1745747711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027214462512418817/e0cv38tR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 497,
+          "like_count": 144,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "warspite_yz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

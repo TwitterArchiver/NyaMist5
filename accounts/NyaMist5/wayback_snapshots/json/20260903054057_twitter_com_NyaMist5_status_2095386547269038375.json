@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2087812085891916255",
+    "created_at": "2026-09-03T05:40:57.000Z",
+    "display_text_range": [
+      26,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T06:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095386547269038375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2028799979452772352",
+          "start": 0,
+          "username": "sngxi3837901"
+        },
+        {
+          "end": 25,
+          "id": "2084213801918816256",
+          "start": 14,
+          "username": "starowoowo"
+        },
+        {
+          "end": 41,
+          "id": "1827293756661571584",
+          "start": 26,
+          "username": "aizhenxunjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095386547269038375",
+    "in_reply_to_user_id": "2028799979452772352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087939343344357857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sngxi3837901 @starowoowo @aizhenxunjiang 嘶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2087812085891916255",
+        "created_at": "2026-09-03T05:40:57.000Z",
+        "display_text_range": [
+          26,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095386547269038375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2028799979452772352",
+              "start": 0,
+              "username": "sngxi3837901"
+            },
+            {
+              "end": 25,
+              "id": "2084213801918816256",
+              "start": 14,
+              "username": "starowoowo"
+            },
+            {
+              "end": 41,
+              "id": "1827293756661571584",
+              "start": 26,
+              "username": "aizhenxunjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095386547269038375",
+        "in_reply_to_user_id": "2028799979452772352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087939343344357857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sngxi3837901 @starowoowo @aizhenxunjiang 嘶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028799979452772352",
+        "conversation_id": "2087812085891916255",
+        "created_at": "2026-08-13T16:28:26.000Z",
+        "display_text_range": [
+          12,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087939343344357857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2084213801918816256",
+              "start": 0,
+              "username": "starowoowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087939343344357857",
+        "in_reply_to_user_id": "2084213801918816256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087812085891916255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@starowoowo 目前感觉我那个职高就只有我一个，再说了，新疆嘛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuxi, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.28857,
+                  31.56887
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuxi",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "07年/mtf/心境/新疆猫在无锡居住喵/🚪20\n/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz 扩列q：422174271）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 57,
+                "start": 50,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "江苏 无锡",
+        "most_recent_tweet_id": "2095386547269038375",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093727163434557441/50aKeHl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 351,
+          "like_count": 1146,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 2257
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-03T11:49:58.000Z",
+        "description": "09生人    2026/06/30开始的- MtF GAHT    168-170cm\nte:XieSong09. 同类互关   几乎每天都在，想聊天也可以\n希望有XJ的同类\n小号：@xieran197",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 92,
+                "username": "xieran197"
+              }
+            ]
+          }
+        },
+        "id": "2028799979452772352",
+        "is_identity_verified": false,
+        "location": "中华人民共和国🇨🇳",
+        "most_recent_tweet_id": "2095381388610662480",
+        "name": "谢语萌🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2080306350379418018",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028799979452772352/1784817275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079863046949003264/JA3doZyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 155,
+          "like_count": 2280,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 520
+        },
+        "url": "",
+        "username": "sngxi3837901",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-03T09:47:41.000Z",
+        "description": "一只猫娘/mtf/音游入/二次元/出厂日期2010.12.27/没有丝毫经济的穷逼😭",
+        "id": "2084213801918816256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095353493938958839",
+        "name": "starowo🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084213801918816256/1786015828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089259629205483521/B-fOsbZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 141,
+          "like_count": 42,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "starowoowo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-24T10:36:38.000Z",
+        "description": "mtf｜hrt2025.02.28｜07｜家长党｜互fo｜坐标南京（接半绿）｜🚪88口令｜备用X：@yuxiyaokuaileo｜TG：@yuxiyaokuaileo｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "yuxiyaokuaileo"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "yuxiyaokuaileo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuxiyaokuaileo",
+                "end": 23,
+                "expanded_url": "https://t.me/yuxiyaokuaileo",
+                "start": 0,
+                "url": "https://t.co/5cUpsleN2T"
+              }
+            ]
+          }
+        },
+        "id": "1827293756661571584",
+        "is_identity_verified": false,
+        "location": "南京",
+        "most_recent_tweet_id": "2095070948445868141",
+        "name": "雨汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2046170676864934354",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827293756661571584/1744150029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960119314624991232/l-JCZqJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 1077,
+          "like_count": 396,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 502
+        },
+        "url": "https://t.co/5cUpsleN2T",
+        "username": "aizhenxunjiang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

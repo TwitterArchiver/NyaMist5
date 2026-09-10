@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2090410455839670683",
+    "created_at": "2026-08-20T12:07:45.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090410455839670683"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/WcAIYz/status/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/WcAIYz/status/2090402964603318739",
+          "start": 13,
+          "url": "https://t.co/1jq5Ynnsqt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090410455839670683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090402964603318739",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不嘚瑟了，再也不嘚瑟了😭 https://t.co/1jq5Ynnsqt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21201,
+        "height": 1280,
+        "media_key": "13_2090402830612099072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090402830612099072/img/X5_XKyDUnYfO0eqp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090402830612099072/vid/avc1/320x568/P-MGbjFQM8v9-jXL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090402830612099072/vid/avc1/480x852/jCkNAANfquFPcBE9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090402830612099072/vid/avc1/720x1280/eiGTQqH9XlqLSYrm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090402830612099072/pl/IMba5XI6gm6gXzYI.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2090410455839670683",
+        "created_at": "2026-08-20T12:07:45.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090410455839670683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WcAIYz/status/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/WcAIYz/status/2090402964603318739",
+              "start": 13,
+              "url": "https://t.co/1jq5Ynnsqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090410455839670683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090402964603318739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不嘚瑟了，再也不嘚瑟了😭 https://t.co/1jq5Ynnsqt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090402830612099072"
+          ]
+        },
+        "author_id": "2051936177628790784",
+        "conversation_id": "2090402964603318739",
+        "created_at": "2026-08-20T11:37:59.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090402964603318739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/egi8ebyyNH",
+              "end": 30,
+              "expanded_url": "https://x.com/WcAIYz/status/2090402964603318739/video/1",
+              "media_key": "13_2090402830612099072",
+              "start": 7,
+              "url": "https://t.co/egi8ebyyNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090402964603318739",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "13_2090402830612099072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "lollll https://t.co/egi8ebyyNH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuxi, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.28857,
+                  31.56887
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuxi",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5/小猫:@WcAIYz 备用tg号:https://t.co/o33eG6ArfO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 54,
+                "start": 47,
+                "username": "WcAIYz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 84,
+                "expanded_url": "http://t.me/MizusakiWu",
+                "start": 61,
+                "url": "https://t.co/o33eG6ArfO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "江苏 无锡",
+        "most_recent_tweet_id": "2090410455839670683",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088287584061722624/VW7U9ubU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 355,
+          "like_count": 1075,
+          "listed_count": 5,
+          "media_count": 245,
+          "tweet_count": 2167
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-06T08:04:58.000Z",
+        "description": "2004.08.30\n小狗:@NyaMist5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "NyaMist5"
+              }
+            ]
+          }
+        },
+        "id": "2051936177628790784",
+        "is_identity_verified": false,
+        "location": "江苏 无锡",
+        "most_recent_tweet_id": "2090402964603318739",
+        "name": "叶叶子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051936177628790784/1786696567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090408791993114624/knFIfDRl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 6,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "WcAIYz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

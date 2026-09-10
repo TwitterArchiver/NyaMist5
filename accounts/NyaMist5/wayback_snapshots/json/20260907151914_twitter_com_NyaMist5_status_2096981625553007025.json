@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2096559369815204296",
+    "created_at": "2026-09-07T15:19:14.000Z",
+    "display_text_range": [
+      23,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096981625553007025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2033781807968358402",
+          "start": 0,
+          "username": "Pupuzzovo"
+        },
+        {
+          "end": 22,
+          "id": "1981352257355710464",
+          "start": 11,
+          "username": "X1aoYu_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096981625553007025",
+    "in_reply_to_user_id": "2033781807968358402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096811516498772345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pupuzzovo @X1aoYu_QAQ 如果你爸一个月给你五百生活费的时候你让那些爸爸干的最狠了你知道不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2096559369815204296",
+        "created_at": "2026-09-07T15:19:14.000Z",
+        "display_text_range": [
+          23,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096981625553007025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2033781807968358402",
+              "start": 0,
+              "username": "Pupuzzovo"
+            },
+            {
+              "end": 22,
+              "id": "1981352257355710464",
+              "start": 11,
+              "username": "X1aoYu_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096981625553007025",
+        "in_reply_to_user_id": "2033781807968358402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096811516498772345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pupuzzovo @X1aoYu_QAQ 如果你爸一个月给你五百生活费的时候你让那些爸爸干的最狠了你知道不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033781807968358402",
+        "conversation_id": "2096559369815204296",
+        "created_at": "2026-09-07T04:03:17.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096811516498772345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1981352257355710464",
+              "start": 0,
+              "username": "X1aoYu_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096811516498772345",
+        "in_reply_to_user_id": "1981352257355710464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3569,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096559369815204296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X1aoYu_QAQ 发推特干啥，跟你爸去对线啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/mtf/心境/新疆猫在无锡居住喵/🚪20\n/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz 扩列q：422174271）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 57,
+                "start": 50,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2096981625553007025",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093727163434557441/50aKeHl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 350,
+          "like_count": 1153,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 2276
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-17T05:45:57.000Z",
+        "description": "",
+        "id": "2033781807968358402",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096969622855844120",
+        "name": "Nobodycare",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033781807968358402/1788791629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033782055134470144/j2UNNoEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "Pupuzzovo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-23T13:29:33.000Z",
+        "description": "我叫小雨｜天秤｜ISFP｜SWITCH｜偷盗存图替我挡灾｜废话日常｜纯绿🚪52｜大号飞升版@X1aoYuQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "X1aoYuQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1981352257355710464",
+        "is_identity_verified": false,
+        "location": "除🚪不闲聊 看心情回复",
+        "most_recent_tweet_id": "2096667056028758091",
+        "name": "YUuuu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1981352257355710464/1767328599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021257681810620418/0nm4Ew01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4831,
+          "following_count": 269,
+          "like_count": 1049,
+          "listed_count": 8,
+          "media_count": 158,
+          "tweet_count": 466
+        },
+        "url": "",
+        "username": "X1aoYu_QAQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

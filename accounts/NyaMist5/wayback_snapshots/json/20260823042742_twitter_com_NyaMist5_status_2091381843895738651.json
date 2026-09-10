@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2091381843895738651",
+    "created_at": "2026-08-23T04:27:42.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T05:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091381843895738651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600401143863336961",
+          "start": 3,
+          "username": "yusu_211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091381843895738651",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12285
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090678241027854621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yusu_211: 俺のちんこデカすぎて射精すると日本中で雨降る"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2091381843895738651",
+        "created_at": "2026-08-23T04:27:42.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T05:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091381843895738651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600401143863336961",
+              "start": 3,
+              "username": "yusu_211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091381843895738651",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12285
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090678241027854621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yusu_211: 俺のちんこデカすぎて射精すると日本中で雨降る"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600401143863336961",
+        "conversation_id": "2090678241027854621",
+        "created_at": "2026-08-21T05:51:50.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090678241027854621"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090678241027854621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4747,
+          "impression_count": 3059658,
+          "like_count": 89820,
+          "quote_count": 2279,
+          "reply_count": 1132,
+          "retweet_count": 12285
+        },
+        "reply_settings": "everyone",
+        "text": "俺のちんこデカすぎて射精すると日本中で雨降る"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuxi, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.28857,
+                  31.56887
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuxi",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "07mtf/心境/无锡南京上海随缘刷新/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5/小猫:@WcAIYz 备用tg号:https://t.co/o33eG6ArfO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 54,
+                "start": 47,
+                "username": "WcAIYz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 84,
+                "expanded_url": "http://t.me/MizusakiWu",
+                "start": 61,
+                "url": "https://t.co/o33eG6ArfO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "江苏 无锡",
+        "most_recent_tweet_id": "2091381843895738651",
+        "name": "晨雾雾♠️",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088287584061722624/VW7U9ubU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 355,
+          "like_count": 1083,
+          "listed_count": 5,
+          "media_count": 247,
+          "tweet_count": 2178
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-07T08:06:07.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCruhJ…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCruhJycHHzoVCIRvL0wg4OQ?feature=shared",
+                "start": 0,
+                "url": "https://t.co/5Z42LL47ze"
+              }
+            ]
+          }
+        },
+        "id": "1600401143863336961",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091120205674279204",
+        "name": "ゆす",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600401143863336961/1775096457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984225289858437120/W844QErL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4422,
+          "following_count": 208,
+          "like_count": 56282,
+          "listed_count": 15,
+          "media_count": 2054,
+          "tweet_count": 12836
+        },
+        "url": "https://t.co/5Z42LL47ze",
+        "username": "yusu_211",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

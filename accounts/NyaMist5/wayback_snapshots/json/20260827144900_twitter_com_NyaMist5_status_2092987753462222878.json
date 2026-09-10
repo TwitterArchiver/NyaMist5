@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2092715130954100900",
+    "created_at": "2026-08-27T14:49:00.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T15:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092987753462222878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090781436379103232",
+          "start": 0,
+          "username": "langjianguwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092987753462222878",
+    "in_reply_to_user_id": "2090781436379103232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092715130954100900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@langjianguwu 好可爱喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1281,
+        "media_key": "3_2092715123827949568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQrRUUPaQAA72Xj.jpg",
+        "width": 1049
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2092715130954100900",
+        "created_at": "2026-08-27T14:49:00.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092987753462222878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090781436379103232",
+              "start": 0,
+              "username": "langjianguwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092987753462222878",
+        "in_reply_to_user_id": "2090781436379103232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092715130954100900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@langjianguwu 好可爱喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092715123827949568"
+          ]
+        },
+        "author_id": "2090781436379103232",
+        "conversation_id": "2092715130954100900",
+        "created_at": "2026-08-26T20:45:42.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T21:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092715130954100900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QYSl9d9Z5u",
+              "end": 40,
+              "expanded_url": "https://x.com/langjianguwu/status/2092715130954100900/photo/1",
+              "media_key": "3_2092715123827949568",
+              "start": 17,
+              "url": "https://t.co/QYSl9d9Z5u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092715130954100900",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092715123827949568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 8465,
+          "like_count": 570,
+          "quote_count": 0,
+          "reply_count": 63,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝我们来吵架吧，你把我架起来吵 https://t.co/QYSl9d9Z5u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/mtf/♠️/心境/新疆猫在无锡居住喵/🚪20\n/烟鬼🚬/逃生舱@NyaMist5_5/小猫:@WcAIYz 备用tg号:https://t.co/o33eG6ArfO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 58,
+                "start": 51,
+                "username": "WcAIYz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MizusakiWu",
+                "end": 88,
+                "expanded_url": "http://t.me/MizusakiWu",
+                "start": 65,
+                "url": "https://t.co/o33eG6ArfO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "江苏 无锡",
+        "most_recent_tweet_id": "2092987753462222878",
+        "name": "晨雾雾♠️",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091480628940460032/dkCZNj0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 354,
+          "like_count": 1111,
+          "listed_count": 5,
+          "media_count": 257,
+          "tweet_count": 2217
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T12:43:19.000Z",
+        "description": "好想被爱",
+        "id": "2090781436379103232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092715130954100900",
+        "name": "狼酱喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090781436379103232/1787316517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092520334402727936/D58YHpNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 33,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "langjianguwu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
