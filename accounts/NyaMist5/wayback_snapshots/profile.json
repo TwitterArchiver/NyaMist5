@@ -1,8 +1,8 @@
 {
-  "name": "晨雾雾🍥🏳️‍⚧️",
+  "name": "晨雾雾",
   "username": "@NyaMist5",
-  "bio": "07mtf/心境/无锡南京上海随缘刷新/🚪20 /烟鬼🚬/逃生舱@NyaMist5_5/小猫:@WcAIYz 备用tg号:http://t.me/MizusakiWu",
-  "location": "江苏 无锡",
+  "bio": "07年/mtf/心境/新疆猫在无锡居住喵/🚪20\n/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz 扩列q：422174271）",
+  "location": "Shanghai, People's Republic of China",
   "link": "http://t.me/chenwuwunya",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
@@ -10,25 +10,16 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 43,
-        "start": 32,
+        "end": 46,
+        "start": 35,
         "username": "NyaMist5_5"
       },
       {
-        "end": 54,
-        "start": 47,
+        "end": 57,
+        "start": 50,
         "username": "WcAIYz"
-      }
-    ],
-    "urls": [
-      {
-        "display_url": "t.me/MizusakiWu",
-        "end": 84,
-        "expanded_url": "http://t.me/MizusakiWu",
-        "start": 61,
-        "url": "https://t.co/o33eG6ArfO"
       }
     ]
   },
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2088287584061722624/VW7U9ubU_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2093727163434557441/50aKeHl9_normal.jpg"
 }
