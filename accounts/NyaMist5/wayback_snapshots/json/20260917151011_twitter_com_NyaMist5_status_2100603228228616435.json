@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100603196381229057",
+        "3_2100603205424144384",
+        "3_2100603215012360192"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2100603228228616435",
+    "created_at": "2026-09-17T15:10:11.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100603228228616435"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "男娘"
+        },
+        {
+          "end": 24,
+          "start": 20,
+          "tag": "男の娘"
+        },
+        {
+          "end": 32,
+          "start": 25,
+          "tag": "femboy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qdsl7gfE4K",
+          "end": 56,
+          "expanded_url": "https://x.com/NyaMist5/status/2100603228228616435/photo/1",
+          "media_key": "3_2100603196381229057",
+          "start": 33,
+          "url": "https://t.co/qdsl7gfE4K"
+        },
+        {
+          "display_url": "pic.x.com/qdsl7gfE4K",
+          "end": 56,
+          "expanded_url": "https://x.com/NyaMist5/status/2100603228228616435/photo/1",
+          "media_key": "3_2100603205424144384",
+          "start": 33,
+          "url": "https://t.co/qdsl7gfE4K"
+        },
+        {
+          "display_url": "pic.x.com/qdsl7gfE4K",
+          "end": 56,
+          "expanded_url": "https://x.com/NyaMist5/status/2100603228228616435/photo/1",
+          "media_key": "3_2100603215012360192",
+          "start": 33,
+          "url": "https://t.co/qdsl7gfE4K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100603228228616435",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100603196381229057"
+      },
+      {
+        "media_key": "3_2100603205424144384"
+      },
+      {
+        "media_key": "3_2100603215012360192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "07怎么了，小时候我还抱过你嘞 #男娘 #男の娘 #femboy https://t.co/qdsl7gfE4K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2352,
+        "media_key": "3_2100603196381229057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbXekZacAEZZWI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 831,
+        "media_key": "3_2100603205424144384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbXfGFaYAA40xa.jpg",
+        "width": 1430
+      },
+      {
+        "height": 3136,
+        "media_key": "3_2100603215012360192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbXfpza8AAjS0e.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100603196381229057",
+            "3_2100603205424144384",
+            "3_2100603215012360192"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2100603228228616435",
+        "created_at": "2026-09-17T15:10:11.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100603228228616435"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "男娘"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "男の娘"
+            },
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qdsl7gfE4K",
+              "end": 56,
+              "expanded_url": "https://x.com/NyaMist5/status/2100603228228616435/photo/1",
+              "media_key": "3_2100603196381229057",
+              "start": 33,
+              "url": "https://t.co/qdsl7gfE4K"
+            },
+            {
+              "display_url": "pic.x.com/qdsl7gfE4K",
+              "end": 56,
+              "expanded_url": "https://x.com/NyaMist5/status/2100603228228616435/photo/1",
+              "media_key": "3_2100603205424144384",
+              "start": 33,
+              "url": "https://t.co/qdsl7gfE4K"
+            },
+            {
+              "display_url": "pic.x.com/qdsl7gfE4K",
+              "end": 56,
+              "expanded_url": "https://x.com/NyaMist5/status/2100603228228616435/photo/1",
+              "media_key": "3_2100603215012360192",
+              "start": 33,
+              "url": "https://t.co/qdsl7gfE4K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100603228228616435",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100603196381229057"
+          },
+          {
+            "media_key": "3_2100603205424144384"
+          },
+          {
+            "media_key": "3_2100603215012360192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "07怎么了，小时候我还抱过你嘞 #男娘 #男の娘 #femboy https://t.co/qdsl7gfE4K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/mtf/心境/新疆猫在无锡居住喵/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz （同类扩列q：422174271）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 62,
+                "start": 55,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "↙️🍬私",
+        "most_recent_tweet_id": "2100603228228616435",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100530233611038720/zrpr5DdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 347,
+          "like_count": 1188,
+          "listed_count": 6,
+          "media_count": 274,
+          "tweet_count": 2335
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2102163506955165811",
+    "created_at": "2026-09-22T17:24:23.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T18:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102448938267853001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1321036918021189632",
+          "start": 0,
+          "username": "boomingrove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102448938267853001",
+    "in_reply_to_user_id": "1321036918021189632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102163506955165811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boomingrove 看出姐姐的绝望了咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2102163455847628800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSxihn2bAAAOAem.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1836,
+        "media_key": "3_2102163464391385088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSxiiHraYAAlOgP.jpg",
+        "width": 3264
+      },
+      {
+        "height": 1836,
+        "media_key": "3_2102163482510761985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSxijLLaIAEsXNo.jpg",
+        "width": 3264
+      },
+      {
+        "height": 1220,
+        "media_key": "3_2102163498113675264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSxikFTbsAAawRa.jpg",
+        "width": 2176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2102163506955165811",
+        "created_at": "2026-09-22T17:24:23.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T18:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102448938267853001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1321036918021189632",
+              "start": 0,
+              "username": "boomingrove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102448938267853001",
+        "in_reply_to_user_id": "1321036918021189632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102163506955165811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boomingrove 看出姐姐的绝望了咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102163455847628800",
+            "3_2102163464391385088",
+            "3_2102163482510761985",
+            "3_2102163498113675264"
+          ]
+        },
+        "author_id": "1321036918021189632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102163506955165811",
+        "created_at": "2026-09-21T22:30:11.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T23:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102163506955165811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XioByRlPqz",
+              "end": 162,
+              "expanded_url": "https://x.com/boomingrove/status/2102163506955165811/photo/1",
+              "media_key": "3_2102163455847628800",
+              "start": 139,
+              "url": "https://t.co/XioByRlPqz"
+            },
+            {
+              "display_url": "pic.x.com/XioByRlPqz",
+              "end": 162,
+              "expanded_url": "https://x.com/boomingrove/status/2102163506955165811/photo/1",
+              "media_key": "3_2102163464391385088",
+              "start": 139,
+              "url": "https://t.co/XioByRlPqz"
+            },
+            {
+              "display_url": "pic.x.com/XioByRlPqz",
+              "end": 162,
+              "expanded_url": "https://x.com/boomingrove/status/2102163506955165811/photo/1",
+              "media_key": "3_2102163482510761985",
+              "start": 139,
+              "url": "https://t.co/XioByRlPqz"
+            },
+            {
+              "display_url": "pic.x.com/XioByRlPqz",
+              "end": 162,
+              "expanded_url": "https://x.com/boomingrove/status/2102163506955165811/photo/1",
+              "media_key": "3_2102163498113675264",
+              "start": 139,
+              "url": "https://t.co/XioByRlPqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102163506955165811",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102163455847628800"
+          },
+          {
+            "media_key": "3_2102163464391385088"
+          },
+          {
+            "media_key": "3_2102163482510761985"
+          },
+          {
+            "media_key": "3_2102163498113675264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 410,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对，是我，造林\n不知道为什么就火了，之前也收留过几个这样的吐槽也没火\n我自己乱乱的也不干净，只是不会到处汤汤水水的会很脏\n餐饮店奶茶店电子厂都找不到所以在疯狂兼职赚房租，房租赚不够还扣一笔，我人炸了\n照片中的是既定事实但发生原因纯属个人臆断，比如马桶问题是吃药自杀拉肚子导致的 https://t.co/XioByRlPqz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/mtf/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 63,
+                "start": 56,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "无锡滨湖",
+        "most_recent_tweet_id": "2102448938267853001",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102229998719598592/kzHBr4aV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 348,
+          "like_count": 1227,
+          "listed_count": 6,
+          "media_count": 282,
+          "tweet_count": 2396
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-27T10:32:12.000Z",
+        "description": "上海老龄🏳️‍⚧️infj/p，喜欢一切温柔可爱，希望让每个人都开心（中度躁狂.重度抑郁.极度经济外貌身材焦虑♨神经性贪食☯吟游诗人:皎月遥知参宿四，嘤嘤咽咽念飞升",
+        "id": "1321036918021189632",
+        "is_identity_verified": false,
+        "location": "参宿四",
+        "most_recent_tweet_id": "2102163506955165811",
+        "name": "Boomingrove🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1321036918021189632/1706412397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033137818072182784/WIbgeeqQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 270,
+          "like_count": 1778,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 1161
+        },
+        "url": "",
+        "username": "boomingrove",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

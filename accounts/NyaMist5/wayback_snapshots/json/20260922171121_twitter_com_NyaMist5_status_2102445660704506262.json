@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2101878196060709019",
+    "created_at": "2026-09-22T17:11:21.000Z",
+    "display_text_range": [
+      17,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T18:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102445660704506262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2095552974508462081",
+          "start": 0,
+          "username": "wait4heavn2call"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102445660704506262",
+    "in_reply_to_user_id": "2095552974508462081",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101878196060709019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wait4heavn2call Wake up, bro. Your mom is a low-class, mentally retarded whore."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2101878196060709019",
+        "created_at": "2026-09-22T17:11:21.000Z",
+        "display_text_range": [
+          17,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T18:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102445660704506262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2095552974508462081",
+              "start": 0,
+              "username": "wait4heavn2call"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102445660704506262",
+        "in_reply_to_user_id": "2095552974508462081",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101878196060709019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wait4heavn2call Wake up, bro. Your mom is a low-class, mentally retarded whore."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095552974508462081",
+        "conversation_id": "2101878196060709019",
+        "created_at": "2026-09-21T03:36:27.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T04:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101878196060709019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Esdeath_core/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Esdeath_core/status/2101613840219742353",
+              "start": 27,
+              "url": "https://t.co/sdW6Zs271F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101878196060709019",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 731,
+          "impression_count": 93296,
+          "like_count": 8652,
+          "quote_count": 42,
+          "reply_count": 145,
+          "retweet_count": 366
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101613840219742353",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Dude likes retarded whores https://t.co/sdW6Zs271F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/mtf/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 63,
+                "start": 56,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "无锡滨湖",
+        "most_recent_tweet_id": "2102445660704506262",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102229998719598592/kzHBr4aV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 348,
+          "like_count": 1223,
+          "listed_count": 6,
+          "media_count": 282,
+          "tweet_count": 2391
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T16:43:47.000Z",
+        "description": "Shield&Sword. Such is life.\nMrSpringFlowers\nI'm a beautiful flower in the process of blooming",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shieldsword.straw.page",
+                "end": 23,
+                "expanded_url": "https://shieldsword.straw.page",
+                "start": 0,
+                "url": "https://t.co/dNAW62zik8"
+              }
+            ]
+          }
+        },
+        "id": "2095552974508462081",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102438993518284976",
+        "name": "flowers",
+        "pinned_tweet_id": "2096843624067555753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095552974508462081/1788744878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095554841460232194/sIkWb030_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 109,
+          "like_count": 2782,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 428
+        },
+        "url": "https://t.co/dNAW62zik8",
+        "username": "wait4heavn2call",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

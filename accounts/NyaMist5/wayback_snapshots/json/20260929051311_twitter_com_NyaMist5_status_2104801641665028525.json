@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2104764309628764473",
+    "created_at": "2026-09-29T05:13:11.000Z",
+    "display_text_range": [
+      25,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T06:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104801641665028525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1607245633072820230",
+          "start": 0,
+          "username": "ecxzmbd114514"
+        },
+        {
+          "end": 24,
+          "id": "1866716899616460800",
+          "start": 15,
+          "username": "youwmaoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104801641665028525",
+    "in_reply_to_user_id": "1607245633072820230",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104776194834960665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ecxzmbd114514 @youwmaoo 也不一定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2104764309628764473",
+        "created_at": "2026-09-29T05:13:11.000Z",
+        "display_text_range": [
+          25,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104801641665028525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1607245633072820230",
+              "start": 0,
+              "username": "ecxzmbd114514"
+            },
+            {
+              "end": 24,
+              "id": "1866716899616460800",
+              "start": 15,
+              "username": "youwmaoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104801641665028525",
+        "in_reply_to_user_id": "1607245633072820230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104776194834960665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ecxzmbd114514 @youwmaoo 也不一定"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607245633072820230",
+        "conversation_id": "2104764309628764473",
+        "created_at": "2026-09-29T03:32:04.000Z",
+        "display_text_range": [
+          10,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T04:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104776194834960665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1866716899616460800",
+              "start": 0,
+              "username": "youwmaoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104776194834960665",
+        "in_reply_to_user_id": "1866716899616460800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104764309628764473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youwmaoo 镜头对准辟谷 人生走向高光捏"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2104801641665028525",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104215059241320448/TAi4VvLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 336,
+          "like_count": 1281,
+          "listed_count": 5,
+          "media_count": 291,
+          "tweet_count": 2443
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-26T05:23:30.000Z",
+        "description": "＃crypto ＃coding ＃AI\n相信薄肌关注个人成长\n聚焦长期主义保持阅读\nYouTube纯刷不更新",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "crypto"
+              },
+              {
+                "end": 15,
+                "start": 8,
+                "tag": "coding"
+              },
+              {
+                "end": 19,
+                "start": 16,
+                "tag": "AI"
+              }
+            ]
+          }
+        },
+        "id": "1607245633072820230",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104798770353598793",
+        "name": "George（薄肌版）",
+        "pinned_tweet_id": "2100566673560625212",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1607245633072820230/1754941124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954990885864955904/2oNa8Oys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 710,
+          "like_count": 469,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 943
+        },
+        "url": "",
+        "username": "ecxzmbd114514",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-11T05:29:37.000Z",
+        "description": "你好，我是谷雨\n\n匿名提问⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhhhxs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hhhhxs",
+                "start": 0,
+                "url": "https://t.co/KZCmVFLpZc"
+              }
+            ]
+          }
+        },
+        "id": "1866716899616460800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104777831121080697",
+        "name": "谷雨奇点 (♡𖥦)♥ᵒᵏᵎᵎᵎᵎeth",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866716899616460800/1789361079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099042645050097664/UY9QxRLZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3093,
+          "following_count": 3508,
+          "like_count": 2076,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 3070
+        },
+        "url": "https://t.co/KZCmVFLpZc",
+        "username": "youwmaoo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

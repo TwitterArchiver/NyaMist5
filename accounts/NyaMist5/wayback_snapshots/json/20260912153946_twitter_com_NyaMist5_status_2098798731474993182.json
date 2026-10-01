@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2098670177869279699",
+    "created_at": "2026-09-12T15:39:46.000Z",
+    "display_text_range": [
+      14,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098798731474993182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1757493094508072960",
+          "start": 0,
+          "username": "kazemihimari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098798731474993182",
+    "in_reply_to_user_id": "1757493094508072960",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098670177869279699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kazemihimari Давай！ храбрая и сильная девушка"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098670169786810368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_5ZnLaAAA3T7c.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2098670177869279699",
+        "created_at": "2026-09-12T15:39:46.000Z",
+        "display_text_range": [
+          14,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098798731474993182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1757493094508072960",
+              "start": 0,
+              "username": "kazemihimari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098798731474993182",
+        "in_reply_to_user_id": "1757493094508072960",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098670177869279699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kazemihimari Давай！ храбрая и сильная девушка"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098670169786810368"
+          ]
+        },
+        "author_id": "1757493094508072960",
+        "conversation_id": "2098670177869279699",
+        "created_at": "2026-09-12T07:08:56.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T08:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098670177869279699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQ4QKA44Jc",
+              "end": 29,
+              "expanded_url": "https://x.com/kazemihimari/status/2098670177869279699/photo/1",
+              "media_key": "3_2098670169786810368",
+              "start": 6,
+              "url": "https://t.co/LQ4QKA44Jc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098670177869279699",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098670169786810368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1505,
+          "impression_count": 348437,
+          "like_count": 13370,
+          "quote_count": 23,
+          "reply_count": 281,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "pussy https://t.co/LQ4QKA44Jc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/mtf/心境/新疆猫在无锡居住喵/🚪20\n/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz 同类扩列q：422174271）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 57,
+                "start": 50,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "↙️🍬私",
+        "most_recent_tweet_id": "2098798731474993182",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093727163434557441/50aKeHl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 349,
+          "like_count": 1161,
+          "listed_count": 6,
+          "media_count": 268,
+          "tweet_count": 2304
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-13T19:53:08.000Z",
+        "description": "Rawr! AWAAAA IT'S KAZEMI HIMARI DESUUUUUU Hello! I am Himari, the Beer Dragon V-Tuber 🍻 Art Tag 🎨: #HimariIllust",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 99,
+                "tag": "HimariIllust"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "KazemiHimari.com",
+                "end": 23,
+                "expanded_url": "https://KazemiHimari.com",
+                "start": 0,
+                "url": "https://t.co/VX6lsZrpy1"
+              }
+            ]
+          }
+        },
+        "id": "1757493094508072960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098769636796088768",
+        "name": "Himari ひまり💖✨EN V-Tuber ⸜(｡˃ ᵕ ˂ )⸝♡",
+        "pinned_tweet_id": "2092272249697185975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757493094508072960/1775986758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043263105569038336/p1RkuSoF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2188,
+          "following_count": 1027,
+          "like_count": 5467,
+          "listed_count": 10,
+          "media_count": 634,
+          "tweet_count": 2075
+        },
+        "url": "https://t.co/VX6lsZrpy1",
+        "username": "kazemihimari",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

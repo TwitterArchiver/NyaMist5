@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097708859934855168"
+      ],
+      "media_source_tweet_id": [
+        "2097708906185458162"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2097840681507291506",
+    "created_at": "2026-09-10T00:12:49.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T01:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097840681507291506"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "伪娘"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "男娘"
+        },
+        {
+          "end": 109,
+          "start": 102,
+          "tag": "femboy"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986352244581888000",
+          "start": 3,
+          "username": "kaimang861"
+        },
+        {
+          "end": 72,
+          "id": "1706848268859129856",
+          "start": 58,
+          "username": "Guaishou59418"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QDWGAwXklV",
+          "end": 133,
+          "expanded_url": "https://x.com/kaimang861/status/2097708906185458162/video/1",
+          "media_key": "13_2097708859934855168",
+          "start": 110,
+          "url": "https://t.co/QDWGAwXklV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097840681507291506",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2097708859934855168"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097708906185458162",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaimang861: P3\n（可恶良子太会了，这个姿势疯狂压迫我颤抖前列腺，忍不住尿也是情有可原是吧😋）\n@Guaishou59418（剪辑+摄影）\n（超大杯完整版详见视频群）\n#伪娘 #男娘 #femboy https://t.co/QDWGAwXklV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 74575,
+        "height": 720,
+        "media_key": "13_2097708859934855168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097708859934855168/img/Sqk7pUJySKzz0p39.jpg",
+        "public_metrics": {
+          "view_count": 4386
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097708859934855168/vid/avc1/480x270/ysa07I9oih2dX1zR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097708859934855168/vid/avc1/640x360/h0xUeEsFPqMUqFbm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097708859934855168/vid/avc1/1280x720/Yea5pO_3fFP0fI5h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097708859934855168/pl/jv6V5dGo3qlxWxhU.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097708859934855168"
+          ],
+          "media_source_tweet_id": [
+            "2097708906185458162"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2097840681507291506",
+        "created_at": "2026-09-10T00:12:49.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T01:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097840681507291506"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "伪娘"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "男娘"
+            },
+            {
+              "end": 109,
+              "start": 102,
+              "tag": "femboy"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986352244581888000",
+              "start": 3,
+              "username": "kaimang861"
+            },
+            {
+              "end": 72,
+              "id": "1706848268859129856",
+              "start": 58,
+              "username": "Guaishou59418"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QDWGAwXklV",
+              "end": 133,
+              "expanded_url": "https://x.com/kaimang861/status/2097708906185458162/video/1",
+              "media_key": "13_2097708859934855168",
+              "start": 110,
+              "url": "https://t.co/QDWGAwXklV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097840681507291506",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097708859934855168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097708906185458162",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaimang861: P3\n（可恶良子太会了，这个姿势疯狂压迫我颤抖前列腺，忍不住尿也是情有可原是吧😋）\n@Guaishou59418（剪辑+摄影）\n（超大杯完整版详见视频群）\n#伪娘 #男娘 #femboy https://t.co/QDWGAwXklV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097708859934855168"
+          ]
+        },
+        "author_id": "1986352244581888000",
+        "conversation_id": "2097708906185458162",
+        "created_at": "2026-09-09T15:29:11.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097708906185458162"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "伪娘"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "男娘"
+            },
+            {
+              "end": 93,
+              "start": 86,
+              "tag": "femboy"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 56,
+              "id": "1706848268859129856",
+              "start": 42,
+              "username": "Guaishou59418"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QDWGAwXklV",
+              "end": 117,
+              "expanded_url": "https://x.com/kaimang861/status/2097708906185458162/video/1",
+              "media_key": "13_2097708859934855168",
+              "start": 94,
+              "url": "https://t.co/QDWGAwXklV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097708906185458162",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097708859934855168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 5189,
+          "like_count": 205,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "P3\n（可恶良子太会了，这个姿势疯狂压迫我颤抖前列腺，忍不住尿也是情有可原是吧😋）\n@Guaishou59418（剪辑+摄影）\n（超大杯完整版详见视频群）\n#伪娘 #男娘 #femboy https://t.co/QDWGAwXklV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/mtf/心境/新疆猫在无锡居住喵/🚪20\n/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz 扩列q：422174271）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 57,
+                "start": 50,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "↙️🍬私",
+        "most_recent_tweet_id": "2097840681507291506",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093727163434557441/50aKeHl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 348,
+          "like_count": 1157,
+          "listed_count": 5,
+          "media_count": 265,
+          "tweet_count": 2291
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T08:37:43.000Z",
+        "description": "NOTHING 🔞 未成年误入\n喜欢可以赞助，不喜欢就算了\n🚪60进tg视裙\n粉丝群 https://t.co/qjSbPqrR7F\n视频预览裙 https://t.co/lzMHbRVvgh\n粉丝群不定期直播露出\n支持定制视频和原味\n没错我就是要爆金币",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/kaimang8611",
+                "end": 66,
+                "expanded_url": "http://t.me/kaimang8611",
+                "start": 43,
+                "url": "https://t.co/qjSbPqrR7F"
+              },
+              {
+                "display_url": "t.me/KAIMANG861",
+                "end": 96,
+                "expanded_url": "https://t.me/KAIMANG861",
+                "start": 73,
+                "url": "https://t.co/lzMHbRVvgh"
+              }
+            ]
+          }
+        },
+        "id": "1986352244581888000",
+        "is_identity_verified": false,
+        "location": "NONE",
+        "most_recent_tweet_id": "2097708906185458162",
+        "name": "盲目",
+        "pinned_tweet_id": "2074157029061779828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986352244581888000/1762419306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013633146911129601/_-OIdP6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6840,
+          "following_count": 2441,
+          "like_count": 7560,
+          "listed_count": 21,
+          "media_count": 161,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "kaimang861",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-27T01:48:43.000Z",
+        "description": "阿拉zn一个，喜男娘和女和小0，178/95kg，欺骗式减脂（ing），大学在读，兼职家教来拍片，想学摄影，剪辑，目标——剪出的作战记录能流芳百世，🙏每一个推友的关注",
+        "id": "1706848268859129856",
+        "is_identity_verified": false,
+        "location": "zj",
+        "most_recent_tweet_id": "2097709150990168176",
+        "name": "Monster.RG",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1706848268859129856/1760677150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943950983479910400/ipgEdd3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 1348,
+          "like_count": 5988,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 239
+        },
+        "url": "",
+        "username": "Guaishou59418",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

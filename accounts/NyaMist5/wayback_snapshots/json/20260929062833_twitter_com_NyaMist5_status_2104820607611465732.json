@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2104526676889608636",
+    "created_at": "2026-09-29T06:28:33.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T07:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104820607611465732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829502489227575296",
+          "start": 0,
+          "username": "C103ofsixteen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104820607611465732",
+    "in_reply_to_user_id": "1829502489227575296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104526676889608636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C103ofsixteen 上海要用英文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2104526676889608636",
+        "created_at": "2026-09-29T06:28:33.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T07:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104820607611465732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829502489227575296",
+              "start": 0,
+              "username": "C103ofsixteen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104820607611465732",
+        "in_reply_to_user_id": "1829502489227575296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104526676889608636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C103ofsixteen 上海要用英文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829502489227575296",
+        "conversation_id": "2104526676889608636",
+        "created_at": "2026-09-28T11:00:34.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104526676889608636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104526676889608636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "本群禁止事项:\n1.禁止地域黑\n2.禁止河南人在群里偷井盖\n3.禁止福建人在群里仙人跳\n4.禁止江西人在群里卖女儿\n5.禁止云南人在群里贩毒\n6.禁止黑龙江人在群里干仗\n7.禁止山东人在群里打女人\n8.禁止阜阳人在吃格拉条\n9.禁止陕西人在群里挖坟头\n10.禁止海南人在群里穿拖鞋\n11.禁止上海人在群里装逼\n12.禁止四川人在群里搞男同\n13.禁止新疆人在群里拿菜刀砍人\n14.禁止河北人在群里冒充北京人\n15.禁止北京人在群里打地道\n16.禁止湖南人在群里吃套餐\n17.禁止重庆人在群里吃辣椒\n18.禁止湖北人在群里吃蝙蝠\n19.禁止天津人在群里耍贫嘴\n20.禁止山西人在群里骗人去黑煤矿\n21.禁止内蒙人在群里卖假牛肉干\n22.禁止贵州人在群里卖辣条\n23.禁止江苏人在群里分裂成13个直辖市\n24.禁止西藏人在群里学认字\n25.禁止宁夏人在群里念古兰经\n26.禁止广西人在群里骑鬼火\n27.禁止吉林人在群里去海南偷豆角\n28.禁止甘肃人在群里用沙子洗澡\n29.禁止浙江人在群里开皮革厂\n30.禁止青海人在群里卖兰州拉面\n31.禁止辽宁人在群里开语音对骂\n32.禁止安徽人在群里泄洪\n33.禁止香港人在群里看恶俗港片\n34.禁止澳门人在群里赌博\n35.禁止台湾人在群里蛙叫"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本群禁止事项:\n1.禁止地域黑\n2.禁止河南人在群里偷井盖\n3.禁止福建人在群里仙人跳\n4.禁止江西人在群里卖女儿\n5.禁止云南人在群里贩毒\n6.禁止黑龙江人在群里干仗\n7.禁止山东人在群里打女人\n8.禁止阜阳人在吃格拉条\n9.禁止陕西人在群里挖坟头\n10.禁止海南人在群里穿拖鞋\n11.禁止上海人在群里装逼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2104820607611465732",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104215059241320448/TAi4VvLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 336,
+          "like_count": 1284,
+          "listed_count": 5,
+          "media_count": 292,
+          "tweet_count": 2453
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-30T12:52:50.000Z",
+        "description": "Lost Media | 🏳️‍⚧️ |Little @CatgirlMonhrx5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "CatgirlMonhrx5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bespoke-hamster-879987.netlify.app",
+                "end": 23,
+                "expanded_url": "https://bespoke-hamster-879987.netlify.app/",
+                "start": 0,
+                "url": "https://t.co/GMggPO9VHN"
+              }
+            ]
+          }
+        },
+        "id": "1829502489227575296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104723217881702531",
+        "name": "僧夏猫修🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2083938434360459319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829502489227575296/1788629853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094307369488613376/6fq9E4Zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 947,
+          "like_count": 7571,
+          "listed_count": 4,
+          "media_count": 2341,
+          "tweet_count": 6280
+        },
+        "url": "https://t.co/GMggPO9VHN",
+        "username": "C103ofsixteen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2104642051426201600"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2104642096737194472",
+    "created_at": "2026-09-28T18:39:12.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T19:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104642096737194472"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "娼年"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "药娘"
+        },
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "伪娘"
+        },
+        {
+          "end": 58,
+          "start": 54,
+          "tag": "男の娘"
+        },
+        {
+          "end": 66,
+          "start": 59,
+          "tag": "femboy"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 41,
+          "id": "2051936177628790784",
+          "start": 34,
+          "username": "WcAIYz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3FuM0iRhI2",
+          "end": 90,
+          "expanded_url": "https://x.com/NyaMist5/status/2104642096737194472/video/1",
+          "media_key": "13_2104642051426201600",
+          "start": 67,
+          "url": "https://t.co/3FuM0iRhI2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104642096737194472",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2104642051426201600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在外面不敢让人家叫就算了，连拍猫猫仙女棒插进去都不敢嘛～\n杂鱼猫猫：@WcAIYz\n#娼年 #药娘 #伪娘 #男の娘 #femboy https://t.co/3FuM0iRhI2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16726,
+        "height": 1280,
+        "media_key": "13_2104642051426201600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104642051426201600/img/2gu1tW5EeYX1n-Au.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104642051426201600/vid/avc1/320x568/kL7ClaBAhCwcg4E-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104642051426201600/vid/avc1/480x852/cyGXseOBOgXLK6Sj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104642051426201600/vid/avc1/720x1280/Tso2RKTHm0R9IT8N.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104642051426201600/pl/lS-Ov20brr-XXbCz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104642051426201600"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2104642096737194472",
+        "created_at": "2026-09-28T18:39:12.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T19:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104642096737194472"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "娼年"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "药娘"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "伪娘"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "男の娘"
+            },
+            {
+              "end": 66,
+              "start": 59,
+              "tag": "femboy"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 41,
+              "id": "2051936177628790784",
+              "start": 34,
+              "username": "WcAIYz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3FuM0iRhI2",
+              "end": 90,
+              "expanded_url": "https://x.com/NyaMist5/status/2104642096737194472/video/1",
+              "media_key": "13_2104642051426201600",
+              "start": 67,
+              "url": "https://t.co/3FuM0iRhI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104642096737194472",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2104642051426201600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在外面不敢让人家叫就算了，连拍猫猫仙女棒插进去都不敢嘛～\n杂鱼猫猫：@WcAIYz\n#娼年 #药娘 #伪娘 #男の娘 #femboy https://t.co/3FuM0iRhI2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2104642096737194472",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104215059241320448/TAi4VvLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 336,
+          "like_count": 1277,
+          "listed_count": 5,
+          "media_count": 291,
+          "tweet_count": 2438
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-06T08:04:58.000Z",
+        "description": "04\n小狗:@NyaMist5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "NyaMist5"
+              }
+            ]
+          }
+        },
+        "id": "2051936177628790784",
+        "is_identity_verified": false,
+        "location": "无锡滨湖",
+        "most_recent_tweet_id": "2101331987370000537",
+        "name": "叶叶子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051936177628790784/1786696567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103817609548595200/WJDRkKjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 3,
+          "like_count": 50,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "WcAIYz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

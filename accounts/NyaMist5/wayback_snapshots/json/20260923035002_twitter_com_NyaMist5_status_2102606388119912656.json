@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2102359594869858662",
+    "created_at": "2026-09-23T03:50:02.000Z",
+    "display_text_range": [
+      12,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T04:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102606388119912656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026612223788163072",
+          "start": 0,
+          "username": "Roikoyo_AI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102606388119912656",
+    "in_reply_to_user_id": "2026612223788163072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102359594869858662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Roikoyo_AI 耶和华喜欢帮助自己帮助自己之人，耶和华爱你，祂会一直帮助你，也请你不要放弃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102359582555435008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0U5sxa8AAntvU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2102359594869858662",
+        "created_at": "2026-09-23T03:50:02.000Z",
+        "display_text_range": [
+          12,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T04:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102606388119912656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026612223788163072",
+              "start": 0,
+              "username": "Roikoyo_AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102606388119912656",
+        "in_reply_to_user_id": "2026612223788163072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102359594869858662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Roikoyo_AI 耶和华喜欢帮助自己帮助自己之人，耶和华爱你，祂会一直帮助你，也请你不要放弃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102359582555435008"
+          ]
+        },
+        "author_id": "2026612223788163072",
+        "conversation_id": "2102359594869858662",
+        "created_at": "2026-09-22T11:29:22.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T12:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102359594869858662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K5eoGPf2Ga",
+              "end": 89,
+              "expanded_url": "https://x.com/Roikoyo_AI/status/2102359594869858662/photo/1",
+              "media_key": "3_2102359582555435008",
+              "start": 66,
+              "url": "https://t.co/K5eoGPf2Ga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102359594869858662",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102359582555435008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主，我该怎么办…\nSomething sacred seems to be getting lost…\n我似乎要被两股力量撕碎了… https://t.co/K5eoGPf2Ga"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/mtf/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 63,
+                "start": 56,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "无锡滨湖",
+        "most_recent_tweet_id": "2102606388119912656",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102229998719598592/kzHBr4aV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 348,
+          "like_count": 1227,
+          "listed_count": 6,
+          "media_count": 283,
+          "tweet_count": 2401
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-25T10:58:02.000Z",
+        "description": "Sept 27\n2027.06.26和我的姐姐nya~",
+        "id": "2026612223788163072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102359983417606234",
+        "name": "落霞寒漪🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2058923218283765914",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057136998369091587/cRS-pRoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 299,
+          "like_count": 3522,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 435
+        },
+        "url": "",
+        "username": "Roikoyo_AI",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2099482680546988535",
+    "created_at": "2026-09-15T01:12:44.000Z",
+    "display_text_range": [
+      29,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T02:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099667698917728295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1504671338790674435",
+          "start": 0,
+          "username": "WinnieXisDaddy"
+        },
+        {
+          "end": 28,
+          "id": "1660708799374843905",
+          "start": 16,
+          "username": "ggininder64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099667698917728295",
+    "in_reply_to_user_id": "1504671338790674435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099517070321017031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WinnieXisDaddy @ggininder64 国家社会主义工人党（bushi）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2099482680546988535",
+        "created_at": "2026-09-15T01:12:44.000Z",
+        "display_text_range": [
+          29,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T02:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099667698917728295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1504671338790674435",
+              "start": 0,
+              "username": "WinnieXisDaddy"
+            },
+            {
+              "end": 28,
+              "id": "1660708799374843905",
+              "start": 16,
+              "username": "ggininder64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099667698917728295",
+        "in_reply_to_user_id": "1504671338790674435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099517070321017031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WinnieXisDaddy @ggininder64 国家社会主义工人党（bushi）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504671338790674435",
+        "conversation_id": "2099482680546988535",
+        "created_at": "2026-09-14T15:14:11.000Z",
+        "display_text_range": [
+          13,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T16:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099517070321017031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1660708799374843905",
+              "start": 0,
+              "username": "ggininder64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099517070321017031",
+        "in_reply_to_user_id": "1660708799374843905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099482680546988535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggininder64 冷知识，其实法西斯按照实际做派和意识形态应该归左边"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/mtf/心境/新疆猫在无锡居住喵/🚪20\n/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz 同类扩列q：422174271）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 57,
+                "start": 50,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "↙️🍬私",
+        "most_recent_tweet_id": "2099667698917728295",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093727163434557441/50aKeHl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 348,
+          "like_count": 1171,
+          "listed_count": 6,
+          "media_count": 270,
+          "tweet_count": 2315
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-18T04:09:55.000Z",
+        "description": "语言/language/言語(勉強中)/｜键政倒脏水专用账号｜Bane of Arthropod V",
+        "id": "1504671338790674435",
+        "is_identity_verified": false,
+        "location": "People’s Republic of IDK",
+        "most_recent_tweet_id": "2099611383553990961",
+        "name": "习仲勋",
+        "pinned_tweet_id": "2025409640788623847",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504671338790674435/1651635629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740480741463715840/ACM2XD8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 487,
+          "like_count": 72657,
+          "listed_count": 24,
+          "media_count": 1542,
+          "tweet_count": 15600
+        },
+        "url": "",
+        "username": "WinnieXisDaddy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-22T18:06:53.000Z",
+        "description": "Republic of China (Taiwan) 🇹🇼\n\nAnti the CCP and pink\n\nAnti maga and alt right\n\npro🏳️‍🌈🏳️‍⚧️",
+        "id": "1660708799374843905",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099482680546988535",
+        "name": "史密斯🇹🇼🇯🇵🇰🇷",
+        "pinned_tweet_id": "1761700061531226282",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1660708799374843905/1708929461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062192041497673728/KSrVE3YZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2810,
+          "following_count": 6760,
+          "like_count": 66701,
+          "listed_count": 24,
+          "media_count": 2600,
+          "tweet_count": 31140
+        },
+        "url": "",
+        "username": "ggininder64",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

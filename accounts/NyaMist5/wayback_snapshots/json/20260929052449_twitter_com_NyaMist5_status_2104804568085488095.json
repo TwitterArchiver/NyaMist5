@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2104804090278785024"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2104804568085488095",
+    "created_at": "2026-09-29T05:24:49.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T06:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104804568085488095"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "娼年"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "男娘"
+        },
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "药娘"
+        },
+        {
+          "end": 58,
+          "start": 51,
+          "tag": "femboy"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 38,
+          "id": "2051936177628790784",
+          "start": 31,
+          "username": "WcAIYz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/II35bPbhZZ",
+          "end": 82,
+          "expanded_url": "https://x.com/NyaMist5/status/2104804568085488095/video/1",
+          "media_key": "13_2104804090278785024",
+          "start": 59,
+          "url": "https://t.co/II35bPbhZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104804568085488095",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2104804090278785024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "边打胶边被猫猫干是件超级爷们的事呢喵～\n被坐在下面的杂鱼猫猫：@WcAIYz\n#娼年 #男娘 #药娘 #femboy https://t.co/II35bPbhZZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40557,
+        "height": 720,
+        "media_key": "13_2104804090278785024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104804090278785024/img/xNHxk38AkzYskjb9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104804090278785024/vid/avc1/480x270/CyU--lenpNyXvfG_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104804090278785024/vid/avc1/640x360/x8jqeNUN2KEok6bz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104804090278785024/vid/avc1/1280x720/lhiekxfOERM4cBaw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104804090278785024/pl/20APVN8hKT2t7c2j.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104804090278785024"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2104804568085488095",
+        "created_at": "2026-09-29T05:24:49.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104804568085488095"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "娼年"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "男娘"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "药娘"
+            },
+            {
+              "end": 58,
+              "start": 51,
+              "tag": "femboy"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 38,
+              "id": "2051936177628790784",
+              "start": 31,
+              "username": "WcAIYz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/II35bPbhZZ",
+              "end": 82,
+              "expanded_url": "https://x.com/NyaMist5/status/2104804568085488095/video/1",
+              "media_key": "13_2104804090278785024",
+              "start": 59,
+              "url": "https://t.co/II35bPbhZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104804568085488095",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2104804090278785024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "边打胶边被猫猫干是件超级爷们的事呢喵～\n被坐在下面的杂鱼猫猫：@WcAIYz\n#娼年 #男娘 #药娘 #femboy https://t.co/II35bPbhZZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2104804568085488095",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104215059241320448/TAi4VvLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 336,
+          "like_count": 1281,
+          "listed_count": 5,
+          "media_count": 292,
+          "tweet_count": 2444
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-06T08:04:58.000Z",
+        "description": "04\n小狗:@NyaMist5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "NyaMist5"
+              }
+            ]
+          }
+        },
+        "id": "2051936177628790784",
+        "is_identity_verified": false,
+        "location": "无锡滨湖",
+        "most_recent_tweet_id": "2104643408254181460",
+        "name": "叶叶子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051936177628790784/1786696567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103817609548595200/WJDRkKjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 4,
+          "like_count": 51,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "WcAIYz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

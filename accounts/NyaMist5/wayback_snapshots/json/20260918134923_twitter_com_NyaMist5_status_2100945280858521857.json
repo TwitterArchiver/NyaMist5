@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2100945280858521857",
+    "created_at": "2026-09-18T13:49:23.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T14:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100945280858521857"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiujiuSama8512…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/jiujiuSama8512/status/2100212794528604249",
+          "start": 14,
+          "url": "https://t.co/44SRF13J7L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100945280858521857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100212794528604249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "侬摆说，真像（bushi） https://t.co/44SRF13J7L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1060,
+        "media_key": "3_2100212787742130176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSV0Zy4aQAAkoLq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2100945280858521857",
+        "created_at": "2026-09-18T13:49:23.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100945280858521857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiujiuSama8512…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/jiujiuSama8512/status/2100212794528604249",
+              "start": 14,
+              "url": "https://t.co/44SRF13J7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100945280858521857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100212794528604249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "侬摆说，真像（bushi） https://t.co/44SRF13J7L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100212787742130176"
+          ]
+        },
+        "author_id": "1923225863602294784",
+        "conversation_id": "2100212794528604249",
+        "created_at": "2026-09-16T13:18:44.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T14:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100212794528604249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9OYX67wSYW",
+              "end": 29,
+              "expanded_url": "https://x.com/jiujiuSama8512/status/2100212794528604249/photo/1",
+              "media_key": "3_2100212787742130176",
+              "start": 6,
+              "url": "https://t.co/9OYX67wSYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100212794528604249",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100212787742130176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就长这样 https://t.co/9OYX67wSYW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/mtf/心境/新疆猫在无锡居住喵/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz （同类扩列q：422174271）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 62,
+                "start": 55,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "↙️🍬私",
+        "most_recent_tweet_id": "2100945280858521857",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100530233611038720/zrpr5DdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 347,
+          "like_count": 1191,
+          "listed_count": 6,
+          "media_count": 274,
+          "tweet_count": 2339
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-16T03:55:58.000Z",
+        "description": "09年木桶饭，173/62kg 高三牲，欢迎同类互fo，家长不管党，老公公@N_F_B_X-忧郁意识流药娘，负能警告⚠️，HRT2024.7.12。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "N_F_B_X"
+              }
+            ]
+          }
+        },
+        "id": "1923225863602294784",
+        "is_identity_verified": false,
+        "location": "❣️-520",
+        "most_recent_tweet_id": "2100941681864671263",
+        "name": "梓玖玖～🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1923225863602294784/1779420137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962168976668307457/zf9I-jll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 237,
+          "like_count": 203,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 1433
+        },
+        "url": "",
+        "username": "jiujiuSama8512",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100461374749253632"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2100461416360943769",
+    "created_at": "2026-09-17T05:46:41.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T06:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100461416360943769"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "男娘"
+        },
+        {
+          "end": 33,
+          "start": 26,
+          "tag": "femboy"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "男の娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jYlteV4u1N",
+          "end": 62,
+          "expanded_url": "https://x.com/NyaMist5/status/2100461416360943769/video/1",
+          "media_key": "13_2100461374749253632",
+          "start": 39,
+          "url": "https://t.co/jYlteV4u1N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100461416360943769",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2100461374749253632"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "事实证明，起泡胶真的很好做，用啥做的你别管 #男娘 #femboy #男の娘 https://t.co/jYlteV4u1N"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24001,
+        "height": 1280,
+        "media_key": "13_2100461374749253632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100461374749253632/img/KEyVK_Et4-3Qc70l.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100461374749253632/vid/avc1/320x568/3oIAAEDKTaBkUGhl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100461374749253632/vid/avc1/480x852/8xsWKlsB7JNeTHde.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100461374749253632/vid/avc1/720x1280/GZL8xRgqaCtLYJm5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100461374749253632/pl/4snhNEYPnmCfUYhy.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100461374749253632"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2100461416360943769",
+        "created_at": "2026-09-17T05:46:41.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T06:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100461416360943769"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "男娘"
+            },
+            {
+              "end": 33,
+              "start": 26,
+              "tag": "femboy"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jYlteV4u1N",
+              "end": 62,
+              "expanded_url": "https://x.com/NyaMist5/status/2100461416360943769/video/1",
+              "media_key": "13_2100461374749253632",
+              "start": 39,
+              "url": "https://t.co/jYlteV4u1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100461416360943769",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2100461374749253632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事实证明，起泡胶真的很好做，用啥做的你别管 #男娘 #femboy #男の娘 https://t.co/jYlteV4u1N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/mtf/心境/新疆猫在无锡居住喵/🚪20\n/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz 同类扩列q：422174271）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 57,
+                "start": 50,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "↙️🍬私",
+        "most_recent_tweet_id": "2100461417669480459",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093727163434557441/50aKeHl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 348,
+          "like_count": 1182,
+          "listed_count": 6,
+          "media_count": 272,
+          "tweet_count": 2322
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

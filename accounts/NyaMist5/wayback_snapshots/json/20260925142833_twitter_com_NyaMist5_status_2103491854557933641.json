@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2103374996718715361",
+    "created_at": "2026-09-25T14:28:33.000Z",
+    "display_text_range": [
+      16,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T15:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103491854557933641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1923225863602294784",
+          "start": 0,
+          "username": "jiujiuSama8512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103491854557933641",
+    "in_reply_to_user_id": "1923225863602294784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103374996718715361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiujiuSama8512 ⁠⁠玩‍⁠⁠⁠⁠归‌⁠‍玩‍‍‍‌闹‍‌⁠‌归‍‌‌‍闹⁠‍⁠🌷‍‌‍🐌⁠⁠⁠给⁠‌你⁠⁠⁠⁠‌‌看‌‌⁠‌福‍⁠‍我⁠⁠⁠⁠‌‍不‍‌‌⁠‌开‌‍⁠‌玩‌⁠‌⁠笑‍‌‌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2103374996718715361",
+        "created_at": "2026-09-25T14:28:33.000Z",
+        "display_text_range": [
+          16,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T15:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103491854557933641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1923225863602294784",
+              "start": 0,
+              "username": "jiujiuSama8512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103491854557933641",
+        "in_reply_to_user_id": "1923225863602294784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103374996718715361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiujiuSama8512 ⁠⁠玩‍⁠⁠⁠⁠归‌⁠‍玩‍‍‍‌闹‍‌⁠‌归‍‌‌‍闹⁠‍⁠🌷‍‌‍🐌⁠⁠⁠给⁠‌你⁠⁠⁠⁠‌‌看‌‌⁠‌福‍⁠‍我⁠⁠⁠⁠‌‍不‍‌‌⁠‌开‌‍⁠‌玩‌⁠‌⁠笑‍‌‌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923225863602294784",
+        "conversation_id": "2103374996718715361",
+        "created_at": "2026-09-25T06:44:12.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T07:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103374996718715361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103374996718715361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 428,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是唐毓文\n我真的要急哭了\n我号被封了6天 但大家知道我特别依赖推特社交的 不然就会很难受\n我可以征用梓玖玖～的号嘛..\n会不会被骂成筛子.....\n（我是串b）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/mtf/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 63,
+                "start": 56,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2103491854557933641",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102229998719598592/kzHBr4aV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 348,
+          "like_count": 1257,
+          "listed_count": 6,
+          "media_count": 286,
+          "tweet_count": 2417
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-16T03:55:58.000Z",
+        "description": "09年木桶饭，173/62kg 高三牲，欢迎同类互fo，家长不管党，老公公@N_F_B_X-忧郁意识流药娘，负能警告⚠️，HRT2024.7.12。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "N_F_B_X"
+              }
+            ]
+          }
+        },
+        "id": "1923225863602294784",
+        "is_identity_verified": false,
+        "location": "❣️-520",
+        "most_recent_tweet_id": "2103474712211063110",
+        "name": "梓玖玖～🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1923225863602294784/1779420137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962168976668307457/zf9I-jll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 240,
+          "like_count": 210,
+          "listed_count": 2,
+          "media_count": 253,
+          "tweet_count": 1562
+        },
+        "url": "",
+        "username": "jiujiuSama8512",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

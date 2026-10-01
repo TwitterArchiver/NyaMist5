@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2104538132523941888"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2104538187255214469",
+    "created_at": "2026-09-28T11:46:18.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T12:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104538187255214469"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "femboy"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "男娘"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "药娘"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "娼年"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/28H901LlTY",
+          "end": 61,
+          "expanded_url": "https://x.com/NyaMist5/status/2104538187255214469/video/1",
+          "media_key": "13_2104538132523941888",
+          "start": 38,
+          "url": "https://t.co/28H901LlTY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104538187255214469",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2104538132523941888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "www，老公，等会能轻点嘛……🥺🥺🥺#femboy #男娘 #药娘 #娼年 https://t.co/28H901LlTY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8849,
+        "height": 1280,
+        "media_key": "13_2104538132523941888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104538132523941888/img/w-2lNXacycPtM8Im.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104538132523941888/vid/avc1/320x568/dGZO0RnZob-WaJ1o.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104538132523941888/vid/avc1/480x852/3vCEbNG1IcZAWLav.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104538132523941888/vid/avc1/720x1280/xg2VRMdYHltEz9aF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104538132523941888/pl/TK54lkXtApyrjKkg.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104538132523941888"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2104538187255214469",
+        "created_at": "2026-09-28T11:46:18.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104538187255214469"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "femboy"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "男娘"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "药娘"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "娼年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/28H901LlTY",
+              "end": 61,
+              "expanded_url": "https://x.com/NyaMist5/status/2104538187255214469/video/1",
+              "media_key": "13_2104538132523941888",
+              "start": 38,
+              "url": "https://t.co/28H901LlTY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104538187255214469",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2104538132523941888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "www，老公，等会能轻点嘛……🥺🥺🥺#femboy #男娘 #药娘 #娼年 https://t.co/28H901LlTY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2104538187255214469",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104215059241320448/TAi4VvLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 336,
+          "like_count": 1275,
+          "listed_count": 5,
+          "media_count": 290,
+          "tweet_count": 2435
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

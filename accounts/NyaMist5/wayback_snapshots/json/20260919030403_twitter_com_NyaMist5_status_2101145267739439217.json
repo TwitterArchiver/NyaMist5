@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2101116879091720213",
+    "created_at": "2026-09-19T03:04:03.000Z",
+    "display_text_range": [
+      24,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T04:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101145267739439217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1827293756661571584",
+          "start": 0,
+          "username": "aizhenxunjiang"
+        },
+        {
+          "end": 23,
+          "id": "2051936177628790784",
+          "start": 16,
+          "username": "WcAIYz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101145267739439217",
+    "in_reply_to_user_id": "1827293756661571584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101142229524082727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aizhenxunjiang @WcAIYz 你要干什么😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2101116879091720213",
+        "created_at": "2026-09-19T03:04:03.000Z",
+        "display_text_range": [
+          24,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T04:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101145267739439217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1827293756661571584",
+              "start": 0,
+              "username": "aizhenxunjiang"
+            },
+            {
+              "end": 23,
+              "id": "2051936177628790784",
+              "start": 16,
+              "username": "WcAIYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101145267739439217",
+        "in_reply_to_user_id": "1827293756661571584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101142229524082727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aizhenxunjiang @WcAIYz 你要干什么😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827293756661571584",
+        "conversation_id": "2101116879091720213",
+        "created_at": "2026-09-19T02:51:59.000Z",
+        "display_text_range": [
+          18,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T03:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101142229524082727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            },
+            {
+              "end": 17,
+              "id": "2051936177628790784",
+              "start": 10,
+              "username": "WcAIYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101142229524082727",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101116879091720213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 @WcAIYz 好想拍一下"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/mtf/心境/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n（同类同好扩列q：422174271）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 61,
+                "start": 54,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "↙️🍬私",
+        "most_recent_tweet_id": "2101145267739439217",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100980703861391360/-co3sIql_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 347,
+          "like_count": 1192,
+          "listed_count": 6,
+          "media_count": 276,
+          "tweet_count": 2345
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-24T10:36:38.000Z",
+        "description": "mtf｜hrt2025.02.28｜07｜家长党｜互fo私信｜坐标南京｜备用X：@yuxiyaokuaileo｜TG：@yuxiyaokuaileo｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 40,
+                "username": "yuxiyaokuaileo"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "yuxiyaokuaileo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuxiyaokuaileo",
+                "end": 23,
+                "expanded_url": "https://t.me/yuxiyaokuaileo",
+                "start": 0,
+                "url": "https://t.co/5cUpslfkSr"
+              }
+            ]
+          }
+        },
+        "id": "1827293756661571584",
+        "is_identity_verified": false,
+        "location": "南京",
+        "most_recent_tweet_id": "2101142229524082727",
+        "name": "雨汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2046170676864934354",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827293756661571584/1744150029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960119314624991232/l-JCZqJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 1071,
+          "like_count": 412,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 539
+        },
+        "url": "https://t.co/5cUpslfkSr",
+        "username": "aizhenxunjiang",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-06T08:04:58.000Z",
+        "description": "04年/mtf\n小狗:@NyaMist5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "NyaMist5"
+              }
+            ]
+          }
+        },
+        "id": "2051936177628790784",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2100725092418564296",
+        "name": "叶叶子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051936177628790784/1786696567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101117808063172608/yba_J-1j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 7,
+          "like_count": 48,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "WcAIYz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

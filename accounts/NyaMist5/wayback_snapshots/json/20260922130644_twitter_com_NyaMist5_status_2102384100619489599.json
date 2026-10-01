@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2099700317571129668",
+    "created_at": "2026-09-22T13:06:44.000Z",
+    "display_text_range": [
+      13,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T14:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102384100619489599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2097500607741562880",
+          "start": 0,
+          "username": "Grinin_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102384100619489599",
+    "in_reply_to_user_id": "2097500607741562880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099700317571129668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grinin_chan 恭喜欸！（咱被赵博排到了28年3月的说）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2099700317571129668",
+        "created_at": "2026-09-22T13:06:44.000Z",
+        "display_text_range": [
+          13,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T14:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102384100619489599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2097500607741562880",
+              "start": 0,
+              "username": "Grinin_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102384100619489599",
+        "in_reply_to_user_id": "2097500607741562880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099700317571129668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grinin_chan 恭喜欸！（咱被赵博排到了28年3月的说）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2097500607741562880",
+        "conversation_id": "2099700317571129668",
+        "created_at": "2026-09-15T03:22:20.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099700317571129668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099700317571129668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "排期了排期了，27年7月awa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/mtf/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 63,
+                "start": 56,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "无锡滨湖",
+        "most_recent_tweet_id": "2102384100619489599",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102229998719598592/kzHBr4aV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 348,
+          "like_count": 1222,
+          "listed_count": 6,
+          "media_count": 281,
+          "tweet_count": 2388
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-09T01:42:32.000Z",
+        "description": "🍰2007.2.2\nHRT 2023.8.23\nINFP\n转生@Grinin_mark",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Grinin_mark"
+              }
+            ]
+          }
+        },
+        "id": "2097500607741562880",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2101885355121352752",
+        "name": "Grin（二代目）🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2097500607741562880/1788918377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097501143790481408/xVhMzNL3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 80,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "Grinin_chan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

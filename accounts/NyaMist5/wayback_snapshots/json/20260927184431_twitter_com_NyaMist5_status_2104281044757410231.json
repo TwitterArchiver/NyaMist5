@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2104281044757410231",
+    "created_at": "2026-09-27T18:44:31.000Z",
+    "display_text_range": [
+      0,
+      160
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T19:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104281044757410231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bungeikuuhakuk…",
+          "end": 184,
+          "expanded_url": "https://twitter.com/bungeikuuhakuko/status/2104180667927916892",
+          "start": 161,
+          "url": "https://t.co/88yz63S1ag"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104281044757410231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104180667927916892",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我磕过的😋😋\n大麻         ？（喝过有成分的饮料算吗）\n可卡因    ❌\n香烟         ✅\nLSD            ✅\n电子烟     ✅\n药丸          ❌\n各种毒品❌\n伏特加     ✅\n啤酒          ✅\nfernet        ❌\n葡萄酒     ✅\n摇头丸     ❌ https://t.co/88yz63S1ag"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2104281044757410231",
+        "created_at": "2026-09-27T18:44:31.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104281044757410231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bungeikuuhakuk…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/bungeikuuhakuko/status/2104180667927916892",
+              "start": 161,
+              "url": "https://t.co/88yz63S1ag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104281044757410231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104180667927916892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我磕过的😋😋\n大麻         ？（喝过有成分的饮料算吗）\n可卡因    ❌\n香烟         ✅\nLSD            ✅\n电子烟     ✅\n药丸          ❌\n各种毒品❌\n伏特加     ✅\n啤酒          ✅\nfernet        ❌\n葡萄酒     ✅\n摇头丸     ❌ https://t.co/88yz63S1ag"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2104180667927916892",
+        "created_at": "2026-09-27T12:05:39.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104180667927916892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NL8526/status/…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/NL8526/status/2104176880727585038",
+              "start": 149,
+              "url": "https://t.co/cD81WzBvz5"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2104180667927916892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104176880727585038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我磕过的😋😋\n大麻         ❌\n可卡因    ❌\n香烟         ✅\nLSD            ❌\n电子烟     ❌\n药丸          ❌\n各种毒品❌\n伏特加     ✅\n啤酒          ✅\nfernet        ❌\n葡萄酒     ✅\n摇头丸     ❌ https://t.co/cD81WzBvz5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2104281044757410231",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104215059241320448/TAi4VvLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 337,
+          "like_count": 1270,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 2428
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 08年文科高三生｜百合豚、蘿莉控、男孩紙\n｜在粵Cantonese｜推特不知名小說家（文藝者？\n｜日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 54,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "インターネット🇭🇰🇯🇵",
+        "most_recent_tweet_id": "2104253453623291907",
+        "name": "文芸_空白子✨",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1790511716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104068135636934656/0WyiXoO8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2135,
+          "following_count": 318,
+          "like_count": 12213,
+          "listed_count": 3,
+          "media_count": 505,
+          "tweet_count": 3817
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuuhakuko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
