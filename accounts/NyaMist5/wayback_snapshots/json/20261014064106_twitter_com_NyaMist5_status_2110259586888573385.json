@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2110224880113459217",
+    "created_at": "2026-10-14T06:41:06.000Z",
+    "display_text_range": [
+      13,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-14T07:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110259586888573385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2086703565448564736",
+          "start": 0,
+          "username": "You_Takashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110259586888573385",
+    "in_reply_to_user_id": "2086703565448564736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110224880113459217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@You_Takashi 有没有种可能不会刻意说出来？而且回族这个身份说出来也会被刻板印象轰炸的吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2110224880113459217",
+        "created_at": "2026-10-14T06:41:06.000Z",
+        "display_text_range": [
+          13,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T07:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110259586888573385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2086703565448564736",
+              "start": 0,
+              "username": "You_Takashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110259586888573385",
+        "in_reply_to_user_id": "2086703565448564736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110224880113459217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@You_Takashi 有没有种可能不会刻意说出来？而且回族这个身份说出来也会被刻板印象轰炸的吧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086703565448564736",
+        "conversation_id": "2110224880113459217",
+        "created_at": "2026-10-14T04:23:12.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T05:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110224880113459217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2110224880113459217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3784,
+          "like_count": 23,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然意识到了一个问题，平常在现实中互联网上接触到的中国跨性别几乎都是汉族，为什么几乎看不到维吾尔族藏族或者其他少数民族跨性别呢？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/江南雌狮/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72XdC"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2110259586888573385",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109635714933768192/oBhOKHeo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2376,
+          "following_count": 316,
+          "like_count": 1466,
+          "listed_count": 8,
+          "media_count": 311,
+          "tweet_count": 2579
+        },
+        "url": "https://t.co/doW5Y72XdC",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T06:39:06.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜19岁 190cm 85kg｜she/they｜泛性恋｜就读于云南民族大学｜初次HRT 26.07.28 二次HRT 26.10.13｜小证4张｜双相｜逃出过精神病院｜想切蛋｜想去北海道｜护照被晶哥扣押中😡\nTEL:+86 16608775256\nEMALL:3107410449@qq.com",
+        "id": "2086703565448564736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110252184646652101",
+        "name": "杨崇志 You Takashi🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086703565448564736/1790478315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086704024263471104/N-YZsC4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 37,
+          "like_count": 823,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 263
+        },
+        "url": "",
+        "username": "You_Takashi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

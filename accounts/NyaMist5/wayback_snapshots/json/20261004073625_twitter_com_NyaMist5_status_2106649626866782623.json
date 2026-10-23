@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2106553886148604046",
+    "created_at": "2026-10-04T07:36:25.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T08:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106649626866782623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1516360170753839110",
+          "start": 0,
+          "username": "shinong6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106649626866782623",
+    "in_reply_to_user_id": "1516360170753839110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106553886148604046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinong6 这么厉害😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 98499,
+        "height": 720,
+        "media_key": "13_2106553781936947200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106553781936947200/img/zbIEnSh0GKTOU_q1.jpg",
+        "public_metrics": {
+          "view_count": 2402
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106553781936947200/vid/avc1/480x270/5JTwOiXnwgBRLbkl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106553781936947200/vid/avc1/640x360/3E1z0vh7yucctfJD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106553781936947200/vid/avc1/1280x720/kz3hG3e0CbZ01cj1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106553781936947200/pl/M_mwpex9LBP_eOJd.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2106553886148604046",
+        "created_at": "2026-10-04T07:36:25.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T08:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106649626866782623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1516360170753839110",
+              "start": 0,
+              "username": "shinong6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106649626866782623",
+        "in_reply_to_user_id": "1516360170753839110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106553886148604046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinong6 这么厉害😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106553781936947200"
+          ]
+        },
+        "author_id": "1516360170753839110",
+        "conversation_id": "2106553886148604046",
+        "created_at": "2026-10-04T01:15:58.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T02:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106553886148604046"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "伪娘"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MsEQvoaY1P",
+              "end": 87,
+              "expanded_url": "https://x.com/shinong6/status/2106553886148604046/video/1",
+              "media_key": "13_2106553781936947200",
+              "start": 64,
+              "url": "https://t.co/MsEQvoaY1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106553886148604046",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2106553781936947200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 3623,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "在老家休息，无聊的时候研究看涩涩内容到自己的性欲暴涨，结果在无任何玩具的情况下仅靠一根笔就射了，真是有够杂鱼捏\n#伪娘 #男娘 https://t.co/MsEQvoaY1P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2106649626866782623",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104215059241320448/TAi4VvLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1732,
+          "following_count": 326,
+          "like_count": 1369,
+          "listed_count": 5,
+          "media_count": 301,
+          "tweet_count": 2508
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-19T10:17:01.000Z",
+        "description": "杭州，178cm/74kg，欢迎互fo互推｜欢迎同好扩列qq3484677471，cos图与原清晰度视频均会永久提供｜非同好🚪50，对应推上账号无更新女装日常的联系方式将视为非同好，添加好友时未过🚪自动忽略｜可通过赞赏码投喂，增加我的涩涩动力",
+        "id": "1516360170753839110",
+        "is_identity_verified": false,
+        "location": "你的身下",
+        "most_recent_tweet_id": "2106621056744296595",
+        "name": "诗浓",
+        "pinned_tweet_id": "2025198543972303244",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1516360170753839110/1759576646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974433674839064576/HCc-ot4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7324,
+          "following_count": 686,
+          "like_count": 109,
+          "listed_count": 38,
+          "media_count": 210,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "shinong6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

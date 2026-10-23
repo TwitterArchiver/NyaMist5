@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2109953124668785129",
+    "created_at": "2026-10-14T03:17:18.000Z",
+    "display_text_range": [
+      14,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-14T04:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110208298419122554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1746045679993311232",
+          "start": 0,
+          "username": "han_bai53275"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110208298419122554",
+    "in_reply_to_user_id": "1746045679993311232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109953124668785129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@han_bai53275 好涩喵（话说咪就是新疆人）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28744,
+        "height": 1280,
+        "media_key": "13_2109953066003042304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2109953066003042304/img/amDAkjC74_e1SgA8.jpg",
+        "public_metrics": {
+          "view_count": 35350
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109953066003042304/vid/avc1/320x568/mEGxODD3LCYCmhyn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109953066003042304/vid/avc1/480x852/p-sc-NRydvsNYR2i.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109953066003042304/vid/avc1/720x1280/n0qjXcZir27PYXMe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2109953066003042304/pl/SOxqESCFj-Z5XQS5.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2109953124668785129",
+        "created_at": "2026-10-14T03:17:18.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T04:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110208298419122554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1746045679993311232",
+              "start": 0,
+              "username": "han_bai53275"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110208298419122554",
+        "in_reply_to_user_id": "1746045679993311232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109953124668785129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@han_bai53275 好涩喵（话说咪就是新疆人）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2109953066003042304"
+          ]
+        },
+        "author_id": "1746045679993311232",
+        "conversation_id": "2109953124668785129",
+        "created_at": "2026-10-13T10:23:20.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T11:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109953124668785129"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "男娘"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "伪娘"
+            },
+            {
+              "end": 60,
+              "start": 53,
+              "tag": "femboy"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "西域"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "历史"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kbmHuwC2Mw",
+              "end": 92,
+              "expanded_url": "https://x.com/han_bai53275/status/2109953124668785129/video/1",
+              "media_key": "13_2109953066003042304",
+              "start": 69,
+              "url": "https://t.co/kbmHuwC2Mw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109953124668785129",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2109953066003042304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1897,
+          "impression_count": 54239,
+          "like_count": 3930,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 272
+        },
+        "reply_settings": "everyone",
+        "text": "怪不得老祖宗一定要征战西域！😈\n诶朋友，美丽的西域衣服穿起来，你的嘴巴我高铁一样的进入。\n#男娘 #伪娘 #femboy #西域 #历史 https://t.co/kbmHuwC2Mw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/江南雌狮/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72XdC"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2110208298419122554",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109635714933768192/oBhOKHeo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2317,
+          "following_count": 316,
+          "like_count": 1464,
+          "listed_count": 6,
+          "media_count": 311,
+          "tweet_count": 2577
+        },
+        "url": "https://t.co/doW5Y72XdC",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-13T05:45:31.000Z",
+        "description": "些许风霜些许愁，无足之鸟不回头。\n带我重回巅峰吧（咱是诗宝重生）\n解锁课表五十哦,可以寄拍哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+J9Tzaq_ZL8g3M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+J9Tzaq_ZL8g3MWM1",
+                "start": 0,
+                "url": "https://t.co/h6sbrch3yW"
+              }
+            ]
+          }
+        },
+        "id": "1746045679993311232",
+        "is_identity_verified": false,
+        "location": "纠缠的心",
+        "most_recent_tweet_id": "2109953124668785129",
+        "name": "猫猫肉松（诗夺舍版）",
+        "pinned_tweet_id": "2055637504896999539",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746045679993311232/1713512197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746046300943196160/yjz2arQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48314,
+          "following_count": 1227,
+          "like_count": 3087,
+          "listed_count": 181,
+          "media_count": 65,
+          "tweet_count": 1141
+        },
+        "url": "https://t.co/h6sbrch3yW",
+        "username": "han_bai53275",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

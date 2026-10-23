@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2107047202581590187",
+    "created_at": "2026-10-05T19:37:40.000Z",
+    "display_text_range": [
+      20,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T20:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107193524852846927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "256876718",
+          "start": 0,
+          "username": "evix699"
+        },
+        {
+          "end": 19,
+          "id": "2004453066653999104",
+          "start": 9,
+          "username": "luoju1524"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107193524852846927",
+    "in_reply_to_user_id": "256876718",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107047202581590187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@evix699 @luoju1524 我去，牢洛挨凿了！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54000,
+        "height": 720,
+        "media_key": "13_2107046946557014017",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107046946557014017/img/LIwYvdK0L5Zbd34Y.jpg",
+        "public_metrics": {
+          "view_count": 1061
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107046946557014017/vid/avc1/480x270/AYBG4TUkLCPn2ZEr.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107046946557014017/vid/avc1/640x360/l46f-T9z33EgWnbS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107046946557014017/vid/avc1/1280x720/blRkim7xD3nm4b08.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107046946557014017/pl/NtKElGR-z83CMHoY.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2107047202581590187",
+        "created_at": "2026-10-05T19:37:40.000Z",
+        "display_text_range": [
+          20,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T20:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107193524852846927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "256876718",
+              "start": 0,
+              "username": "evix699"
+            },
+            {
+              "end": 19,
+              "id": "2004453066653999104",
+              "start": 9,
+              "username": "luoju1524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107193524852846927",
+        "in_reply_to_user_id": "256876718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107047202581590187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@evix699 @luoju1524 我去，牢洛挨凿了！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107046946557014017"
+          ]
+        },
+        "author_id": "256876718",
+        "conversation_id": "2107047202581590187",
+        "created_at": "2026-10-05T09:56:14.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T10:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107047202581590187"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "男娘"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "伪娘"
+            },
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "男の娘"
+            },
+            {
+              "end": 143,
+              "start": 137,
+              "tag": "sissy"
+            },
+            {
+              "end": 151,
+              "start": 144,
+              "tag": "femboy"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2004453066653999104",
+              "start": 5,
+              "username": "luoju1524"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2O9yFdbnjp",
+              "end": 175,
+              "expanded_url": "https://x.com/evix699/status/2107047202581590187/video/1",
+              "media_key": "13_2107046946557014017",
+              "start": 152,
+              "url": "https://t.co/2O9yFdbnjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107047202581590187",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2107046946557014017"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2271,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "唔姆，洛橘@luoju1524说我的牛牛的形状很适合后入欸，把洛橘艹得都嗷嗷叫了呢\nうーん、ロージュさんは私のペニスの形は後ろからがすごく合うって言って、ロージュさんをめっちゃ喘がせちゃったね\nI'm only 5km away from you\n#男娘 #伪娘 #男の娘　#sissy #femboy https://t.co/2O9yFdbnjp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2107193524852846927",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104215059241320448/TAi4VvLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1737,
+          "following_count": 325,
+          "like_count": 1391,
+          "listed_count": 5,
+          "media_count": 304,
+          "tweet_count": 2519
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-02-24T07:29:39.000Z",
+        "description": "全平台同名，可互fo互推，🚪50\n戦闘機、戦車、戦艦、鉄道などが大好き\n好きな曲はやラララ、しゃん・だら・りん、take me hand\nよろしくお願いいたします！\nqq：2260998643　抖音：69178002506",
+        "id": "256876718",
+        "is_identity_verified": false,
+        "location": "5.6 miles away",
+        "most_recent_tweet_id": "2107087956779688076",
+        "name": "拧発条枝桔梗贰号機",
+        "pinned_tweet_id": "2053795916759670868",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/256876718/1778591033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053101773913837569/yJaO2vPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10077,
+          "following_count": 1110,
+          "like_count": 10100,
+          "listed_count": 9,
+          "media_count": 297,
+          "tweet_count": 3834
+        },
+        "url": "",
+        "username": "evix699",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T07:24:00.000Z",
+        "description": "男娘猛1 也可以0 男娘贴贴喵\n这里有日常女装、涩涩图片、作战记录…\n坐标南京\n扩列的话q2121319163可以直接加，私信不一定看到。",
+        "id": "2004453066653999104",
+        "is_identity_verified": false,
+        "location": "🚪50r喵，扩列不需要，想看更多涩图作战记录赞助喵",
+        "most_recent_tweet_id": "2103468042642739215",
+        "name": "洛橘",
+        "pinned_tweet_id": "2065394320723804459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004453066653999104/1766905745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005174145597014020/He6So_DE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5949,
+          "following_count": 1084,
+          "like_count": 2413,
+          "listed_count": 22,
+          "media_count": 68,
+          "tweet_count": 712
+        },
+        "url": "",
+        "username": "luoju1524",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

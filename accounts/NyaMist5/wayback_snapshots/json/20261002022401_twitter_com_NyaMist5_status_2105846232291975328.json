@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2105728822121468064",
+    "created_at": "2026-10-02T02:24:01.000Z",
+    "display_text_range": [
+      8,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T03:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105846232291975328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2045513838850641921",
+          "start": 0,
+          "username": "intqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105846232291975328",
+    "in_reply_to_user_id": "2045513838850641921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105728822121468064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@intqwq 好多人我去😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2105728797509341184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTkNL0ja0AAN3co.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2105728822121468064",
+        "created_at": "2026-10-02T02:24:01.000Z",
+        "display_text_range": [
+          8,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T03:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105846232291975328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "intqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105846232291975328",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105728822121468064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@intqwq 好多人我去😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105728797509341184"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2105728822121468064",
+        "created_at": "2026-10-01T18:37:28.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T19:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105728822121468064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vg3xDRx9w4",
+              "end": 29,
+              "expanded_url": "https://x.com/intqwq/status/2105728822121468064/photo/1",
+              "media_key": "3_2105728797509341184",
+              "start": 6,
+              "url": "https://t.co/Vg3xDRx9w4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105728822121468064",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105728797509341184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超级大贴贴 https://t.co/Vg3xDRx9w4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2105846232291975328",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104215059241320448/TAi4VvLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 325,
+          "like_count": 1333,
+          "listed_count": 5,
+          "media_count": 297,
+          "tweet_count": 2494
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "恭喜你发现了宝藏（并非）｜开发者｜交易员｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Entia non sunt multiplicanda praeter necessitatem",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQHo8o"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2105831883636703517",
+        "name": "数原律",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095807561278857216/tbEp3e78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3464,
+          "following_count": 783,
+          "like_count": 5112,
+          "listed_count": 5,
+          "media_count": 1115,
+          "tweet_count": 2416
+        },
+        "url": "https://t.co/xVU9kQHo8o",
+        "username": "intqwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

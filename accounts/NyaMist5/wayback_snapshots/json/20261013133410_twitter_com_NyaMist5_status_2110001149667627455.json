@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2109793260483027403",
+    "created_at": "2026-10-13T13:34:10.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T14:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110001149667627455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1648991253361745922",
+          "start": 0,
+          "username": "rankaaiyume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110001149667627455",
+    "in_reply_to_user_id": "1648991253361745922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109793260483027403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rankaaiyume 排除苏州"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2109793260483027403",
+        "created_at": "2026-10-13T13:34:10.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T14:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110001149667627455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1648991253361745922",
+              "start": 0,
+              "username": "rankaaiyume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110001149667627455",
+        "in_reply_to_user_id": "1648991253361745922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109793260483027403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rankaaiyume 排除苏州"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648991253361745922",
+        "conversation_id": "2109793260483027403",
+        "created_at": "2026-10-12T23:48:06.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T00:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109793260483027403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109793260483027403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 438,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杭州苏州成都哪里就业和物价相对合适"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/江南雌狮/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72XdC"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2110001149667627455",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109635714933768192/oBhOKHeo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 316,
+          "like_count": 1460,
+          "listed_count": 6,
+          "media_count": 311,
+          "tweet_count": 2575
+        },
+        "url": "https://t.co/doW5Y72XdC",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-20T10:05:55.000Z",
+        "description": "mtx/ 177 130 当朋友圈发 https://t.co/iCzQJShbkB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/YozakuraRenka",
+                "end": 42,
+                "expanded_url": "https://t.me/YozakuraRenka",
+                "start": 19,
+                "url": "https://t.co/iCzQJShbkB"
+              }
+            ]
+          }
+        },
+        "id": "1648991253361745922",
+        "is_identity_verified": false,
+        "location": "hohhot",
+        "most_recent_tweet_id": "2109877297423822976",
+        "name": "れんあいむ🍡🇬🇧",
+        "pinned_tweet_id": "1976565418946085264",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1648991253361745922/1791765572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107243176469934080/jokVot1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 187,
+          "like_count": 201,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 558
+        },
+        "url": "",
+        "username": "rankaaiyume",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

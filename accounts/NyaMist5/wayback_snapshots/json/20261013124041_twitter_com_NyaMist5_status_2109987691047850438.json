@@ -1,0 +1,542 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2109987691047850438",
+    "created_at": "2026-10-13T12:40:41.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T13:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109987691047850438"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 105,
+          "start": 99,
+          "tag": "二阶堂希罗"
+        },
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "男の娘"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "男娘"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "伪娘"
+        },
+        {
+          "end": 126,
+          "start": 119,
+          "tag": "可爱的男孩子"
+        },
+        {
+          "end": 134,
+          "start": 127,
+          "tag": "femboy"
+        },
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "马甲线"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1945950486412271616",
+          "start": 3,
+          "username": "wei1798074"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109987691047850438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109963257218060374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wei1798074: 好崩溃，在推上刷到你了，你为什么不穿衣服？！跟你聊了那么久，看的都没在推特上看的露的多，那一刻，我心已经死了，说的是谁谁心里知道🥺\n❤️除非再给我发点露的更多的😋\n\n#二阶堂希罗 #男の娘 #男娘 #伪娘 #可爱的男孩子 #femboy #马甲线…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22066,
+        "height": 1392,
+        "media_key": "13_2109963191962968064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2109963191962968064/img/SmiHgmFzk354YVMb.jpg",
+        "public_metrics": {
+          "view_count": 75
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109963191962968064/vid/avc1/320x412/nruM10qrISeEZxER.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109963191962968064/vid/avc1/480x618/c2UjigqrpNjQXImG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109963191962968064/vid/avc1/720x928/R3hWhlLbVC_nM4mP.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2109963191962968064/pl/dhJWZfdtZS4Ug1ke.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2109987691047850438",
+        "created_at": "2026-10-13T12:40:41.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T13:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109987691047850438"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 99,
+              "tag": "二阶堂希罗"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "男の娘"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "男娘"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "伪娘"
+            },
+            {
+              "end": 126,
+              "start": 119,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 134,
+              "start": 127,
+              "tag": "femboy"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "马甲线"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1945950486412271616",
+              "start": 3,
+              "username": "wei1798074"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109987691047850438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109963257218060374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wei1798074: 好崩溃，在推上刷到你了，你为什么不穿衣服？！跟你聊了那么久，看的都没在推特上看的露的多，那一刻，我心已经死了，说的是谁谁心里知道🥺\n❤️除非再给我发点露的更多的😋\n\n#二阶堂希罗 #男の娘 #男娘 #伪娘 #可爱的男孩子 #femboy #马甲线…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2109963191962968064"
+          ]
+        },
+        "author_id": "1945950486412271616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "2109963257218060374",
+        "created_at": "2026-10-13T11:03:36.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T12:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109963257218060374"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 83,
+              "tag": "二阶堂希罗"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "男の娘"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "男娘"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "伪娘"
+            },
+            {
+              "end": 110,
+              "start": 103,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 118,
+              "start": 111,
+              "tag": "femboy"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "马甲线"
+            },
+            {
+              "end": 126,
+              "start": 124,
+              "tag": "腰"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "jk"
+            },
+            {
+              "end": 139,
+              "start": 131,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4RxRsFKKnY",
+              "end": 163,
+              "expanded_url": "https://x.com/wei1798074/status/2109963257218060374/video/1",
+              "media_key": "13_2109963191962968064",
+              "start": 140,
+              "url": "https://t.co/4RxRsFKKnY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109963257218060374",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2109963191962968064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好崩溃，在推上刷到你了，你为什么不穿衣服？！跟你聊了那么久，看的都没在推特上看的露的多，那一刻，我心已经死了，说的是谁谁心里知道🥺\n❤️除非再给我发点露的更多的😋\n\n#二阶堂希罗 #男の娘 #男娘 #伪娘 #可爱的男孩子 #femboy #马甲线 #腰 #jk #cosplay https://t.co/4RxRsFKKnY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/江南雌狮/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72XdC"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2109987691047850438",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109635714933768192/oBhOKHeo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097,
+          "following_count": 316,
+          "like_count": 1461,
+          "listed_count": 6,
+          "media_count": 311,
+          "tweet_count": 2574
+        },
+        "url": "https://t.co/doW5Y72XdC",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T20:56:06.000Z",
+        "description": "男娘/友跨🏳️‍⚧️/180cm/54kg\n常驻大西南/读研中/墙外不涉政/BA Kards P社 文明6/主包先秦史重度依赖/B站你觉得像我的那就是/🈚🚪/欢迎同好扩列一起玩/虽然但是=左壬，所以请自认右友的最好不要来找骂🇵🇸\n我的宝宝@maruchang44",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "maruchang44"
+              }
+            ]
+          }
+        },
+        "id": "1945950486412271616",
+        "is_identity_verified": false,
+        "location": "海底两万里，去国六千年",
+        "most_recent_tweet_id": "2109963257218060374",
+        "name": "为君扶病坠高台",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945950486412271616/1773821830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945951610280062977/yFW3a_BO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2453,
+          "following_count": 183,
+          "like_count": 753,
+          "listed_count": 5,
+          "media_count": 124,
+          "tweet_count": 675
+        },
+        "url": "",
+        "username": "wei1798074",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

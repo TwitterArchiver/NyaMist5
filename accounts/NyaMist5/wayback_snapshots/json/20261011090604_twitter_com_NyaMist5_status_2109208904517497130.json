@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2109163912885326237",
+    "created_at": "2026-10-11T09:06:04.000Z",
+    "display_text_range": [
+      16,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T10:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109208904517497130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1923225863602294784",
+          "start": 0,
+          "username": "jiujiuSama8512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109208904517497130",
+    "in_reply_to_user_id": "1923225863602294784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109163912885326237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiujiuSama8512 居然没看过fate😡😡😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1875,
+        "media_key": "3_2109163892006080512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUVBYowaUAArNem.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2109163912885326237",
+        "created_at": "2026-10-11T09:06:04.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T10:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109208904517497130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1923225863602294784",
+              "start": 0,
+              "username": "jiujiuSama8512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109208904517497130",
+        "in_reply_to_user_id": "1923225863602294784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109163912885326237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiujiuSama8512 居然没看过fate😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109163892006080512"
+          ]
+        },
+        "author_id": "1923225863602294784",
+        "conversation_id": "2109163912885326237",
+        "created_at": "2026-10-11T06:07:17.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T07:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109163912885326237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U6UHC5YVWD",
+              "end": 30,
+              "expanded_url": "https://x.com/jiujiuSama8512/status/2109163912885326237/photo/1",
+              "media_key": "3_2109163892006080512",
+              "start": 7,
+              "url": "https://t.co/U6UHC5YVWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109163912885326237",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109163892006080512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是老资历吗 https://t.co/U6UHC5YVWD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2109208904517497130",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108945884616740864/I-_F0aWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 325,
+          "like_count": 1439,
+          "listed_count": 6,
+          "media_count": 308,
+          "tweet_count": 2550
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-16T03:55:58.000Z",
+        "description": "09年木桶饭，173/62kg 高三牲，欢迎同类互fo，家长不管党，老公公@N_F_B_X-忧郁意识流药娘，负能警告⚠️，HRT2024.7.12。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "N_F_B_X"
+              }
+            ]
+          }
+        },
+        "id": "1923225863602294784",
+        "is_identity_verified": false,
+        "location": "❣️-520",
+        "most_recent_tweet_id": "2109163912885326237",
+        "name": "梓玖玖～🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1923225863602294784/1779420137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962168976668307457/zf9I-jll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 242,
+          "like_count": 218,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 1659
+        },
+        "url": "",
+        "username": "jiujiuSama8512",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

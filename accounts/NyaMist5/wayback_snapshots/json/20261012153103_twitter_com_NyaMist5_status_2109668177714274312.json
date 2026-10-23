@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2109306818099024172",
+    "created_at": "2026-10-12T15:31:03.000Z",
+    "display_text_range": [
+      30,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T16:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109668177714274312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1995753608558903299",
+          "start": 0,
+          "username": "LL3FqIe93a52694"
+        },
+        {
+          "end": 29,
+          "id": "2089396589353967616",
+          "start": 17,
+          "username": "Liminxijtxd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109668177714274312",
+    "in_reply_to_user_id": "1995753608558903299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109346660593844622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LL3FqIe93a52694 @Liminxijtxd 这种被眯一下眼急的最狠了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2109306818099024172",
+        "created_at": "2026-10-12T15:31:03.000Z",
+        "display_text_range": [
+          30,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T16:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109668177714274312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1995753608558903299",
+              "start": 0,
+              "username": "LL3FqIe93a52694"
+            },
+            {
+              "end": 29,
+              "id": "2089396589353967616",
+              "start": 17,
+              "username": "Liminxijtxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109668177714274312",
+        "in_reply_to_user_id": "1995753608558903299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109346660593844622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LL3FqIe93a52694 @Liminxijtxd 这种被眯一下眼急的最狠了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995753608558903299",
+        "conversation_id": "2109306818099024172",
+        "created_at": "2026-10-11T18:13:28.000Z",
+        "display_text_range": [
+          13,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T19:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109346660593844622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2089396589353967616",
+              "start": 0,
+              "username": "Liminxijtxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109346660593844622",
+        "in_reply_to_user_id": "2089396589353967616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11683,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109306818099024172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liminxijtxd 笑死了国内同性恋果然和巴西同性恋一个狗脑子，下来该和巴西同性恋一样标榜下同性恋的地位因为被迫害程度应该高于黑人。反正就是被害妄想症"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2109668177714274312",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109635714933768192/oBhOKHeo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 326,
+          "like_count": 1450,
+          "listed_count": 6,
+          "media_count": 309,
+          "tweet_count": 2561
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-02T07:15:34.000Z",
+        "description": "",
+        "id": "1995753608558903299",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109664667505504412",
+        "name": "AIE",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995753695464882177/IXKKTaST_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 72,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "LL3FqIe93a52694",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T17:01:58.000Z",
+        "description": "l“g”bt\n粉籍：邦尼斯🐰和娜家具👱🏻‍♀️",
+        "id": "2089396589353967616",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2109376707233038746",
+        "name": "Silas",
+        "pinned_tweet_id": "2102808761597661393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089396589353967616/1788067032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108869378586378240/gytECE4H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 36,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "Liminxijtxd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

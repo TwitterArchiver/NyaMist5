@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2103471477844832504",
+    "created_at": "2026-09-30T10:06:52.000Z",
+    "display_text_range": [
+      14,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T11:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105237937197842726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3032768018",
+          "start": 0,
+          "username": "Chiyorin0908"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105237937197842726",
+    "in_reply_to_user_id": "3032768018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103471477844832504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyorin0908 要不试试アネトン（我记得那个鼻炎药不错咪）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2103471465995882496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEIJ1Xa0AAk0Cb.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2103471477844832504",
+        "created_at": "2026-09-30T10:06:52.000Z",
+        "display_text_range": [
+          14,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105237937197842726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3032768018",
+              "start": 0,
+              "username": "Chiyorin0908"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105237937197842726",
+        "in_reply_to_user_id": "3032768018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103471477844832504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyorin0908 要不试试アネトン（我记得那个鼻炎药不错咪）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103471465995882496"
+          ]
+        },
+        "author_id": "3032768018",
+        "conversation_id": "2103471477844832504",
+        "created_at": "2026-09-25T13:07:35.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T14:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103471477844832504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sm2mAAX4rx",
+              "end": 44,
+              "expanded_url": "https://x.com/Chiyorin0908/status/2103471477844832504/photo/1",
+              "media_key": "3_2103471465995882496",
+              "start": 21,
+              "url": "https://t.co/sm2mAAX4rx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103471477844832504",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103471465995882496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1064,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 104,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我被过敏性鼻炎打败了，今天鼻子喷了一天水 https://t.co/sm2mAAX4rx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2105237937197842726",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104215059241320448/TAi4VvLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 339,
+          "like_count": 1310,
+          "listed_count": 5,
+          "media_count": 294,
+          "tweet_count": 2474
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-20T12:27:32.000Z",
+        "description": "🇪🇺🇺🇦🇯🇵🇹🇼/上海｜東京/02/男/铁道/航空/Airsoft/摄影/BanG Dream/女装 早稲田大学 M1 同好扩列\n😘：@DurantRaym93677 ｜妈妈：@CnDiode\n里：@cccy0037 （🚪48.8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 67,
+                "username": "DurantRaym93677"
+              },
+              {
+                "end": 96,
+                "start": 88,
+                "username": "CnDiode"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "cccy0037"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+50DhiKY5l-s5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+50DhiKY5l-s5NDBl",
+                "start": 0,
+                "url": "https://t.co/Es5shIbjtN"
+              }
+            ]
+          }
+        },
+        "id": "3032768018",
+        "is_identity_verified": false,
+        "location": "埼玉県 所沢市",
+        "most_recent_tweet_id": "2105169192257568901",
+        "name": "千世Chiyo",
+        "pinned_tweet_id": "2095811927184425260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3032768018/1784720508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071420961686208513/BNhEveFN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4093,
+          "following_count": 1887,
+          "like_count": 10688,
+          "listed_count": 10,
+          "media_count": 1347,
+          "tweet_count": 5471
+        },
+        "url": "https://t.co/Es5shIbjtN",
+        "username": "Chiyorin0908",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2107789974284472402",
+    "created_at": "2026-10-07T14:21:54.000Z",
+    "display_text_range": [
+      11,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T15:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107838833836613875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2004453066653999104",
+          "start": 0,
+          "username": "luoju1524"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107838833836613875",
+    "in_reply_to_user_id": "2004453066653999104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107789974284472402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoju1524 不是牢洛你们怎么都玩上野战了，我羡慕死啊😭😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40189,
+        "height": 720,
+        "media_key": "13_2107789909281103872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107789909281103872/img/47BldP9FVQ21Ikrm.jpg",
+        "public_metrics": {
+          "view_count": 972
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107789909281103872/vid/avc1/360x270/dFmt5Dz5yFoStyqd.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107789909281103872/vid/avc1/480x360/MYIMP-NvsfMemUJS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107789909281103872/vid/avc1/960x720/FbN81N8fBVl6T8ms.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107789909281103872/pl/wuPMqONCDh0hfI8w.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2107789974284472402",
+        "created_at": "2026-10-07T14:21:54.000Z",
+        "display_text_range": [
+          11,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T15:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107838833836613875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2004453066653999104",
+              "start": 0,
+              "username": "luoju1524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107838833836613875",
+        "in_reply_to_user_id": "2004453066653999104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107789974284472402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoju1524 不是牢洛你们怎么都玩上野战了，我羡慕死啊😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107789909281103872"
+          ]
+        },
+        "author_id": "2004453066653999104",
+        "conversation_id": "2107789974284472402",
+        "created_at": "2026-10-07T11:07:45.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T12:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107789974284472402"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "男娘"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "里百合"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "作战记录"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "野战"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "露出"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xTmvevr2BA",
+              "end": 75,
+              "expanded_url": "https://x.com/luoju1524/status/2107789974284472402/video/1",
+              "media_key": "13_2107789909281103872",
+              "start": 52,
+              "url": "https://t.co/xTmvevr2BA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107789974284472402",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107789909281103872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 1660,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "第一次尝试野战说是，体验不错喵\n洛橘依旧是猛1男娘（）\n\n#男娘 #里百合 #作战记录 #野战 #露出 https://t.co/xTmvevr2BA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2107838833836613875",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104215059241320448/TAi4VvLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 325,
+          "like_count": 1415,
+          "listed_count": 5,
+          "media_count": 306,
+          "tweet_count": 2531
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T07:24:00.000Z",
+        "description": "男娘猛1 也可以0 男娘贴贴喵\n该账号发布日常女装、涩涩图片、作战记录…\n坐标南京\n扩列的话q2121319163可以直接加，私信很少会看说是。",
+        "id": "2004453066653999104",
+        "is_identity_verified": false,
+        "location": "🚪50r喵，扩列不需要，想看更多涩图作战记录赞助喵",
+        "most_recent_tweet_id": "2107789974284472402",
+        "name": "洛橘",
+        "pinned_tweet_id": "2065394320723804459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004453066653999104/1766905745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005174145597014020/He6So_DE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6011,
+          "following_count": 1088,
+          "like_count": 2417,
+          "listed_count": 22,
+          "media_count": 69,
+          "tweet_count": 716
+        },
+        "url": "",
+        "username": "luoju1524",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

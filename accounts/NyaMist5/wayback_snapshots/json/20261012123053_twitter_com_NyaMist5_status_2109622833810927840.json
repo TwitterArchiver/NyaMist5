@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2108867338418414028",
+    "created_at": "2026-10-12T12:30:53.000Z",
+    "display_text_range": [
+      34,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T13:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109622833810927840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1840055966525726720",
+          "start": 0,
+          "username": "Jueshengshenlan"
+        },
+        {
+          "end": 33,
+          "id": "1701484460250890240",
+          "start": 17,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109622833810927840",
+    "in_reply_to_user_id": "1840055966525726720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108868884736495795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jueshengshenlan @SonogamiRinneTS 还有吹伊朗的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2108867338418414028",
+        "created_at": "2026-10-12T12:30:53.000Z",
+        "display_text_range": [
+          34,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T13:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109622833810927840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1840055966525726720",
+              "start": 0,
+              "username": "Jueshengshenlan"
+            },
+            {
+              "end": 33,
+              "id": "1701484460250890240",
+              "start": 17,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109622833810927840",
+        "in_reply_to_user_id": "1840055966525726720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108868884736495795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jueshengshenlan @SonogamiRinneTS 还有吹伊朗的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840055966525726720",
+        "conversation_id": "2108867338418414028",
+        "created_at": "2026-10-10T10:34:57.000Z",
+        "display_text_range": [
+          17,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T11:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108868884736495795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108868884736495795",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1007,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108867338418414028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS 因为这是对伊朗的抹黑，事实上，伊朗非常开明，他们有非常好的教育。\n如果他们真的是这样，那不会是1.35，而是4.7\n阿富汗就是这样。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2109622833810927840",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108945884616740864/I-_F0aWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 326,
+          "like_count": 1446,
+          "listed_count": 6,
+          "media_count": 308,
+          "tweet_count": 2559
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-28T15:48:30.000Z",
+        "description": "红色的旗帜，一定会在全球飘扬！",
+        "id": "1840055966525726720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109622213498257771",
+        "name": "链条",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840055966525726720/1774234573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035913469111975936/xKiAiVSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25504,
+          "following_count": 7378,
+          "like_count": 219488,
+          "listed_count": 140,
+          "media_count": 1825,
+          "tweet_count": 32683
+        },
+        "url": "",
+        "username": "Jueshengshenlan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关",
+        "id": "1701484460250890240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109539397976879510",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1701484460250890240/1747470440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6204,
+          "following_count": 4432,
+          "like_count": 1701,
+          "listed_count": 19,
+          "media_count": 333,
+          "tweet_count": 2338
+        },
+        "url": "",
+        "username": "SonogamiRinneTS",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

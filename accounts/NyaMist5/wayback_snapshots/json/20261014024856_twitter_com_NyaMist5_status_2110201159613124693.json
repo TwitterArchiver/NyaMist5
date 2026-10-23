@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2109682047979487466",
+    "created_at": "2026-10-14T02:48:56.000Z",
+    "display_text_range": [
+      24,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-14T03:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110201159613124693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691507779301961728",
+          "start": 0,
+          "username": "xiaomian_twi"
+        },
+        {
+          "end": 23,
+          "id": "2012631283898187776",
+          "start": 14,
+          "username": "youy1qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110201159613124693",
+    "in_reply_to_user_id": "1691507779301961728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109766811814379651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomian_twi @youy1qwq 销售和客服全是受气包职业，别期望他们会尊重人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2109682047979487466",
+        "created_at": "2026-10-14T02:48:56.000Z",
+        "display_text_range": [
+          24,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T03:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110201159613124693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691507779301961728",
+              "start": 0,
+              "username": "xiaomian_twi"
+            },
+            {
+              "end": 23,
+              "id": "2012631283898187776",
+              "start": 14,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110201159613124693",
+        "in_reply_to_user_id": "1691507779301961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109766811814379651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomian_twi @youy1qwq 销售和客服全是受气包职业，别期望他们会尊重人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691507779301961728",
+        "conversation_id": "2109682047979487466",
+        "created_at": "2026-10-12T22:03:00.000Z",
+        "display_text_range": [
+          10,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T23:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109766811814379651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109766811814379651",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "16岁那会出来当电商客服，产品是内裤，然后遇到男生骚扰还发穿的照片，但是并没有下单，穿的是别家的女士内裤，还有分享自己和妈妈的经历和照片，说喜欢自己妈妈，以及分享自己女朋友的照片。做售前的天天遇到离谱事，但是客户也只是性压抑骚扰几句发发照片，做售后更苦，一堆听不懂话又固执的客户以为我们把他们钱扣了，天天被客户骂死全家钱拿去买棺材，其实都是因为平台各种套路，尤其是那个同地址下单有优惠的这个活动，退了第一单不就把钱扣了，气死了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 15936,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109682047979487466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 16岁那会出来当电商客服，产品是内裤，然后遇到男生骚扰还发穿的照片，但是并没有下单，穿的是别家的女士内裤，还有分享自己和妈妈的经历和照片，说喜欢自己妈妈，以及分享自己女朋友的照片。做售前的天天遇到离谱事，但是客户也只是性压抑骚扰几句发发照片，做售后更苦，一堆听不懂话又固执的客户以为"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/江南雌狮/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72XdC"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2110201159613124693",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109635714933768192/oBhOKHeo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2314,
+          "following_count": 316,
+          "like_count": 1463,
+          "listed_count": 7,
+          "media_count": 311,
+          "tweet_count": 2576
+        },
+        "url": "https://t.co/doW5Y72XdC",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T17:51:30.000Z",
+        "description": "07年 brat 170cm 玩lo和cos\n双相情感障碍 天主教教徒 淫乱滥交女\n无🚪 我感兴趣的会主动联系\n现实好友评论不要暴露我其他平台的昵称\n梦想是找个做爱把我当飞机杯贱婊子狠狠打桩，做完把我当小孩夸我很可爱很乖的肌肉阳光型帅哥谈恋爱结婚…",
+        "id": "1691507779301961728",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2110140677396869414",
+        "name": "小眠酱",
+        "pinned_tweet_id": "2107384776688795864",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691507779301961728/1786909966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089076787963985920/pdrj830F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 32,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 639
+        },
+        "url": "",
+        "username": "xiaomian_twi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110199344175456279",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20508,
+          "following_count": 3561,
+          "like_count": 8728,
+          "listed_count": 46,
+          "media_count": 2686,
+          "tweet_count": 4533
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

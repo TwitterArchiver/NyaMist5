@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2108359298879557708",
+    "created_at": "2026-10-09T08:32:21.000Z",
+    "display_text_range": [
+      24,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T09:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108475642098630997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2044420431956889600",
+          "start": 0,
+          "username": "KimJongenNorth"
+        },
+        {
+          "end": 23,
+          "id": "2051936177628790784",
+          "start": 16,
+          "username": "WcAIYz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108475642098630997",
+    "in_reply_to_user_id": "2044420431956889600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108462895789142481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KimJongenNorth @WcAIYz 刘亦博之权威"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2108359298879557708",
+        "created_at": "2026-10-09T08:32:21.000Z",
+        "display_text_range": [
+          24,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T09:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108475642098630997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044420431956889600",
+              "start": 0,
+              "username": "KimJongenNorth"
+            },
+            {
+              "end": 23,
+              "id": "2051936177628790784",
+              "start": 16,
+              "username": "WcAIYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108475642098630997",
+        "in_reply_to_user_id": "2044420431956889600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108462895789142481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KimJongenNorth @WcAIYz 刘亦博之权威"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044420431956889600",
+        "conversation_id": "2108359298879557708",
+        "created_at": "2026-10-09T07:41:42.000Z",
+        "display_text_range": [
+          18,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T08:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108462895789142481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "NyaMist5"
+            },
+            {
+              "end": 17,
+              "id": "2051936177628790784",
+              "start": 10,
+              "username": "WcAIYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108462895789142481",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108359298879557708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaMist5 @WcAIYz 怎么还有6657的事"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2108475642098630997",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104215059241320448/TAi4VvLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 325,
+          "like_count": 1424,
+          "listed_count": 5,
+          "media_count": 308,
+          "tweet_count": 2543
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-15T14:22:16.000Z",
+        "description": "",
+        "id": "2044420431956889600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108462895789142481",
+        "name": "Kim Jongen",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044421700759027712/bYmbCxw__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 21,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "KimJongenNorth",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-06T08:04:58.000Z",
+        "description": "04\n骚狗子:@NyaMist5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "NyaMist5"
+              }
+            ]
+          }
+        },
+        "id": "2051936177628790784",
+        "is_identity_verified": false,
+        "location": "无锡滨湖",
+        "most_recent_tweet_id": "2105720220124164286",
+        "name": "叶叶子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051936177628790784/1786696567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106419310206083072/hRyIznOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 3,
+          "like_count": 55,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "WcAIYz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

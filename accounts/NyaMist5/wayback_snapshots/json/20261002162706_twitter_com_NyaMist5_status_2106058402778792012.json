@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2106058402778792012",
+    "created_at": "2026-10-02T16:27:06.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T17:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106058402778792012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Venti718/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Venti718/status/2105732814016848099",
+          "start": 14,
+          "url": "https://t.co/YtSgIpsBy4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106058402778792012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105732814016848099",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无锡是一个没有夜生活的城市 https://t.co/YtSgIpsBy4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2106058402778792012",
+        "created_at": "2026-10-02T16:27:06.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106058402778792012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Venti718/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Venti718/status/2105732814016848099",
+              "start": 14,
+              "url": "https://t.co/YtSgIpsBy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106058402778792012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105732814016848099",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无锡是一个没有夜生活的城市 https://t.co/YtSgIpsBy4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732724006787420160",
+        "conversation_id": "2105732814016848099",
+        "created_at": "2026-10-01T18:53:20.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T19:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105732814016848099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/aoim33/status/2105693556073771220",
+              "start": 14,
+              "url": "https://t.co/BcuEt4eXhw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105732814016848099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1434,
+          "like_count": 14,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105693556073771220",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天津是一个没有夜生活的城市 https://t.co/BcuEt4eXhw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2106058402778792012",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104215059241320448/TAi4VvLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1679,
+          "following_count": 325,
+          "like_count": 1345,
+          "listed_count": 5,
+          "media_count": 298,
+          "tweet_count": 2499
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T11:29:57.000Z",
+        "description": "高三/友跨/简中/繁中/English/欢迎互fo/Ciallo～\n\n提问箱:https://t.co/vNDxyQS6xP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ask.akiyamamio.one",
+                "end": 62,
+                "expanded_url": "http://ask.akiyamamio.one",
+                "start": 39,
+                "url": "https://t.co/vNDxyQS6xP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.akiyamamio.one",
+                "end": 23,
+                "expanded_url": "https://blog.akiyamamio.one",
+                "start": 0,
+                "url": "https://t.co/xkPNWUKzhs"
+              }
+            ]
+          }
+        },
+        "id": "1732724006787420160",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2106056906360156306",
+        "name": "澪老师不是零老师",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732724006787420160/1755168073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009901557371056129/NtoWVt0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 2514,
+          "like_count": 25816,
+          "listed_count": 0,
+          "media_count": 664,
+          "tweet_count": 8559
+        },
+        "url": "https://t.co/xkPNWUKzhs",
+        "username": "Venti718",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

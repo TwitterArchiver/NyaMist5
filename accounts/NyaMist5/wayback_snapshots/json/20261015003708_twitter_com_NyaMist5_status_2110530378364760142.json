@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2109891965508628838",
+    "created_at": "2026-10-15T00:37:08.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-15T01:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110530378364760142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2048799636241219584",
+          "start": 0,
+          "username": "YQ_CUTE_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110530378364760142",
+    "in_reply_to_user_id": "2048799636241219584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109891965508628838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YQ_CUTE_ 🔥🔥的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 159404,
+        "height": 1280,
+        "media_key": "13_2109891833396649984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2109891833396649984/img/HGWDMW3diYANIpq8.jpg",
+        "public_metrics": {
+          "view_count": 509
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109891833396649984/vid/avc1/320x568/Hhfy-bwxyaBPIbW_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109891833396649984/vid/avc1/480x852/lSs89K2fE9GbE2kY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109891833396649984/vid/avc1/720x1280/8JM9ZRLMHDX6sKBl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2109891833396649984/pl/4M8maPCyfSV_L7Rt.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2109891965508628838",
+        "created_at": "2026-10-15T00:37:08.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T01:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110530378364760142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2048799636241219584",
+              "start": 0,
+              "username": "YQ_CUTE_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110530378364760142",
+        "in_reply_to_user_id": "2048799636241219584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109891965508628838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YQ_CUTE_ 🔥🔥的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2109891833396649984"
+          ]
+        },
+        "author_id": "2048799636241219584",
+        "conversation_id": "2109891965508628838",
+        "created_at": "2026-10-13T06:20:19.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T07:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109891965508628838"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "男娘"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "药娘"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "伪娘"
+            },
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BKvXTV5GPN",
+              "end": 56,
+              "expanded_url": "https://x.com/YQ_CUTE_/status/2109891965508628838/video/1",
+              "media_key": "13_2109891833396649984",
+              "start": 33,
+              "url": "https://t.co/BKvXTV5GPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109891965508628838",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2109891833396649984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 974,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃呃，国庆的战败cg（\n#男娘 #药娘 #伪娘 #可爱的男孩子 https://t.co/BKvXTV5GPN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FI",
+              "full_name": "Helsinki, Southern Finland Province, Finland",
+              "geo": {
+                "coordinates": [
+                  24.93545,
+                  60.16952
+                ],
+                "type": "Point"
+              },
+              "locality": "Helsinki",
+              "region": "Southern Finland Province",
+              "sub_region": "Uusimaa"
+            }
+          ]
+        },
+        "description": "07年/江南雌狮/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72XdC"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "Helsinki",
+        "most_recent_tweet_id": "2110530378364760142",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109635714933768192/oBhOKHeo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 316,
+          "like_count": 1472,
+          "listed_count": 7,
+          "media_count": 312,
+          "tweet_count": 2585
+        },
+        "url": "https://t.co/doW5Y72XdC",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T16:21:24.000Z",
+        "description": "500fo大号 @YQ_Cute 被冻结了😭/无证含糖/生产于2006.10.4/2026.5.19🍥/家长反对党/172/100斤/大二啦/坐标江苏/不割不od/爱哭鬼/欢迎同类互fo喵！😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "YQ_Cute"
+              }
+            ]
+          }
+        },
+        "id": "2048799636241219584",
+        "is_identity_verified": false,
+        "location": "常州",
+        "most_recent_tweet_id": "2110274056486572231",
+        "name": "艺清🍥(重生版)",
+        "pinned_tweet_id": "2066191774176202924",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048799636241219584/1779202011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048799922049482754/qs6pb683_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 241,
+          "like_count": 647,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "YQ_CUTE_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

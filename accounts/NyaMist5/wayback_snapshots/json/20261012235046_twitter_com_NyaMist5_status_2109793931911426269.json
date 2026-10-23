@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2109296902579912704"
+      ],
+      "media_source_tweet_id": [
+        "2109296984653955135"
+      ]
+    },
+    "author_id": "1642270015851474944",
+    "conversation_id": "2109793931911426269",
+    "created_at": "2026-10-12T23:50:46.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T00:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109793931911426269"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "伪娘"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "男娘"
+        },
+        {
+          "end": 104,
+          "start": 97,
+          "tag": "femboy"
+        },
+        {
+          "end": 111,
+          "start": 105,
+          "tag": "sissy"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986352244581888000",
+          "start": 3,
+          "username": "kaimang861"
+        },
+        {
+          "end": 62,
+          "id": "1706848268859129856",
+          "start": 48,
+          "username": "Guaishou59418"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NdVw4BbtmU",
+          "end": 135,
+          "expanded_url": "https://x.com/kaimang861/status/2109296984653955135/video/1",
+          "media_key": "13_2109296902579912704",
+          "start": 112,
+          "url": "https://t.co/NdVw4BbtmU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109793931911426269",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2109296902579912704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109296984653955135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaimang861: ❤️骚母狗一字展开的身体搭配着嫩菊操起来一定会让主人满意滴❤️\n@Guaishou59418（剪辑+摄影）\n！（40mim超大杯完整版过门解锁）\n#伪娘 #男娘 #femboy #sissy https://t.co/NdVw4BbtmU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 78413,
+        "height": 720,
+        "media_key": "13_2109296902579912704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2109296902579912704/img/Ztu8AAzMTEIMue5M.jpg",
+        "public_metrics": {
+          "view_count": 3726
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109296902579912704/vid/avc1/480x270/UwN5Xm-i_s7k3UGe.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109296902579912704/vid/avc1/640x360/4iXkCEVtleKRl2J9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109296902579912704/vid/avc1/1280x720/xrx1gwll35IGbDhN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2109296902579912704/pl/qsi_Y1yTnTuWEIs5.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2109296902579912704"
+          ],
+          "media_source_tweet_id": [
+            "2109296984653955135"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "conversation_id": "2109793931911426269",
+        "created_at": "2026-10-12T23:50:46.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T00:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109793931911426269"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "伪娘"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "男娘"
+            },
+            {
+              "end": 104,
+              "start": 97,
+              "tag": "femboy"
+            },
+            {
+              "end": 111,
+              "start": 105,
+              "tag": "sissy"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986352244581888000",
+              "start": 3,
+              "username": "kaimang861"
+            },
+            {
+              "end": 62,
+              "id": "1706848268859129856",
+              "start": 48,
+              "username": "Guaishou59418"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NdVw4BbtmU",
+              "end": 135,
+              "expanded_url": "https://x.com/kaimang861/status/2109296984653955135/video/1",
+              "media_key": "13_2109296902579912704",
+              "start": 112,
+              "url": "https://t.co/NdVw4BbtmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109793931911426269",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2109296902579912704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109296984653955135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaimang861: ❤️骚母狗一字展开的身体搭配着嫩菊操起来一定会让主人满意滴❤️\n@Guaishou59418（剪辑+摄影）\n！（40mim超大杯完整版过门解锁）\n#伪娘 #男娘 #femboy #sissy https://t.co/NdVw4BbtmU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2109296902579912704"
+          ]
+        },
+        "author_id": "1986352244581888000",
+        "conversation_id": "2109296984653955135",
+        "created_at": "2026-10-11T14:56:04.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T15:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109296984653955135"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "伪娘"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "男娘"
+            },
+            {
+              "end": 88,
+              "start": 81,
+              "tag": "femboy"
+            },
+            {
+              "end": 95,
+              "start": 89,
+              "tag": "sissy"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 46,
+              "id": "1706848268859129856",
+              "start": 32,
+              "username": "Guaishou59418"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NdVw4BbtmU",
+              "end": 119,
+              "expanded_url": "https://x.com/kaimang861/status/2109296984653955135/video/1",
+              "media_key": "13_2109296902579912704",
+              "start": 96,
+              "url": "https://t.co/NdVw4BbtmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109296984653955135",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2109296902579912704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 5684,
+          "like_count": 215,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "❤️骚母狗一字展开的身体搭配着嫩菊操起来一定会让主人满意滴❤️\n@Guaishou59418（剪辑+摄影）\n！（40mim超大杯完整版过门解锁）\n#伪娘 #男娘 #femboy #sissy https://t.co/NdVw4BbtmU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/江南雌狮/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72XdC"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2109793931911426269",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109635714933768192/oBhOKHeo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 326,
+          "like_count": 1454,
+          "listed_count": 6,
+          "media_count": 311,
+          "tweet_count": 2568
+        },
+        "url": "https://t.co/doW5Y72XdC",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T08:37:43.000Z",
+        "description": "NOTHING 🔞 未成年误入\n喜欢可以赞助，不喜欢就算了\n60米进tg视裙\n粉丝群 https://t.co/qjSbPqrR7F\n视频预览裙 https://t.co/lzMHbRVvgh\n粉丝群不定期直播露出\n支持定制   剪辑@Guaishou59418",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 117,
+                "username": "Guaishou59418"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/kaimang8611",
+                "end": 66,
+                "expanded_url": "http://t.me/kaimang8611",
+                "start": 43,
+                "url": "https://t.co/qjSbPqrR7F"
+              },
+              {
+                "display_url": "t.me/KAIMANG861",
+                "end": 96,
+                "expanded_url": "https://t.me/KAIMANG861",
+                "start": 73,
+                "url": "https://t.co/lzMHbRVvgh"
+              }
+            ]
+          }
+        },
+        "id": "1986352244581888000",
+        "is_identity_verified": false,
+        "location": "NONE",
+        "most_recent_tweet_id": "2109296984653955135",
+        "name": "盲目",
+        "pinned_tweet_id": "2074157029061779828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986352244581888000/1762419306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013633146911129601/_-OIdP6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8798,
+          "following_count": 2596,
+          "like_count": 8292,
+          "listed_count": 26,
+          "media_count": 174,
+          "tweet_count": 398
+        },
+        "url": "",
+        "username": "kaimang861",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-27T01:48:43.000Z",
+        "description": "阿拉ZN—喜男娘—178/95kg—欺骗式减脂（ing）/大学在读/兼职家教来拍片/想学摄影，剪辑—目标——剪出的作战记录能流芳百世🙏每一个推友的关注",
+        "id": "1706848268859129856",
+        "is_identity_verified": false,
+        "location": "甬",
+        "most_recent_tweet_id": "2109451041930633677",
+        "name": "Monster.RG",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1706848268859129856/1760677150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943950983479910400/ipgEdd3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 1369,
+          "like_count": 6182,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "Guaishou59418",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2110171416964280505",
+    "created_at": "2026-10-15T08:42:48.000Z",
+    "display_text_range": [
+      15,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-15T09:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110652600454369572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "190728694",
+          "start": 0,
+          "username": "jasonrowstron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110652600454369572",
+    "in_reply_to_user_id": "190728694",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110171416964280505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jasonrowstron 笑得我口水反呛喉咙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2110171339898155008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUjVp0nW8AADnDx.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2110171339873021952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUjVp0hXcAA03Jk.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2110171339910778880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUjVp0qXkAAiwcJ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2110171339885625345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUjVp0kXwAEYk8C.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2110171416964280505",
+        "created_at": "2026-10-15T08:42:48.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T09:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110652600454369572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "190728694",
+              "start": 0,
+              "username": "jasonrowstron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110652600454369572",
+        "in_reply_to_user_id": "190728694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110171416964280505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jasonrowstron 笑得我口水反呛喉咙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2110171339898155008",
+            "3_2110171339873021952",
+            "3_2110171339910778880",
+            "3_2110171339885625345"
+          ]
+        },
+        "author_id": "190728694",
+        "conversation_id": "2110171416964280505",
+        "created_at": "2026-10-14T00:50:45.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T01:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110171416964280505"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "母人"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "母猪"
+            },
+            {
+              "end": 96,
+              "start": 91,
+              "tag": "男尊女卑"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "女德"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "任务"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "调教"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "训练"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "白给"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "倒贴"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "贡奴"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "反差婊"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3V6pnNaFnZ",
+              "end": 154,
+              "expanded_url": "https://x.com/jasonrowstron/status/2110171416964280505/photo/1",
+              "media_key": "3_2110171339898155008",
+              "start": 131,
+              "url": "https://t.co/3V6pnNaFnZ"
+            },
+            {
+              "display_url": "pic.x.com/3V6pnNaFnZ",
+              "end": 154,
+              "expanded_url": "https://x.com/jasonrowstron/status/2110171416964280505/photo/1",
+              "media_key": "3_2110171339873021952",
+              "start": 131,
+              "url": "https://t.co/3V6pnNaFnZ"
+            },
+            {
+              "display_url": "pic.x.com/3V6pnNaFnZ",
+              "end": 154,
+              "expanded_url": "https://x.com/jasonrowstron/status/2110171416964280505/photo/1",
+              "media_key": "3_2110171339910778880",
+              "start": 131,
+              "url": "https://t.co/3V6pnNaFnZ"
+            },
+            {
+              "display_url": "pic.x.com/3V6pnNaFnZ",
+              "end": 154,
+              "expanded_url": "https://x.com/jasonrowstron/status/2110171416964280505/photo/1",
+              "media_key": "3_2110171339885625345",
+              "start": 131,
+              "url": "https://t.co/3V6pnNaFnZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110171416964280505",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2110171339898155008"
+          },
+          {
+            "media_key": "3_2110171339873021952"
+          },
+          {
+            "media_key": "3_2110171339910778880"
+          },
+          {
+            "media_key": "3_2110171339885625345"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 488669,
+          "like_count": 634,
+          "quote_count": 102,
+          "reply_count": 523,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "黑龙江某职高的一条贱畜母狗，在寝室其他舍友都在睡觉，而他却在被男爹调教抠逼喷卵，只有被辱骂才能到达高潮的烂货，无脑犯贱的傻逼婊子，在祖宗脚底下恶堕成傻屄母猪拱逼排卵 #母人 #母猪 #男尊女卑 #女德 #任务 #调教 #训练  #白给 #倒贴 #贡奴 #反差婊 https://t.co/3V6pnNaFnZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FI",
+              "full_name": "Helsinki, Southern Finland Province, Finland",
+              "geo": {
+                "coordinates": [
+                  24.93545,
+                  60.16952
+                ],
+                "type": "Point"
+              },
+              "locality": "Helsinki",
+              "region": "Southern Finland Province",
+              "sub_region": "Uusimaa"
+            }
+          ]
+        },
+        "description": "07年/江南雌狮/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72XdC"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "Helsinki",
+        "most_recent_tweet_id": "2110652600454369572",
+        "name": "晨雾雾🇫🇮",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109635714933768192/oBhOKHeo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2495,
+          "following_count": 317,
+          "like_count": 1477,
+          "listed_count": 7,
+          "media_count": 313,
+          "tweet_count": 2592
+        },
+        "url": "https://t.co/doW5Y72XdC",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-09-14T17:58:34.000Z",
+        "description": "傻逼母猪的亲爹 擅长让傻逼母人喷卵高潮 越贱的母畜在我这里越爽 q 3616802754",
+        "id": "190728694",
+        "is_identity_verified": false,
+        "location": "waslgrave",
+        "most_recent_tweet_id": "2110601597344428049",
+        "name": "落尘",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/190728694/1791864144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109857209706217473/tiNb0ifw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 82,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "jasonrowstron",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

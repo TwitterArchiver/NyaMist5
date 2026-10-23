@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2104951946125959655",
+    "created_at": "2026-09-30T20:12:27.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T21:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105390338194227588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1898609389344530432",
+          "start": 0,
+          "username": "67kILSo8k511274"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105390338194227588",
+    "in_reply_to_user_id": "1898609389344530432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104951946125959655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@67kILSo8k511274 好萌。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33169,
+        "height": 720,
+        "media_key": "13_2104951768144904192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104951768144904192/img/r1cyJqm29c0Tc7rj.jpg",
+        "public_metrics": {
+          "view_count": 1965
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104951768144904192/vid/avc1/480x270/RM_ydWnf6iPu_kny.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104951768144904192/vid/avc1/640x360/RUEkwlDP0y8yPX0U.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104951768144904192/vid/avc1/1280x720/VqTDjg5uU9LfMEYr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104951768144904192/pl/v3o34RsFN7D7VpWe.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2104951946125959655",
+        "created_at": "2026-09-30T20:12:27.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T21:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105390338194227588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1898609389344530432",
+              "start": 0,
+              "username": "67kILSo8k511274"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105390338194227588",
+        "in_reply_to_user_id": "1898609389344530432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104951946125959655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@67kILSo8k511274 好萌。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104951768144904192"
+          ]
+        },
+        "author_id": "1898609389344530432",
+        "conversation_id": "2104951946125959655",
+        "created_at": "2026-09-29T15:10:26.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T16:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104951946125959655"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "男の娘"
+            },
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "男娘肉便器"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "雌堕"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTmkDCukBS",
+              "end": 55,
+              "expanded_url": "https://x.com/67kILSo8k511274/status/2104951946125959655/video/1",
+              "media_key": "13_2104951768144904192",
+              "start": 32,
+              "url": "https://t.co/kTmkDCukBS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104951946125959655",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2104951768144904192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 3997,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "臭烧鸡被踩着草还是爽到哦齁齁了\n＃男の娘 #男娘肉便器 ＃雌堕 https://t.co/kTmkDCukBS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2105390338194227588",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104215059241320448/TAi4VvLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 339,
+          "like_count": 1321,
+          "listed_count": 5,
+          "media_count": 294,
+          "tweet_count": 2484
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T05:39:02.000Z",
+        "description": "170/52kg  抖m/4i/hentai/肉便器/恋物癖。不常在线，私信评论看到都会回",
+        "id": "1898609389344530432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104951946125959655",
+        "name": "筱艾沐",
+        "pinned_tweet_id": "2084660192680215032",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060894998242205696/UEwBgTLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 219,
+          "like_count": 707,
+          "listed_count": 5,
+          "media_count": 122,
+          "tweet_count": 488
+        },
+        "url": "",
+        "username": "67kILSo8k511274",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

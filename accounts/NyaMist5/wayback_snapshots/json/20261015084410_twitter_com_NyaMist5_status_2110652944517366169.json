@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2110171416964280505",
+    "created_at": "2026-10-15T08:44:10.000Z",
+    "display_text_range": [
+      23,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-15T09:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110652944517366169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1797541546944008192",
+          "start": 0,
+          "username": "ghhcka"
+        },
+        {
+          "end": 22,
+          "id": "190728694",
+          "start": 8,
+          "username": "jasonrowstron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110652944517366169",
+    "in_reply_to_user_id": "1797541546944008192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110646802815099039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ghhcka @jasonrowstron 我求你们了，我肺泡已经笑炸一颗了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2110171416964280505",
+        "created_at": "2026-10-15T08:44:10.000Z",
+        "display_text_range": [
+          23,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T09:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110652944517366169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1797541546944008192",
+              "start": 0,
+              "username": "ghhcka"
+            },
+            {
+              "end": 22,
+              "id": "190728694",
+              "start": 8,
+              "username": "jasonrowstron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110652944517366169",
+        "in_reply_to_user_id": "1797541546944008192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110646802815099039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ghhcka @jasonrowstron 我求你们了，我肺泡已经笑炸一颗了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797541546944008192",
+        "conversation_id": "2110171416964280505",
+        "created_at": "2026-10-15T08:19:46.000Z",
+        "display_text_range": [
+          15,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T09:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110646802815099039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "190728694",
+              "start": 0,
+              "username": "jasonrowstron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110646802815099039",
+        "in_reply_to_user_id": "190728694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110171416964280505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jasonrowstron 3.2.1喷卵是个什么东西，突然变成鲑鱼疯狂喷卵，能绷住的可以确证重度玉米症了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FI",
+              "full_name": "Helsinki, Southern Finland Province, Finland",
+              "geo": {
+                "coordinates": [
+                  24.93545,
+                  60.16952
+                ],
+                "type": "Point"
+              },
+              "locality": "Helsinki",
+              "region": "Southern Finland Province",
+              "sub_region": "Uusimaa"
+            }
+          ]
+        },
+        "description": "07年/江南雌狮/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72XdC"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "Helsinki",
+        "most_recent_tweet_id": "2110652944517366169",
+        "name": "晨雾雾🇫🇮",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109635714933768192/oBhOKHeo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2495,
+          "following_count": 317,
+          "like_count": 1478,
+          "listed_count": 7,
+          "media_count": 313,
+          "tweet_count": 2593
+        },
+        "url": "https://t.co/doW5Y72XdC",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-03T08:11:27.000Z",
+        "description": "",
+        "id": "1797541546944008192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110646802815099039",
+        "name": "花ちゃん",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095337869678428160/AkOAu04q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 60,
+          "like_count": 1801,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "ghhcka",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-09-14T17:58:34.000Z",
+        "description": "傻逼母猪的亲爹 擅长让傻逼母人喷卵高潮 越贱的母畜在我这里越爽 q 3616802754",
+        "id": "190728694",
+        "is_identity_verified": false,
+        "location": "waslgrave",
+        "most_recent_tweet_id": "2110601597344428049",
+        "name": "落尘",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/190728694/1791864144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109857209706217473/tiNb0ifw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 82,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "jasonrowstron",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

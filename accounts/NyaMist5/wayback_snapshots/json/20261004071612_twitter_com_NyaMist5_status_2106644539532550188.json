@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1642270015851474944",
+    "conversation_id": "2106208278720184481",
+    "created_at": "2026-10-04T07:16:12.000Z",
+    "display_text_range": [
+      22,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T08:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106644539532550188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "871377576018587648",
+          "start": 0,
+          "username": "pupss50548"
+        },
+        {
+          "end": 21,
+          "id": "1740708319336263680",
+          "start": 12,
+          "username": "N1coluxe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106644539532550188",
+    "in_reply_to_user_id": "871377576018587648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106490120341979164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pupss50548 @N1coluxe 然后呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642270015851474944",
+        "conversation_id": "2106208278720184481",
+        "created_at": "2026-10-04T07:16:12.000Z",
+        "display_text_range": [
+          22,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T08:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106644539532550188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "871377576018587648",
+              "start": 0,
+              "username": "pupss50548"
+            },
+            {
+              "end": 21,
+              "id": "1740708319336263680",
+              "start": 12,
+              "username": "N1coluxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106644539532550188",
+        "in_reply_to_user_id": "871377576018587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106490120341979164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pupss50548 @N1coluxe 然后呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "871377576018587648",
+        "conversation_id": "2106208278720184481",
+        "created_at": "2026-10-03T21:02:36.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T22:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106490120341979164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1740708319336263680",
+              "start": 0,
+              "username": "N1coluxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106490120341979164",
+        "in_reply_to_user_id": "1740708319336263680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 691,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106208278720184481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N1coluxe 人妖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "07年/脑子有病/无锡上海随缘刷新/179cm53kg/高三毕业生/逃生舱@NyaMist5_5/小猫:@WcAIYz \n同类同好扩列q：422174271）看你想看的请移步视频",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NyaMist5_5"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "WcAIYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwuwunya",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwuwunya",
+                "start": 0,
+                "url": "https://t.co/doW5Y72po4"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "is_identity_verified": true,
+        "location": "斯捷普诺戈尔斯克",
+        "most_recent_tweet_id": "2106644539532550188",
+        "name": "晨雾雾",
+        "pinned_tweet_id": "2055601650929434718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642270015851474944/1774740870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104215059241320448/TAi4VvLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1732,
+          "following_count": 325,
+          "like_count": 1366,
+          "listed_count": 5,
+          "media_count": 301,
+          "tweet_count": 2506
+        },
+        "url": "https://t.co/doW5Y72po4",
+        "username": "NyaMist5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-06-04T14:46:18.000Z",
+        "description": "",
+        "id": "871377576018587648",
+        "is_identity_verified": false,
+        "location": "Hsinchu City, Taiwan",
+        "most_recent_tweet_id": "2106490120341979164",
+        "name": "鄭宗瑋",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/871377576018587648/1675201366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703145563678769152/NYKASF-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 68,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 448
+        },
+        "url": "",
+        "username": "pupss50548",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-29T12:16:32.000Z",
+        "description": "190cm｜80kg｜AI Infra engineer ｜BBW｜三坑丨纯天然｜ENFP｜有个人内容也有转载内容｜觉得有侵犯到可以私我❤️｜照骗请勿传到墙内丨盗图替我挡灾🔥 ｜ 严格遵守X规则",
+        "id": "1740708319336263680",
+        "is_identity_verified": false,
+        "location": "距你2.7千米",
+        "most_recent_tweet_id": "2106588331555594326",
+        "name": "可乐不是可乐(yuè)",
+        "pinned_tweet_id": "2105244483633954952",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1740708319336263680/1755303594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904510179976400896/LaUZc_l3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31961,
+          "following_count": 531,
+          "like_count": 1012,
+          "listed_count": 83,
+          "media_count": 37,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "N1coluxe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
